@@ -1,82 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abc_slice_duration_days">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d Hari yang lalu</item>
+        <item quantity="one">%d Hari yang lalu</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d min ago</item>
-        <item quantity="one">%d min ago</item>
+        <item quantity="other">%d menit yang lalu</item>
+        <item quantity="one">%d menit yang lalu</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d yr ago</item>
-        <item quantity="one">%d yr ago</item>
+        <item quantity="other">%d tahun yang lalu</item>
+        <item quantity="one">%d tahun yang lalu</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s controls added.</item>
-        <item quantity="one">%s control added.</item>
+        <item quantity="other">%s kontrol ditambahkan.</item>
+        <item quantity="one">%s kontrol ditambahkan.</item>
     </plurals>
     <plurals name="fgs_manager_footer_label">
-        <item quantity="other">%s apps are active</item>
-        <item quantity="one">%s app is active</item>
+        <item quantity="other">%s aplikasi aktif</item>
+        <item quantity="one">%s aplikasi aktif</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN. You have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN. You have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Masukkan PIN SIM. 
+Anda memiliki %d sisa percobaan.</item>
+        <item quantity="one">Masukkan PIN SIM. 
+Anda memiliki %d sisa upaya sebelum harus menghubungi operator untuk membuka kunci perangkat.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
-        <item quantity="other">Enter SIM%1$d PIN, you have %2$d remaining attempts.</item>
-        <item quantity="one">Enter SIM%1$d PIN, you have %2$d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Masukkan SIM%1$d PIN, Anda memiliki %2$d sisa upaya.</item>
+        <item quantity="one">Masukkan SIM%1$d PIN, Anda memiliki %2$d sisa upaya sebelum Anda harus menghubungi operator untuk membuka kunci perangkat Anda.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">SIM sekarang dinonaktifkan. 
+Masukkan kode PUK untuk melanjutkan. 
+Anda memiliki %d sisa percobaan sebelum SIM tidak dapat digunakan secara permanen. 
+Hubungi operator untuk rinciannya.</item>
+        <item quantity="one">SIM sekarang dinonaktifkan. 
+Masukkan kode PUK untuk melanjutkan. 
+Anda memiliki %d sisa upaya sebelum SIM tidak dapat digunakan secara permanen. 
+Hubungi operator untuk rinciannya.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Kode PIN SIM salah, Anda memiliki %d sisa upaya.</item>
+        <item quantity="one">Kode PIN SIM salah, Anda memiliki %d sisa upaya sebelum harus menghubungi operator untuk membuka kunci perangkat.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
-        <item quantity="other">Incorrect SIM%1$d PIN code, you have %2$d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM%1$d PIN code, you have %2$d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Kode PIN SIM%1$d salah, Anda memiliki %2$d sisa upaya.</item>
+        <item quantity="one">Kode PIN SIM%1$d salah, Anda memiliki %2$d sisa upaya sebelum harus menghubungi operator untuk membuka kunci perangkat.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Kode PUK SIM salah, Anda memiliki %d sisa upaya sebelum SIM tidak dapat digunakan secara permanen.</item>
+        <item quantity="one">Kode PUK SIM salah, Anda memiliki %d sisa upaya sebelum SIM tidak dapat digunakan secara permanen.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d notifkasi baru</item>
+        <item quantity="one">%d notifikasi baru</item>
     </plurals>
     <plurals name="mz_fp_management_count">
-        <item quantity="other">%1$d fingerprint(s) captured</item>
-        <item quantity="one">%1$d fingerprint(s) captured</item>
+        <item quantity="other">%1$d sidik jari(s) terekam</item>
+        <item quantity="one">%1$d sidik jari(s) terekam</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
-        <item quantity="other">%s more notifications inside.</item>
-        <item quantity="one">%s more notification inside.</item>
+        <item quantity="other">%s lebih banyak notifikasi di dalam.</item>
+        <item quantity="one">%s lebih banyak notikasi di dalam.</item>
     </plurals>
     <plurals name="quick_settings_bluetooth_secondary_label_num_devices">
         <item quantity="other">Bluetooth %d</item>
         <item quantity="one">Bluetooth %d</item>
     </plurals>
     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">%d devices</item>
-        <item quantity="one">%d device</item>
+        <item quantity="other">%d perangkat</item>
+        <item quantity="one">%d perangkat</item>
     </plurals>
     <plurals name="snoozeHourOptions">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
-        <item quantity="two">%d hours</item>
-        <item quantity="few">%d hours</item>
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+        <item quantity="two">%d jam</item>
+        <item quantity="few">%d jam</item>
     </plurals>
     <plurals name="snoozeMinuteOptions">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
-        <item quantity="few">%d minutes</item>
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+        <item quantity="few">%d menit</item>
     </plurals>
     <plurals name="user_limit_reached_message">
-        <item quantity="other">You can add up to %d users.</item>
-        <item quantity="one">Only one user can be created.</item>
+        <item quantity="other">Anda dapat menambahkan hingga %d pengguna.</item>
+        <item quantity="one">Hanya satu pengguna yang dapat dibuat.</item>
     </plurals>
 </resources>
