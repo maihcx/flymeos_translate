@@ -276,9 +276,9 @@
     <string name="layout_is_locked">Layout terkunci</string>
     <string name="layout_lock">Kunci tata letak</string>
     <string name="local_colors_extraction_class" />
-    <string name="long_accessible_way_to_add">Ketuk ganda & tahan untuk memindahkan widget atau gunakan tindakan kustom.</string>
-    <string name="long_accessible_way_to_add_shortcut">Ketuk ganda & tahan untuk memindahkan pintasan atau gunakan tindakan kustom.</string>
-    <string name="long_press_shortcut_to_add">Ketuk & tahan untuk memindahkan pintasan.</string>
+    <string name="long_accessible_way_to_add">Ketuk ganda &amp; tahan untuk memindahkan widget atau gunakan tindakan kustom.</string>
+    <string name="long_accessible_way_to_add_shortcut">Ketuk ganda &amp; tahan untuk memindahkan pintasan atau gunakan tindakan kustom.</string>
+    <string name="long_press_shortcut_to_add">Ketuk &amp; tahan untuk memindahkan pintasan.</string>
     <string name="long_press_widget_to_add">Tekan lama widget untuk menambahkannya</string>
     <string name="market_search_intent">market://search?c=apps</string>
     <string name="material_clock_display_divider">:</string>
