@@ -675,7 +675,7 @@ Chỉ cần đặt các thiết bị lại với nhau (thường là mặt sau v
     <string name="drive_mode_tips">Nhắc nhở bằng bản ghi âm khi có cuộc gọi hoặc SMS đến</string>
     <string name="drive_mode_title">Chế độ lái xe</string>
     <string name="dtmf_tone_enable_title">Âm bàn phím</string>
-    <string name="dual_sim_network_settings_title">SIM và mạng</string>
+    <string name="dual_sim_network_settings_title">SIM &amp; mạng</string>
     <string name="earpod_adjust">Hiệu chỉnh điều khiển tai nghe</string>
     <string name="empty_networks_list">Không có mạng</string>
     <string name="enable_5g_settings_title">Bật 5G</string>
