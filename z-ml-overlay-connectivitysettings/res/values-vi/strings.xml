@@ -675,7 +675,7 @@ Chỉ cần đặt các thiết bị lại với nhau (thường là mặt sau v
     <string name="drive_mode_tips">Nhắc nhở bằng bản ghi âm khi có cuộc gọi hoặc SMS đến</string>
     <string name="drive_mode_title">Chế độ lái xe</string>
     <string name="dtmf_tone_enable_title">Âm bàn phím</string>
-    <string name="dual_sim_network_settings_title">SIM và mạng</string>
+    <string name="dual_sim_network_settings_title">SIM &amp; mạng</string>
     <string name="earpod_adjust">Hiệu chỉnh điều khiển tai nghe</string>
     <string name="empty_networks_list">Không có mạng</string>
     <string name="enable_5g_settings_title">Bật 5G</string>
@@ -1709,10 +1709,6 @@ Nếu kết nối được thiết lập giữa hai điện thoại Meizu, bạn
     <string name="str_save">lưu</string>
     <string name="strict_mode">Chế độ nghiêm ngặt được bật</string>
     <string name="strict_mode_summary">Nhấp nháy màn hình khi ứng dụng thực hiện các thao tác dài trên luồng chính</string>
-    <string name="sudFontSecondary">google-sans</string>
-    <string name="sudFontSecondaryMedium">google-sans-medium</string>
-    <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
-    <string name="sudFontSecondaryText">google-sans-text</string>
     <string name="sud_back_button_label">Quay lại</string>
     <string name="sud_more_button_label">Thêm</string>
     <string name="sud_next_button_label">Tiếp theo</string>
@@ -2305,7 +2301,6 @@ Bất kỳ người dùng nào cũng có thể cập nhật ứng dụng cho t�
     <string name="wifi_tether_configure_ap_text">Thiết lập điểm phát sóng</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">%1$s Điểm phát sóng WLAN di động %2$s</string>
-    <string name="wifi_tether_connected_summary">{count, plural, =0 {0 thiết bị được kết nối} =1 {1 thiết bị được kết nối} other {# thiết bị được kết nối} }</string>
     <string name="wifi_tether_disconnect_btn_txt">Ngắt kết nối</string>
     <string name="wifi_tether_disconnect_device">Chặn thiết bị</string>
     <string name="wifi_tether_disconnect_device_message">Chặn thiết bị sau không kết nối với điểm phát sóng của tôi: %1$s</string>
