@@ -1819,10 +1819,6 @@
     <public type="string" name="str_save" id="0x7f1206c9" />
     <public type="string" name="strict_mode" id="0x7f1206ca" />
     <public type="string" name="strict_mode_summary" id="0x7f1206cb" />
-    <public type="string" name="sudFontSecondary" id="0x7f1206cc" />
-    <public type="string" name="sudFontSecondaryMedium" id="0x7f1206cd" />
-    <public type="string" name="sudFontSecondaryMediumMaterialYou" id="0x7f1206ce" />
-    <public type="string" name="sudFontSecondaryText" id="0x7f1206cf" />
     <public type="string" name="sud_back_button_label" id="0x7f1206d0" />
     <public type="string" name="sud_more_button_label" id="0x7f1206d1" />
     <public type="string" name="sud_next_button_label" id="0x7f1206d2" />
@@ -2408,7 +2404,6 @@
     <public type="string" name="wifi_tether_configure_ap_text" id="0x7f120918" />
     <public type="string" name="wifi_tether_configure_ssid_default" id="0x7f120919" />
     <public type="string" name="wifi_tether_configure_subtext" id="0x7f12091a" />
-    <public type="string" name="wifi_tether_connected_summary" id="0x7f12091b" />
     <public type="string" name="wifi_tether_disconnect_btn_txt" id="0x7f12091c" />
     <public type="string" name="wifi_tether_disconnect_device" id="0x7f12091d" />
     <public type="string" name="wifi_tether_disconnect_device_message" id="0x7f12091e" />
