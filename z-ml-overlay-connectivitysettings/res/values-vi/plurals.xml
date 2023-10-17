@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái thường.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái thường.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự không phải chữ cái.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự không phải chữ cái.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ số.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ số.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký hiệu đặc biệt.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký hiệu đặc biệt.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái viết hoa.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái viết hoa.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d ứng dụng cung cấp điều kiện</item>
+        <item quantity="one">%d ứng dụng cung cấp điều kiện</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
+        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">%1$d dấu vân tay đã đăng ký</item>
+        <item quantity="one">%1$d dấu vân tay đã đăng ký</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Bạn hiện cách trở thành nhà phát triển %1$d bước.</item>
+        <item quantity="one">Bạn hiện cách trở thành nhà phát triển %1$d bước.</item>
+    </plurals>
+    <plurals name="tether_manage_device_summary">
+        <item quantity="other">%d thiết bị được kết nối</item>
+        <item quantity="zero">%d thiết bị được kết nối</item>
+        <item quantity="one">%d thiết bị được kết nối</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Mã PIN SIM sai, bạn còn %1$d lần thử</item>
+        <item quantity="one">Mã PIN SIM sai, bạn còn %1$d lần thử trước khi cần liên hệ với nhà mạng của mình để mở khóa điện thoại</item>
+    </plurals>
+</resources>

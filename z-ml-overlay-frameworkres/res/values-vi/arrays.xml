@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Công việc</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Công việc</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Nhà riêng</item>
+        <item>Di động</item>
+        <item>Công việc</item>
+        <item>Fax công việc</item>
+        <item>Fax nhà riêng</item>
+        <item>Thiết bị liên lạc</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Công việc</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="config_autoTimeSourcesPriority">
+        <item>mạng</item>
+        <item>di động</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>khẩn cấp</item>
+        <item>khóa máy</item>
+        <item>nguồn</item>
+        <item>khởi động lại</item>
+        <item>đăng xuất</item>
+        <item>chụp màn hình</item>
+        <item>báo cáo lỗi</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>chờ đặt ngón tay xuống</item>
+        <item>đặt ngón tay xuống</item>
+        <item>nhấc ngón tay lên</item>
+        <item>hết thời gian đặt ngón tay xuống</item>
+        <item>vui lòng điều chỉnh ngón tay của bạn</item>
+        <item>vui lòng đặt ngón tay chưa đăng ký</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Công việc</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Dữ liệu di động</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Để thực hiện cuộc gọi và gửi tin nhắn qua Wi-Fi, trước tiên hãy yêu cầu nhà mạng của bạn thiết lập dịch vụ này. Sau đó, bật lại cuộc gọi Wi-Fi từ Cài đặt. (Mã lỗi: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Có sự cố khi đăng ký cuộc gọi Wi-Fi với nhà mạng của bạn: %1$s</item>
+    </string-array>
+    <string-array name="always_show_plmn_operators">
+        <item>CMCC</item>
+        <item>China Mobiles</item>
+        <item>CU</item>
+        <item>China Unicom</item>
+        <item>UNICOM HK</item>
+        <item>CT</item>
+        <item>China Telecom</item>
+        <item>中国电信</item>
+        <item>CHN-UNICOM</item>
+        <item>CHN-CT</item>
+        <item>CHINA MOBILE</item>
+    </string-array>
+    <string-array name="calendar_week_title">
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+    <string-array name="smartbar_bottom_height">
+        <item>Đóng</item>
+        <item>Trung bình</item>
+        <item>Thu nhỏ</item>
+    </string-array>
+    <string-array name="system_ringtone_name_list1">
+        <item>Đam mê vô hạn</item>
+        <item>"Flyme Lang Lang's piano version"</item>
+        <item>Chờ đợi</item>
+        <item>Đàn piano</item>
+        <item>Kỹ thuật số</item>
+        <item>Flyme</item>
+        <item>Hộp nhạc</item>
+        <item>Công nghệ/Khoa học</item>
+        <item>Đàn ghi-ta</item>
+        <item>Marimba</item>
+        <item>Nghịch ngợm</item>
+        <item>Pha lê</item>
+        <item>Tiến độ</item>
+        <item>Những chú mèo con</item>
+        <item>Bài hát buổi sáng</item>
+        <item>Tiếng gọi tình yêu</item>
+        <item>Cốc xoay</item>
+        <item>Hành trình bắt đầu</item>
+        <item>Cuộc sống mới</item>
+        <item>Nhịp tim</item>
+        <item>Ký ức phố Đông</item>
+        <item>Điệu valse</item>
+        <item>Ca sĩ</item>
+        <item>Đam mê</item>
+        <item>Hành trình</item>
+        <item>Trò chơi</item>
+        <item>Mưa nhảy</item>
+        <item>Điệu nhảy hoàng hôn</item>
+        <item>Trước bình minh</item>
+        <item>Nhà</item>
+        <item>Nhạc blues</item>
+        <item>Nhịp điệu</item>
+        <item>Nhạc chuông cơ học</item>
+        <item>Điện thoại</item>
+        <item>Máy bíp</item>
+        <item>Sau giờ học</item>
+        <item>Mario</item>
+        <item>Ngủ ngon</item>
+        <item>Vút bay</item>
+        <item>Tuổi thơ</item>
+        <item>Chạy bộ buổi sáng</item>
+        <item>Người yêu</item>
+        <item>Gọi màn</item>
+        <item>Chuông</item>
+        <item>Celesta</item>
+        <item>Chiến thắng</item>
+        <item>Nhắc nhở</item>
+        <item>Chuông cửa</item>
+        <item>Thăng chức</item>
+        <item>Pha lê nhỏ</item>
+        <item>Đến</item>
+        <item>Thông minh hơn</item>
+        <item>Linh hoạt</item>
+        <item>Nút bần rượu vang đỏ</item>
+        <item>Nhấn</item>
+        <item>Giọt nước</item>
+        <item>Liên kết</item>
+        <item>Quay</item>
+        <item>Quà tặng</item>
+        <item>Cú đánh</item>
+        <item>Trong sáng</item>
+        <item>Đánh đập</item>
+        <item>Nghịch ngợm</item>
+        <item>Sô cô la</item>
+        <item>Mật khẩu</item>
+        <item>Góc</item>
+        <item>Đế chế</item>
+        <item>Nhảy</item>
+        <item>Laputa</item>
+        <item>Thiên thạch</item>
+        <item>Gợn sóng</item>
+        <item>Tỏa sáng</item>
+        <item>Đêm yên tĩnh</item>
+        <item>Ngôi sao phương bắc</item>
+        <item>Cỗ máy thời gian</item>
+        <item>Tỉnh dậy</item>
+        <item>Phiên bản thư giãn của Awake</item>
+        <item>Ánh sáng nổi</item>
+        <item>Phiên bản thư giãn của Ánh sáng nổi</item>
+    </string-array>
+    <string-array name="urlspan_date_dialog_title">
+        <item>Sự kiện mới</item>
+        <item>Mở trong Lịch</item>
+        <item>Sao chép</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>Gửi email</item>
+        <item>Sao chép</item>
+        <item>Thêm vào danh bạ</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>Mở</item>
+        <item>Sao chép</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>Mở</item>
+        <item>Sao chép</item>
+        <item>Thêm vào dấu trang</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>Gọi số</item>
+        <item>Gửi tin nhắn</item>
+        <item>Sao chép</item>
+        <item>Thêm vào danh bạ</item>
+    </string-array>
+</resources>
