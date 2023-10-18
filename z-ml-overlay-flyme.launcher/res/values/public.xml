@@ -100,7 +100,6 @@
     <public type="string" name="allset_navigation_settings" id="0x7f10005c" />
     <public type="string" name="allset_title" id="0x7f10005d" />
     <public type="string" name="alwaysUse" id="0x7f10005e" />
-    <public type="string" name="androidx_startup" id="0x7f10005f" />
     <public type="string" name="app_cancel_install" id="0x7f100060" />
     <public type="string" name="app_download_failed" id="0x7f100061" />
     <public type="string" name="app_download_paused" id="0x7f100062" />
@@ -111,7 +110,6 @@
     <public type="string" name="app_info_drop_target_label" id="0x7f100067" />
     <public type="string" name="app_installing" id="0x7f100068" />
     <public type="string" name="app_installing_title" id="0x7f100069" />
-    <public type="string" name="app_name" id="0x7f10006b" />
     <public type="string" name="app_option" id="0x7f10006c" />
     <public type="string" name="app_waiting_download_title" id="0x7f10006d" />
     <public type="string" name="assistant_gesture_feedback_swipe_not_diagonal" id="0x7f10006f" />
@@ -133,13 +131,10 @@
     <public type="string" name="back_gesture_tutorial_confirm_subtitle" id="0x7f10007f" />
     <public type="string" name="blocked_by_policy" id="0x7f100080" />
     <public type="string" name="bottomsheet_action_expand_halfway" id="0x7f100082" />
-    <public type="string" name="cache_db_name" id="0x7f100083" />
-    <public type="string" name="calendar_component_name" id="0x7f100084" />
     <public type="string" name="can_not_move_to_target_screen_explain" id="0x7f100085" />
     <public type="string" name="cancel_action" id="0x7f100086" />
     <public type="string" name="character_counter_content_description" id="0x7f100087" />
     <public type="string" name="character_counter_overflowed_content_description" id="0x7f100088" />
-    <public type="string" name="character_counter_pattern" id="0x7f100089" />
     <public type="string" name="chip_text" id="0x7f10008a" />
     <public type="string" name="clear_text_end_icon_content_description" id="0x7f10008b" />
     <public type="string" name="cloned" id="0x7f10008d" />
@@ -152,7 +147,6 @@
     <public type="string" name="create_folder_button" id="0x7f100094" />
     <public type="string" name="create_folder_with" id="0x7f100095" />
     <public type="string" name="date_time_set" id="0x7f100097" />
-    <public type="string" name="default_sans_serif" id="0x7f100098" />
     <public type="string" name="default_scroll_format" id="0x7f100099" />
     <public type="string" name="derived_app_name" id="0x7f10009b" />
     <public type="string" name="developer_options_filter_hint" id="0x7f10009c" />
@@ -163,7 +157,6 @@
     <public type="string" name="dialog_update_title" id="0x7f1000a1" />
     <public type="string" name="disabled_app_label" id="0x7f1000a2" />
     <public type="string" name="dismiss_prediction_label" id="0x7f1000a3" />
-    <public type="string" name="dotted_app_label" id="0x7f1000a4" />
     <public type="string" name="double_tap_off_screen_desc" id="0x7f1000a5" />
     <public type="string" name="double_tap_off_screen_title" id="0x7f1000a6" />
     <public type="string" name="easy_contact_dial_add" id="0x7f1000a7" />
@@ -347,7 +340,6 @@
     <public type="string" name="mc_pattern_a_minute_before" id="0x7f10017c" />
     <public type="string" name="mc_pattern_hour_before" id="0x7f10017d" />
     <public type="string" name="mc_pattern_today" id="0x7f100184" />
-    <public type="string" name="mc_pattern_week" id="0x7f100185" />
     <public type="string" name="mc_pattern_yesterday" id="0x7f10018e" />
     <public type="string" name="mc_permission_apply" id="0x7f10018f" />
     <public type="string" name="mc_permission_message_content" id="0x7f100190" />
@@ -416,7 +408,6 @@
     <public type="string" name="mtrl_badge_numberless_content_description" id="0x7f1001d5" />
     <public type="string" name="mtrl_chip_close_icon_content_description" id="0x7f1001d6" />
     <public type="string" name="mtrl_exceed_max_badge_number_content_description" id="0x7f1001d7" />
-    <public type="string" name="mtrl_exceed_max_badge_number_suffix" id="0x7f1001d8" />
     <public type="string" name="mtrl_picker_a11y_next_month" id="0x7f1001d9" />
     <public type="string" name="mtrl_picker_a11y_prev_month" id="0x7f1001da" />
     <public type="string" name="mtrl_picker_announce_current_selection" id="0x7f1001db" />
@@ -433,16 +424,12 @@
     <public type="string" name="mtrl_picker_out_of_range" id="0x7f1001e7" />
     <public type="string" name="mtrl_picker_range_header_only_end_selected" id="0x7f1001e8" />
     <public type="string" name="mtrl_picker_range_header_only_start_selected" id="0x7f1001e9" />
-    <public type="string" name="mtrl_picker_range_header_selected" id="0x7f1001ea" />
     <public type="string" name="mtrl_picker_range_header_title" id="0x7f1001eb" />
     <public type="string" name="mtrl_picker_range_header_unselected" id="0x7f1001ec" />
     <public type="string" name="mtrl_picker_save" id="0x7f1001ed" />
     <public type="string" name="mtrl_picker_text_input_date_hint" id="0x7f1001ee" />
     <public type="string" name="mtrl_picker_text_input_date_range_end_hint" id="0x7f1001ef" />
     <public type="string" name="mtrl_picker_text_input_date_range_start_hint" id="0x7f1001f0" />
-    <public type="string" name="mtrl_picker_text_input_day_abbr" id="0x7f1001f1" />
-    <public type="string" name="mtrl_picker_text_input_month_abbr" id="0x7f1001f2" />
-    <public type="string" name="mtrl_picker_text_input_year_abbr" id="0x7f1001f3" />
     <public type="string" name="mtrl_picker_toggle_to_calendar_input_mode" id="0x7f1001f4" />
     <public type="string" name="mtrl_picker_toggle_to_day_selection" id="0x7f1001f5" />
     <public type="string" name="mtrl_picker_toggle_to_text_input_mode" id="0x7f1001f6" />
@@ -533,7 +520,6 @@
     <public type="string" name="notification_pull_down_option_notification" id="0x7f100252" />
     <public type="string" name="notifications_header" id="0x7f100253" />
     <public type="string" name="out_of_space" id="0x7f100254" />
-    <public type="string" name="overscroll_plugin_factory_class" id="0x7f100255" />
     <public type="string" name="overview_gesture_feedback_complete_with_follow_up" id="0x7f100256" />
     <public type="string" name="overview_gesture_feedback_complete_without_follow_up" id="0x7f100257" />
     <public type="string" name="overview_gesture_feedback_home_detected" id="0x7f100258" />
@@ -589,7 +575,6 @@
     <public type="string" name="search_menu_title" id="0x7f10028e" />
     <public type="string" name="search_pref_screen_title" id="0x7f10028f" />
     <public type="string" name="search_pref_screen_title_tablet" id="0x7f100290" />
-    <public type="string" name="search_session_manager_class" id="0x7f100291" />
     <public type="string" name="search_switch" id="0x7f100292" />
     <public type="string" name="search_switch_explain" id="0x7f100293" />
     <public type="string" name="settings_button_text" id="0x7f100294" />
@@ -605,7 +590,6 @@
     <public type="string" name="split_screen_position_top" id="0x7f1002a0" />
     <public type="string" name="status_bar_notification_info_overflow" id="0x7f1002a2" />
     <public type="string" name="styles_wallpaper_button_text" id="0x7f1002a3" />
-    <public type="string" name="summary_collapsed_preference_list" id="0x7f1002a4" />
     <public type="string" name="sure" id="0x7f1002a5" />
     <public type="string" name="swipe_again" id="0x7f1002a6" />
     <public type="string" name="sys_shortcut_add_widget" id="0x7f1002a7" />
@@ -660,20 +644,16 @@
     <public type="string" name="v7_preference_off" id="0x7f1002d9" />
     <public type="string" name="v7_preference_on" id="0x7f1002da" />
     <public type="string" name="wallpaper_button_text" id="0x7f1002db" />
-    <public type="string" name="wallpaper_picker_package" id="0x7f1002dc" />
-    <public type="string" name="wellbeing_provider_pkg" id="0x7f1002dd" />
     <public type="string" name="widget_accessible_dims_format" id="0x7f1002de" />
     <public type="string" name="widget_add_tips" id="0x7f1002df" />
     <public type="string" name="widget_button_text" id="0x7f1002e0" />
     <public type="string" name="widget_category_conversations" id="0x7f1002e1" />
-    <public type="string" name="widget_dims_format" id="0x7f1002e2" />
     <public type="string" name="widget_education_close_button" id="0x7f1002e3" />
     <public type="string" name="widget_education_content" id="0x7f1002e4" />
     <public type="string" name="widget_education_header" id="0x7f1002e5" />
     <public type="string" name="widget_preview_context_description" id="0x7f1002e6" />
     <public type="string" name="widget_reconfigure_button_content_description" id="0x7f1002e7" />
     <public type="string" name="widget_resized" id="0x7f1002e8" />
-    <public type="string" name="widgets_and_shortcuts_count" id="0x7f1002e9" />
     <public type="string" name="widgets_full_sheet_cancel_button_description" id="0x7f1002eb" />
     <public type="string" name="widgets_full_sheet_personal_tab" id="0x7f1002ec" />
     <public type="string" name="widgets_full_sheet_search_bar_hint" id="0x7f1002ed" />
