@@ -15,7 +15,7 @@
     <string name="search_go">Tìm kiếm</string>
     <string name="selectAll">Chọn tất cả</string>
     <string name="unknownName">Không xác định</string>
-    <string name="untitled">&lt;Untitled></string>
+    <string name="untitled">&lt;Không có tiêu đề></string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Không thể phát video này.</string>
     <string name="VideoView_error_title">Vấn đề video</string>
@@ -363,7 +363,6 @@ Bạn có thể thay đổi phím tắt này thành tính năng khác trong Cài
     <string name="autofill_phone_suffix_separator_re">^-$</string>
     <string name="autofill_picker_accessibility_title">Tùy chọn tự động điền</string>
     <string name="autofill_picker_no_suggestions">Không có gợi ý tự động điền</string>
-    <string name="autofill_picker_some_suggestions">{count, plural, =1 {One autofill suggestion} other {# autofill suggestions} }</string>
     <string name="autofill_postal_code">Mã bưu chính</string>
     <string name="autofill_prefecture">Quận</string>
     <string name="autofill_province">Tỉnh</string>
@@ -422,7 +421,6 @@ Bạn có thể thay đổi phím tắt này thành tính năng khác trong Cài
     <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_a2dp_audio_route_name">Âm thanh Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth sẽ bật trong chế độ máy bay</string>
-    <string name="bugreport_countdown">Đang chụp ảnh màn hình cho báo cáo lỗi sau # giây.</string>
     <string name="bugreport_message">Điều này sẽ thu thập thông tin về trạng thái thiết bị hiện tại của bạn, để gửi dưới dạng thư email. Sẽ mất một chút thời gian từ khi bắt đầu báo cáo lỗi cho đến khi báo cáo sẵn sàng để gửi; vui lòng kiên nhẫn.</string>
     <string name="bugreport_option_full_summary">Sử dụng tùy chọn này để giảm thiểu sự can thiệp của hệ thống khi thiết bị của bạn không phản hồi hoặc quá chậm, hoặc khi bạn cần tất cả các phần báo cáo. Không cho phép bạn nhập thêm chi tiết hoặc chụp ảnh màn hình bổ sung.</string>
     <string name="bugreport_option_full_title">Báo cáo đầy đủ</string>
@@ -480,9 +478,6 @@ Bạn có thể thay đổi phím tắt này thành tính năng khác trong Cài
     <string name="color_inversion_feature_name">Đảo màu</string>
     <string name="common_last_name_prefixes" />
     <string name="common_name">Tên thông dụng:</string>
-    <string name="common_name_conjunctions" />
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
     <string name="condition_provider_service_binding_label">Nhà cung cấp điều kiện</string>
     <string name="conference_call">Cuộc gọi hội nghị</string>
     <string name="confirm_battery_saver">OK</string>
@@ -546,10 +541,7 @@ sử dụng %s</string>
     <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Tai nghe</string>
     <string name="default_audio_route_name_usb">USB</string>
-    <string name="default_browser" />
     <string name="default_notification_channel_label">Không phân loại</string>
-    <string name="default_sms_application">com.android.messaging</string>
-    <string name="default_wallpaper_component">@null</string>
     <string name="delete">Xóa</string>
     <string name="deleteText">Xóa</string>
     <string name="deleted_key">%1$s đã bị xóa</string>
@@ -582,29 +574,15 @@ sử dụng %s</string>
     <string name="dump_heap_system_text">Tiến trình %1$s đã vượt quá giới hạn bộ nhớ %2$s của nó. Nhật ký bộ nhớ đã sẵn sàng để bạn chia sẻ. Hãy cẩn thận: Nhật ký bộ nhớ này có thể chứa bất kỳ thông tin cá nhân nhạy cảm nào mà tiến trình có quyền truy cập, bao gồm những thứ bạn đã nhập.</string>
     <string name="dump_heap_text">Tiến trình %1$s đã vượt quá giới hạn bộ nhớ %2$s của nó. Nhật ký bộ nhớ đã sẵn sàng để bạn chia sẻ với nhà phát triển của nó. Hãy cẩn thận: Nhật ký bộ nhớ này có thể chứa bất kỳ thông tin cá nhân nào của bạn mà ứng dụng có quyền truy cập.</string>
     <string name="dump_heap_title">Chia sẻ nhật ký bộ nhớ?</string>
-    <string name="duration_days_relative">{count, plural, =1 {# ngày trước} other {# ngày trước} }</string>
-    <string name="duration_days_relative_future">{count, plural, =1 {# ngày} other {# ngày} }</string>
-    <string name="duration_days_shortest">%dd</string>
     <string name="duration_days_shortest_future">trong %dd</string>
-    <string name="duration_hours_relative">{count, plural, =1 {# giờ trước} other {# giờ trước} }</string>
-    <string name="duration_hours_relative_future">{count, plural, =1 {# giờ} other {# giờ} }</string>
-    <string name="duration_hours_shortest">%dh</string>
     <string name="duration_hours_shortest_future">trong %dh</string>
-    <string name="duration_minutes_relative">{count, plural, =1 {# phút trước} other {# phút trước} }</string>
-    <string name="duration_minutes_relative_future">{count, plural, =1 {# phút} other {# phút} }</string>
-    <string name="duration_minutes_shortest">%dm</string>
     <string name="duration_minutes_shortest_future">trong %dm</string>
-    <string name="duration_years_relative">{count, plural, =1 {# năm trước} other {# năm trước} }</string>
-    <string name="duration_years_relative_future">{count, plural, =1 {# năm} other {# năm} }</string>
-    <string name="duration_years_shortest">%dy</string>
     <string name="duration_years_shortest_future">trong %dy</string>
     <string name="dynamic_mode_notification_channel_name">Thông báo thông tin về chế độ thường nhật</string>
     <string name="dynamic_mode_notification_summary">Trình tiết kiệm pin được kích hoạt để kéo dài thời gian sử dụng pin</string>
     <string name="dynamic_mode_notification_title">Pin có thể hết trước khi sạc thường lệ</string>
     <string name="editTextMenuTitle">Hành động văn bản</string>
     <string name="edit_accessibility_shortcut_menu_button">Chỉnh sửa phím tắt</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="emailTypeCustom">Tùy chỉnh</string>
     <string name="emailTypeHome">Nhà</string>
     <string name="emailTypeMobile">Di động</string>
@@ -730,8 +708,6 @@ Nếu bạn có câu hỏi, hãy liên hệ với quản trị viên của tổ 
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Mã tính năng hoàn tất.</string>
     <string name="fcError">Vấn đề kết nối hoặc mã tính năng không hợp lệ.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="file_count">{count, plural, =1 {{file_name} + # file} other {{file_name} + # files} }</string>
     <string name="find">Tìm</string>
     <string name="find_next">Tìm tiếp theo</string>
     <string name="find_on_page">Tìm trên trang</string>
@@ -775,18 +751,6 @@ Nếu bạn có câu hỏi, hãy liên hệ với quản trị viên của tổ 
     <string name="fingerprints">Dấu vân tay:</string>
     <string name="floating_toolbar_close_overflow_description">Đóng tràn</string>
     <string name="floating_toolbar_open_overflow_description">Thêm tùy chọn</string>
-    <string name="font_family_body_1_material">sans-serif</string>
-    <string name="font_family_body_2_material">sans-serif-medium</string>
-    <string name="font_family_button_material">sans-serif-medium</string>
-    <string name="font_family_caption_material">sans-serif</string>
-    <string name="font_family_display_1_material">sans-serif</string>
-    <string name="font_family_display_2_material">sans-serif</string>
-    <string name="font_family_display_3_material">sans-serif</string>
-    <string name="font_family_display_4_material">sans-serif-light</string>
-    <string name="font_family_headline_material">sans-serif</string>
-    <string name="font_family_menu_material">sans-serif</string>
-    <string name="font_family_subhead_material">sans-serif</string>
-    <string name="font_family_title_material">sans-serif-medium</string>
     <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">%1$s đang sử dụng pin</string>
     <string name="foreground_service_apps_in_background">%1$d ứng dụng đang sử dụng pin</string>
@@ -869,7 +833,6 @@ Hãy thử chạm nhẹ khi thiết lập dấu vân tay của bạn."</string>
     <string name="httpErrorTimeout">Kết nối với máy chủ đã hết thời gian.</string>
     <string name="httpErrorTooManyRequests">Đang xử lý quá nhiều yêu cầu. Vui lòng thử lại sau.</string>
     <string name="httpErrorUnsupportedAuthScheme">Không hỗ trợ phương thức xác thực của trang web.</string>
-    <string name="icu_abbrev_wday_month_day_no_year">EEEMMMMd</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Tùy chỉnh</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -966,35 +929,35 @@ Vui lòng thử lại sau %3$d giây."</string>
     <string name="kg_failed_attempts_now_wiping">Bạn đã thử mở khóa điện thoại không thành công %d lần. Điện thoại bây giờ sẽ được khôi phục về cài đặt mặc định của nhà sản xuất.</string>
     <string name="kg_forgot_pattern_button_text">Quên mẫu hình</string>
     <string name="kg_invalid_confirm_pin_hint">Mã PIN không khớp</string>
-  <string name="kg_invalid_puk">Nhập lại mã PUK chính xác. Thử nhiều lần sẽ vô hiệu hóa vĩnh viễn SIM.</string>
-  <string name="kg_invalid_sim_pin_hint">Nhập mã PIN gồm 4 đến 8 chữ số.</string>
-  <string name="kg_invalid_sim_puk_hint">Mã PUK phải có 8 chữ số.</string>
-  <string name="kg_login_account_recovery_hint">"Quên tên người dùng hoặc mật khẩu?
+    <string name="kg_invalid_puk">Nhập lại mã PUK chính xác. Thử nhiều lần sẽ vô hiệu hóa vĩnh viễn SIM.</string>
+    <string name="kg_invalid_sim_pin_hint">Nhập mã PIN gồm 4 đến 8 chữ số.</string>
+    <string name="kg_invalid_sim_puk_hint">Mã PUK phải có 8 chữ số.</string>
+    <string name="kg_login_account_recovery_hint">"Quên tên người dùng hoặc mật khẩu?
 Truy cập "<b>google.com/accounts/recovery</b>."</string>
-  <string name="kg_login_checking_password">Đang kiểm tra tài khoản…</string>
-  <string name="kg_login_instructions">Để mở khóa, hãy đăng nhập bằng tài khoản Google của bạn.</string>
-  <string name="kg_login_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ.</string>
-  <string name="kg_login_password_hint">Mật khẩu</string>
-  <string name="kg_login_submit_button">Đăng nhập</string>
-  <string name="kg_login_too_many_attempts">Quá nhiều lần thử mẫu hình</string>
-  <string name="kg_login_username_hint">Tên người dùng (email)</string>
-  <string name="kg_password_instructions">Nhập mật khẩu</string>
-  <string name="kg_password_wrong_pin_code">Mã PIN không chính xác.</string>
-  <string name="kg_pattern_instructions">Vẽ mẫu hình của bạn</string>
-  <string name="kg_pin_instructions">Nhập mã PIN</string>
-  <string name="kg_puk_enter_pin_hint">Nhập mã PIN mong muốn</string>
-  <string name="kg_puk_enter_puk_hint">SIM hiện đã bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</string>
-  <string name="kg_reordering_delete_drop_target_text">Xóa</string>
-  <string name="kg_sim_pin_instructions">Nhập mã PIN SIM</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
-  <string name="kg_text_message_separator">" — "</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Bạn đã nhập sai mật khẩu %1$d lần. 
+    <string name="kg_login_checking_password">Đang kiểm tra tài khoản…</string>
+    <string name="kg_login_instructions">Để mở khóa, hãy đăng nhập bằng tài khoản Google của bạn.</string>
+    <string name="kg_login_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ.</string>
+    <string name="kg_login_password_hint">Mật khẩu</string>
+    <string name="kg_login_submit_button">Đăng nhập</string>
+    <string name="kg_login_too_many_attempts">Quá nhiều lần thử mẫu hình</string>
+    <string name="kg_login_username_hint">Tên người dùng (email)</string>
+    <string name="kg_password_instructions">Nhập mật khẩu</string>
+    <string name="kg_password_wrong_pin_code">Mã PIN không chính xác.</string>
+    <string name="kg_pattern_instructions">Vẽ mẫu hình của bạn</string>
+    <string name="kg_pin_instructions">Nhập mã PIN</string>
+    <string name="kg_puk_enter_pin_hint">Nhập mã PIN mong muốn</string>
+    <string name="kg_puk_enter_puk_hint">SIM hiện đã bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</string>
+    <string name="kg_reordering_delete_drop_target_text">Xóa</string>
+    <string name="kg_sim_pin_instructions">Nhập mã PIN SIM</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Bạn đã nhập sai mật khẩu %1$d lần. 
 
 Vui lòng thử lại sau %2$d giây."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Bạn đã vẽ nhầm mẫu hình mở khóa %1$d lần. 
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Bạn đã vẽ nhầm mẫu hình mở khóa %1$d lần. 
 
 Vui lòng thử lại sau %2$d giây."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Bạn đã nhập sai mã PIN %1$d lần. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Bạn đã nhập sai mã PIN %1$d lần. 
 
 Vui lòng thử lại sau %2$d giây."</string>
     <string name="kg_wrong_password">Mật khẩu sai</string>
@@ -1005,7 +968,6 @@ Vui lòng thử lại sau %2$d giây."</string>
     <string name="language_picker_section_suggested">Đề xuất</string>
     <string name="language_selection_title">Thêm một ngôn ngữ</string>
     <string name="last_month">Tháng trước</string>
-    <string name="last_num_days">{ count, plural, =1 {Ngày cuối cùng} other {Những ngày cuối cùng} }</string>
     <string name="launchBrowserDefault">Mở trình duyệt?</string>
     <string name="launch_warning_original">%1$s đã được mở trước đó.</string>
     <string name="launch_warning_replace">%1$s hiện đang chạy.</string>
@@ -1103,7 +1065,6 @@ Nếu bạn không cho phép ứng dụng này truy cập tất cả nhật ký 
     <string name="managed_profile_label_badge">Công việc %1$s</string>
     <string name="managed_profile_label_badge_2">Công việc thứ 2 %1$s</string>
     <string name="managed_profile_label_badge_3">Công việc thứ 3 %1$s</string>
-    <string name="matches_found">{ count, plural, =1 {# match} other {# of {total}} }</string>
     <string name="maximize_button_text">Phóng to</string>
     <string name="me">Tôi</string>
     <string name="media_route_button_content_description">Truyền</string>
@@ -1263,9 +1224,6 @@ Nếu bạn không cho phép ứng dụng này truy cập tất cả nhật ký 
     <string name="mmiErrorWhileRoaming">Không thể thay đổi cài đặt chuyển tiếp cuộc gọi từ điện thoại của bạn khi bạn đang chuyển vùng.</string>
     <string name="mmiFdnError">Hoạt động chỉ được giới hạn đối với các số quay số cố định.</string>
     <string name="mobile_no_internet">Mạng di động không có quyền truy cập internet</string>
-    <string name="mobile_provisioning_apn" />
-    <string name="mobile_provisioning_url" />
-    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
     <string name="more_item_label">Thêm</string>
     <string name="mte_override_notification_message">Hiệu suất và độ ổn định có thể bị ảnh hưởng. Khởi động lại để tắt. Nếu được bật bằng arm64.memtag.bootctl, hãy đặt nó thành none trước.</string>
     <string name="mte_override_notification_title">MTE thử nghiệm được bật</string>
@@ -1592,10 +1550,10 @@ Thông báo nâng cao có thể truy cập nội dung thông báo, bao gồm th�
     <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">Tệp</string>
     <string name="permission_request_notification_for_app_with_subtitle">Quyền được yêu cầu bởi %1$s
-    cho tài khoản %2$s.</string>
+cho tài khoản %2$s.</string>
     <string name="permission_request_notification_title">Quyền được yêu cầu</string>
     <string name="permission_request_notification_with_subtitle">Quyền được yêu cầu
-    cho tài khoản %s.</string>
+cho tài khoản %s.</string>
     <string name="permlab_acceptHandover">tiếp tục cuộc gọi từ ứng dụng khác</string>
     <string name="permlab_accessBackgroundLocation">truy cập vị trí trong nền</string>
     <string name="permlab_accessCoarseLocation">chỉ truy cập vị trí gần đúng ở tiền cảnh</string>
@@ -2010,7 +1968,6 @@ Nghe với âm lượng cao trong thời gian dài có thể làm hỏng thính 
     <string name="ssl_ca_cert_noti_by_administrator">Bởi quản trị viên hồ sơ công việc của bạn</string>
     <string name="ssl_ca_cert_noti_by_unknown">Bởi một bên thứ ba không xác định</string>
     <string name="ssl_ca_cert_noti_managed">Bởi %s</string>
-    <string name="ssl_ca_cert_warning">{count, plural, =1 {Cơ quan chứng nhận đã được cài đặt} other {Các cơ quan chứng nhận đã được cài đặt} }</string>
     <string name="ssl_certificate">Chứng chỉ bảo mật</string>
     <string name="ssl_certificate_is_valid">Chứng chỉ này hợp lệ.</string>
     <string name="status_bar_airplane">máy bay</string>
@@ -2251,14 +2208,6 @@ Bạn có muốn đóng nó không?</string>
     <string name="zen_mode_default_weekends_name">Cuối tuần</string>
     <string name="zen_mode_default_weeknights_name">Ngày thường</string>
     <string name="zen_mode_downtime_feature_name">Không làm phiền</string>
-    <string name="zen_mode_duration_hours">{count, plural, =1 {For 1 hour} other {For # hours} }</string>
-    <string name="zen_mode_duration_hours_short">{count, plural, =1 {For 1 hr} other {For # hr} }</string>
-    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {For 1 hour (until {formattedTime})} other {For # hours (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {For 1 hr (until {formattedTime})} other {For # hr (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes">{count, plural, =1 {For one minute} other {For # minutes} }</string>
-    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {For 1 min} other {For # min} }</string>
-    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {For one minute (until {formattedTime})} other {For # minutes (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {For 1 min (until {formattedTime})} other {For # min (until {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
     <string name="zen_mode_forever_dnd">Cho đến khi bạn tắt Không làm phiền</string>
