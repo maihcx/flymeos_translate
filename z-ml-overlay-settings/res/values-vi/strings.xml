@@ -43,7 +43,6 @@
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_slice_error">"Không thể kết nối"</string>
     <string name="abc_slice_more">Hơn</string>
-    <string name="abc_slice_more_content">+ %1$d</string>
     <string name="abc_slice_permission_allow">Cho phép</string>
     <string name="abc_slice_permission_deny">Từ chối</string>
     <string name="abc_slice_permission_text_1">- Nó có thể đọc thông tin từ %1$s</string>

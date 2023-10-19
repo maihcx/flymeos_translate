@@ -300,7 +300,6 @@
     <public type="string" name="abc_shareactionprovider_share_with_application" id="0x7f120028" />
     <public type="string" name="abc_slice_error" id="0x7f120029" />
     <public type="string" name="abc_slice_more" id="0x7f12002a" />
-    <public type="string" name="abc_slice_more_content" id="0x7f12002b" />
     <public type="string" name="abc_slice_permission_allow" id="0x7f12002c" />
     <public type="string" name="abc_slice_permission_deny" id="0x7f12002d" />
     <public type="string" name="abc_slice_permission_text_1" id="0x7f12002e" />
