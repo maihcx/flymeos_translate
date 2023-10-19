@@ -1677,7 +1677,7 @@ Nếu bạn cài đặt chứng chỉ CA, chủ sở hữu chứng chỉ có th�
     <string name="camera_click_sounds_enable_title">Màn trập máy ảnh</string>
     <string name="camera_double_tap_power_gesture_desc">Mở nhanh camera mà không cần mở khóa màn hình</string>
     <string name="camera_double_tap_power_gesture_title">Nhấn nút nguồn hai lần để mở máy ảnh</string>
-    <string name="camera_front">Mặt trước</string>
+    <string name="camera_front">Phía trước</string>
     <string name="camera_front_info">13MP</string>
     <string name="camera_gesture_desc">Mở ứng dụng máy ảnh bằng cách vặn cổ tay của bạn hai lần</string>
     <string name="camera_gesture_title">Vặn đôi cho máy ảnh</string>
