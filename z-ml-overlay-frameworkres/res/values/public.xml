@@ -27,47 +27,6 @@
     <public type="string" name="fingerprint_icon_content_description" id="0x7f040018" />
     <public type="string" name="paste_as_plain_text" id="0x7f040019" />
     <public type="string" name="autofill" id="0x7f04001a" />
-    <public type="string" name="config_helpPackageNameKey" id="0x7f04001b" />
-    <public type="string" name="config_helpPackageNameValue" id="0x7f04001c" />
-    <public type="string" name="config_helpIntentExtraKey" id="0x7f04001d" />
-    <public type="string" name="config_helpIntentNameKey" id="0x7f04001e" />
-    <public type="string" name="config_feedbackIntentExtraKey" id="0x7f04001f" />
-    <public type="string" name="config_feedbackIntentNameKey" id="0x7f040020" />
-    <public type="string" name="config_defaultAssistant" id="0x7f040021" />
-    <public type="string" name="config_defaultBrowser" id="0x7f040022" />
-    <public type="string" name="config_defaultDialer" id="0x7f040023" />
-    <public type="string" name="config_defaultSms" id="0x7f040024" />
-    <public type="string" name="config_defaultCallRedirection" id="0x7f040025" />
-    <public type="string" name="config_defaultCallScreening" id="0x7f040026" />
-    <public type="string" name="config_systemGallery" id="0x7f040027" />
-    <public type="string" name="config_systemAutomotiveCluster" id="0x7f040028" />
-    <public type="string" name="config_systemAutomotiveProjection" id="0x7f040029" />
-    <public type="string" name="config_systemShell" id="0x7f04002a" />
-    <public type="string" name="config_systemContacts" id="0x7f04002b" />
-    <public type="string" name="config_customMediaKeyDispatcher" id="0x7f04002c" />
-    <public type="string" name="config_customMediaSessionPolicyProvider" id="0x7f04002d" />
-    <public type="string" name="config_systemSpeechRecognizer" id="0x7f04002e" />
-    <public type="string" name="config_systemWifiCoexManager" id="0x7f04002f" />
-    <public type="string" name="config_systemWellbeing" id="0x7f040030" />
-    <public type="string" name="config_systemTelevisionNotificationHandler" id="0x7f040031" />
-    <public type="string" name="config_systemUiIntelligence" id="0x7f040032" />
-    <public type="string" name="config_systemAmbientAudioIntelligence" id="0x7f040033" />
-    <public type="string" name="config_systemAudioIntelligence" id="0x7f040034" />
-    <public type="string" name="config_systemNotificationIntelligence" id="0x7f040035" />
-    <public type="string" name="config_systemTextIntelligence" id="0x7f040036" />
-    <public type="string" name="config_systemVisualIntelligence" id="0x7f040037" />
-    <public type="string" name="config_systemActivityRecognizer" id="0x7f040038" />
-    <public type="string" name="config_systemCompanionDeviceProvider" id="0x7f040039" />
-    <public type="string" name="config_systemUi" id="0x7f04003a" />
-    <public type="string" name="config_defaultRingtoneVibrationSound" id="0x7f04003b" />
-    <public type="string" name="config_systemSupervision" id="0x7f04003c" />
-    <public type="string" name="config_devicePolicyManagement" id="0x7f04003d" />
-    <public type="string" name="config_systemAppProtectionService" id="0x7f04003e" />
-    <public type="string" name="config_systemAutomotiveCalendarSyncManager" id="0x7f04003f" />
-    <public type="string" name="config_defaultAutomotiveNavigation" id="0x7f040040" />
-    <public type="string" name="safety_protection_display_text" id="0x7f040041" />
-    <public type="string" name="config_systemSettingsIntelligence" id="0x7f040042" />
-    <public type="string" name="config_systemBluetoothStack" id="0x7f040043" />
     <public type="string" name="BaMmi" id="0x7f040044" />
     <public type="string" name="CLIRDefaultOffNextCallOff" id="0x7f040045" />
     <public type="string" name="CLIRDefaultOffNextCallOn" id="0x7f040046" />
@@ -512,210 +471,8 @@
     <public type="string" name="color_inversion_feature_name" id="0x7f0401ff" />
     <public type="string" name="common_last_name_prefixes" id="0x7f040200" />
     <public type="string" name="common_name" id="0x7f040201" />
-    <public type="string" name="common_name_conjunctions" id="0x7f040202" />
-    <public type="string" name="common_name_prefixes" id="0x7f040203" />
-    <public type="string" name="common_name_suffixes" id="0x7f040204" />
     <public type="string" name="condition_provider_service_binding_label" id="0x7f040205" />
     <public type="string" name="conference_call" id="0x7f040206" />
-    <public type="string" name="config_UsbDeviceConnectionHandling_component" id="0x7f040207" />
-    <public type="string" name="config_activityRecognitionHardwarePackageName" id="0x7f040208" />
-    <public type="string" name="config_ambientContextEventArrayExtraKey" id="0x7f040209" />
-    <public type="string" name="config_ambientContextPackageNameExtraKey" id="0x7f04020a" />
-    <public type="string" name="config_appsAuthorizedForSharedAccounts" id="0x7f04020b" />
-    <public type="string" name="config_appsNotReportingCrashes" id="0x7f04020c" />
-    <public type="string" name="config_bandwidthEstimateSource" id="0x7f04020d" />
-    <public type="string" name="config_batterySaverDeviceSpecificConfig" id="0x7f04020e" />
-    <public type="string" name="config_batterySaverScheduleProvider" id="0x7f04020f" />
-    <public type="string" name="config_batterymeterBoltPath" id="0x7f040210" />
-    <public type="string" name="config_batterymeterErrorPerimeterPath" id="0x7f040211" />
-    <public type="string" name="config_batterymeterFillMask" id="0x7f040212" />
-    <public type="string" name="config_batterymeterPerimeterPath" id="0x7f040213" />
-    <public type="string" name="config_batterymeterPowersavePath" id="0x7f040214" />
-    <public type="string" name="config_biometric_prompt_ui_package" id="0x7f040215" />
-    <public type="string" name="config_bodyFontFamily" id="0x7f040216" />
-    <public type="string" name="config_bodyFontFamilyMedium" id="0x7f040217" />
-    <public type="string" name="config_cameraLaunchGestureSensorStringType" id="0x7f040218" />
-    <public type="string" name="config_cameraLiftTriggerSensorStringType" id="0x7f040219" />
-    <public type="string" name="config_cameraShutterSound" id="0x7f04021a" />
-    <public type="string" name="config_carrierAppInstallDialogComponent" id="0x7f04021b" />
-    <public type="string" name="config_chooseAccountActivity" id="0x7f04021c" />
-    <public type="string" name="config_chooseTypeAndAccountActivity" id="0x7f04021d" />
-    <public type="string" name="config_chooserActivity" id="0x7f04021e" />
-    <public type="string" name="config_comboNetworkLocationProvider" id="0x7f04021f" />
-    <public type="string" name="config_companionDeviceManagerPackage" id="0x7f040220" />
-    <public type="string" name="config_controlsPackage" id="0x7f040221" />
-    <public type="string" name="config_customAdbPublicKeyConfirmationComponent" id="0x7f040222" />
-    <public type="string" name="config_customAdbPublicKeyConfirmationSecondaryUserComponent" id="0x7f040223" />
-    <public type="string" name="config_customAdbWifiNetworkConfirmationComponent" id="0x7f040224" />
-    <public type="string" name="config_customAdbWifiNetworkConfirmationSecondaryUserComponent" id="0x7f040225" />
-    <public type="string" name="config_customCountryDetector" id="0x7f040226" />
-    <public type="string" name="config_customResolverActivity" id="0x7f040227" />
-    <public type="string" name="config_customVpnAlwaysOnDisconnectedDialogComponent" id="0x7f040228" />
-    <public type="string" name="config_customVpnConfirmDialogComponent" id="0x7f040229" />
-    <public type="string" name="config_dataUsageSummaryComponent" id="0x7f04022a" />
-    <public type="string" name="config_datause_iface" id="0x7f04022b" />
-    <public type="string" name="config_defaultAccessibilityService" id="0x7f04022c" />
-    <public type="string" name="config_defaultAmbientContextConsentComponent" id="0x7f04022d" />
-    <public type="string" name="config_defaultAmbientContextDetectionService" id="0x7f04022e" />
-    <public type="string" name="config_defaultAppPredictionService" id="0x7f04022f" />
-    <public type="string" name="config_defaultAssistantAccessComponent" id="0x7f040230" />
-    <public type="string" name="config_defaultAttentionService" id="0x7f040231" />
-    <public type="string" name="config_defaultAugmentedAutofillService" id="0x7f040232" />
-    <public type="string" name="config_defaultAutofillService" id="0x7f040233" />
-    <public type="string" name="config_defaultBugReportHandlerApp" id="0x7f040234" />
-    <public type="string" name="config_defaultCaptivePortalLoginPackageName" id="0x7f040235" />
-    <public type="string" name="config_defaultContentCaptureService" id="0x7f040236" />
-    <public type="string" name="config_defaultContentSuggestionsService" id="0x7f040237" />
-    <public type="string" name="config_defaultDndAccessPackages" id="0x7f040238" />
-    <public type="string" name="config_defaultListenerAccessPackages" id="0x7f040239" />
-    <public type="string" name="config_defaultModuleMetadataProvider" id="0x7f04023a" />
-    <public type="string" name="config_defaultMusicRecognitionService" id="0x7f04023b" />
-    <public type="string" name="config_defaultNearbyFastPairSettingsDevicesComponent" id="0x7f04023c" />
-    <public type="string" name="config_defaultNearbySharingComponent" id="0x7f04023d" />
-    <public type="string" name="config_defaultNearbySharingSliceUri" id="0x7f04023e" />
-    <public type="string" name="config_defaultNetworkRecommendationProviderPackage" id="0x7f04023f" />
-    <public type="string" name="config_defaultNetworkScorerPackageName" id="0x7f040240" />
-    <public type="string" name="config_defaultOnDeviceSpeechRecognitionService" id="0x7f040241" />
-    <public type="string" name="config_defaultProfcollectReportUploaderAction" id="0x7f040242" />
-    <public type="string" name="config_defaultProfcollectReportUploaderApp" id="0x7f040243" />
-    <public type="string" name="config_defaultQrCodeComponent" id="0x7f040244" />
-    <public type="string" name="config_defaultRotationResolverService" id="0x7f040245" />
-    <public type="string" name="config_defaultSearchSelectorPackageName" id="0x7f040246" />
-    <public type="string" name="config_defaultSearchUiService" id="0x7f040247" />
-    <public type="string" name="config_defaultSmartspaceService" id="0x7f040248" />
-    <public type="string" name="config_defaultSupervisionProfileOwnerComponent" id="0x7f040249" />
-    <public type="string" name="config_defaultSystemCaptionsManagerService" id="0x7f04024a" />
-    <public type="string" name="config_defaultTextClassifierPackage" id="0x7f04024b" />
-    <public type="string" name="config_defaultTranslationService" id="0x7f04024c" />
-    <public type="string" name="config_defaultTrustAgent" id="0x7f04024d" />
-    <public type="string" name="config_defaultWallpaperEffectsGenerationService" id="0x7f04024e" />
-    <public type="string" name="config_defaultWellbeingPackage" id="0x7f04024f" />
-    <public type="string" name="config_default_dns_server" id="0x7f040250" />
-    <public type="string" name="config_deviceConfiguratorPackageName" id="0x7f040251" />
-    <public type="string" name="config_devicePolicyManagementUpdater" id="0x7f040252" />
-    <public type="string" name="config_deviceProvisioningPackage" id="0x7f040253" />
-    <public type="string" name="config_deviceSpecificAudioService" id="0x7f040254" />
-    <public type="string" name="config_deviceSpecificDevicePolicyManagerService" id="0x7f040255" />
-    <public type="string" name="config_deviceSpecificDeviceStatePolicyProvider" id="0x7f040256" />
-    <public type="string" name="config_deviceSpecificDisplayAreaPolicyProvider" id="0x7f040257" />
-    <public type="string" name="config_displayLightSensorType" id="0x7f040258" />
-    <public type="string" name="config_displayWhiteBalanceColorTemperatureSensorName" id="0x7f040259" />
-    <public type="string" name="config_display_features" id="0x7f04025a" />
-    <public type="string" name="config_doublePressOnPowerTargetActivity" id="0x7f04025b" />
-    <public type="string" name="config_doubleTouchGestureEnableFile" id="0x7f04025c" />
-    <public type="string" name="config_dozeComponent" id="0x7f04025d" />
-    <public type="string" name="config_dozeDoubleTapSensorType" id="0x7f04025e" />
-    <public type="string" name="config_dozeLongPressSensorType" id="0x7f04025f" />
-    <public type="string" name="config_dozeTapSensorType" id="0x7f040260" />
-    <public type="string" name="config_dozeUdfpsLongPressSensorType" id="0x7f040261" />
-    <public type="string" name="config_dreamsDefaultComponent" id="0x7f040262" />
-    <public type="string" name="config_emergency_call_number" id="0x7f040263" />
-    <public type="string" name="config_emergency_dialer_package" id="0x7f040264" />
-    <public type="string" name="config_ethernet_iface_regex" id="0x7f040265" />
-    <public type="string" name="config_ethernet_tcp_buffers" id="0x7f040266" />
-    <public type="string" name="config_factoryResetPackage" id="0x7f040267" />
-    <public type="string" name="config_foldedArea" id="0x7f040268" />
-    <public type="string" name="config_forceVoiceInteractionServicePackage" id="0x7f040269" />
-    <public type="string" name="config_fusedLocationProviderPackageName" id="0x7f04026a" />
-    <public type="string" name="config_geocoderProviderPackageName" id="0x7f04026b" />
-    <public type="string" name="config_geofenceProviderPackageName" id="0x7f04026c" />
-    <public type="string" name="config_globalAppSearchDataQuerierPackage" id="0x7f04026d" />
-    <public type="string" name="config_hdmiCecSetMenuLanguageActivity" id="0x7f04026e" />
-    <public type="string" name="config_headlineFontFamily" id="0x7f04026f" />
-    <public type="string" name="config_headlineFontFamilyMedium" id="0x7f040270" />
-    <public type="string" name="config_headlineFontFeatureSettings" id="0x7f040271" />
-    <public type="string" name="config_iccHotswapPromptForRestartDialogComponent" id="0x7f040272" />
-    <public type="string" name="config_icon_mask" id="0x7f040273" />
-    <public type="string" name="config_inCallNotificationSound" id="0x7f040274" />
-    <public type="string" name="config_incidentReportApproverPackage" id="0x7f040275" />
-    <public type="string" name="config_inputEventCompatProcessorOverrideClassName" id="0x7f040276" />
-    <public type="string" name="config_isoImagePath" id="0x7f040277" />
-    <public type="string" name="config_keyguardComponent" id="0x7f040278" />
-    <public type="string" name="config_loggable_dream_prefix" id="0x7f040279" />
-    <public type="string" name="config_mainBuiltInDisplayCutout" id="0x7f04027a" />
-    <public type="string" name="config_mainBuiltInDisplayCutoutRectApproximation" id="0x7f04027b" />
-    <public type="string" name="config_managed_provisioning_package" id="0x7f04027c" />
-    <public type="string" name="config_mediaProjectionPermissionDialogComponent" id="0x7f04027d" />
-    <public type="string" name="config_misprovisionedBrandValue" id="0x7f04027e" />
-    <public type="string" name="config_misprovisionedDeviceModel" id="0x7f04027f" />
-    <public type="string" name="config_mms_user_agent" id="0x7f040280" />
-    <public type="string" name="config_mms_user_agent_profile_url" id="0x7f040281" />
-    <public type="string" name="config_mobile_hotspot_provision_app_no_ui" id="0x7f040282" />
-    <public type="string" name="config_mobile_hotspot_provision_response" id="0x7f040283" />
-    <public type="string" name="config_networkLocationProviderPackageName" id="0x7f040284" />
-    <public type="string" name="config_networkOverLimitComponent" id="0x7f040285" />
-    <public type="string" name="config_networkPolicyNotificationComponent" id="0x7f040286" />
-    <public type="string" name="config_notificationAccessConfirmationActivity" id="0x7f040287" />
-    <public type="string" name="config_notificationHandlerPackage" id="0x7f040288" />
-    <public type="string" name="config_ntpServer" id="0x7f040289" />
-    <public type="string" name="config_optionalPackageVerifierName" id="0x7f04028a" />
-    <public type="string" name="config_overrideComponentUiPackage" id="0x7f04028b" />
-    <public type="string" name="config_packagedKeyboardName" id="0x7f04028c" />
-    <public type="string" name="config_pdp_reject_dialog_title" id="0x7f04028d" />
-    <public type="string" name="config_pdp_reject_multi_conn_to_same_pdn_not_allowed" id="0x7f04028e" />
-    <public type="string" name="config_pdp_reject_service_not_subscribed" id="0x7f04028f" />
-    <public type="string" name="config_pdp_reject_user_authentication_failed" id="0x7f040290" />
-    <public type="string" name="config_persistentDataPackageName" id="0x7f040291" />
-    <public type="string" name="config_platformVpnConfirmDialogComponent" id="0x7f040292" />
-    <public type="string" name="config_powerSaveModeChangedListenerPackage" id="0x7f040293" />
-    <public type="string" name="config_primaryLocationTimeZoneProviderPackageName" id="0x7f040294" />
-    <public type="string" name="config_qualified_networks_service_class" id="0x7f040295" />
-    <public type="string" name="config_qualified_networks_service_package" id="0x7f040296" />
-    <public type="string" name="config_quickPickupSensorType" id="0x7f040297" />
-    <public type="string" name="config_radio_access_family" id="0x7f040298" />
-    <public type="string" name="config_rawContactsLocalAccountName" id="0x7f040299" />
-    <public type="string" name="config_rawContactsLocalAccountType" id="0x7f04029a" />
-    <public type="string" name="config_recentsComponentName" id="0x7f04029b" />
-    <public type="string" name="config_retailDemoPackage" id="0x7f04029c" />
-    <public type="string" name="config_retailDemoPackageSignature" id="0x7f04029d" />
-    <public type="string" name="config_screenRecorderComponent" id="0x7f04029e" />
-    <public type="string" name="config_screenshotErrorReceiverComponent" id="0x7f04029f" />
-    <public type="string" name="config_screenshotServiceComponent" id="0x7f0402a0" />
-    <public type="string" name="config_secondaryBuiltInDisplayCutout" id="0x7f0402a1" />
-    <public type="string" name="config_secondaryBuiltInDisplayCutoutRectApproximation" id="0x7f0402a2" />
-    <public type="string" name="config_secondaryHomePackage" id="0x7f0402a3" />
-    <public type="string" name="config_secondaryLocationTimeZoneProviderPackageName" id="0x7f0402a4" />
-    <public type="string" name="config_sensorUseStartedActivity" id="0x7f0402a5" />
-    <public type="string" name="config_sensorUseStartedActivity_hwToggle" id="0x7f0402a6" />
-    <public type="string" name="config_servicesExtensionPackage" id="0x7f0402a7" />
-    <public type="string" name="config_signalAttributionPath" id="0x7f0402a8" />
-    <public type="string" name="config_slicePermissionComponent" id="0x7f0402a9" />
-    <public type="string" name="config_somnambulatorComponent" id="0x7f0402aa" />
-    <public type="string" name="config_supervisedUserCreationPackage" id="0x7f0402ab" />
-    <public type="string" name="config_systemGameService" id="0x7f0402ac" />
-    <public type="string" name="config_systemImageEditor" id="0x7f0402ad" />
-    <public type="string" name="config_systemTelevisionRemoteService" id="0x7f0402ae" />
-    <public type="string" name="config_systemUIServiceComponent" id="0x7f0402af" />
-    <public type="string" name="config_tcp_buffers" id="0x7f0402b0" />
-    <public type="string" name="config_timeZoneRulesDataPackage" id="0x7f0402b1" />
-    <public type="string" name="config_timeZoneRulesUpdaterPackage" id="0x7f0402b2" />
-    <public type="string" name="config_tvRemoteServicePackage" id="0x7f0402b3" />
-    <public type="string" name="config_usbAccessoryUriActivity" id="0x7f0402b4" />
-    <public type="string" name="config_usbConfirmActivity" id="0x7f0402b5" />
-    <public type="string" name="config_usbContaminantActivity" id="0x7f0402b6" />
-    <public type="string" name="config_usbPermissionActivity" id="0x7f0402b7" />
-    <public type="string" name="config_usbResolverActivity" id="0x7f0402b8" />
-    <public type="string" name="config_useragentprofile_url" id="0x7f0402b9" />
-    <public type="string" name="config_vendorColorModesRestoreHint" id="0x7f0402ba" />
-    <public type="string" name="config_wallpaperCropperPackage" id="0x7f0402bb" />
-    <public type="string" name="config_wallpaperManagerServiceName" id="0x7f0402bc" />
-    <public type="string" name="config_wearSysUiMainActivity" id="0x7f0402bd" />
-    <public type="string" name="config_wearSysUiPackage" id="0x7f0402be" />
-    <public type="string" name="config_wifi_tether_enable" id="0x7f0402bf" />
-    <public type="string" name="config_wimaxManagerClassname" id="0x7f0402c0" />
-    <public type="string" name="config_wimaxNativeLibLocation" id="0x7f0402c1" />
-    <public type="string" name="config_wimaxServiceClassname" id="0x7f0402c2" />
-    <public type="string" name="config_wimaxServiceJarLocation" id="0x7f0402c3" />
-    <public type="string" name="config_wimaxStateTrackerClassname" id="0x7f0402c4" />
-    <public type="string" name="config_wlan_data_service_class" id="0x7f0402c5" />
-    <public type="string" name="config_wlan_data_service_package" id="0x7f0402c6" />
-    <public type="string" name="config_wlan_network_service_class" id="0x7f0402c7" />
-    <public type="string" name="config_wlan_network_service_package" id="0x7f0402c8" />
-    <public type="string" name="config_work_badge_path_24" id="0x7f0402c9" />
-    <public type="string" name="config_wwan_data_service_class" id="0x7f0402ca" />
-    <public type="string" name="config_wwan_data_service_package" id="0x7f0402cb" />
-    <public type="string" name="config_wwan_network_service_class" id="0x7f0402cc" />
-    <public type="string" name="config_wwan_network_service_package" id="0x7f0402cd" />
     <public type="string" name="confirm_battery_saver" id="0x7f0402ce" />
     <public type="string" name="console_running_notification_message" id="0x7f0402cf" />
     <public type="string" name="console_running_notification_title" id="0x7f0402d0" />
@@ -779,10 +536,7 @@
     <public type="string" name="default_audio_route_name_hdmi" id="0x7f04030a" />
     <public type="string" name="default_audio_route_name_headphones" id="0x7f04030b" />
     <public type="string" name="default_audio_route_name_usb" id="0x7f04030c" />
-    <public type="string" name="default_browser" id="0x7f04030d" />
     <public type="string" name="default_notification_channel_label" id="0x7f04030e" />
-    <public type="string" name="default_sms_application" id="0x7f04030f" />
-    <public type="string" name="default_wallpaper_component" id="0x7f040310" />
     <public type="string" name="delete" id="0x7f040311" />
     <public type="string" name="deleteText" id="0x7f040312" />
     <public type="string" name="deleted_key" id="0x7f040313" />
@@ -814,29 +568,15 @@
     <public type="string" name="dump_heap_system_text" id="0x7f04032d" />
     <public type="string" name="dump_heap_text" id="0x7f04032e" />
     <public type="string" name="dump_heap_title" id="0x7f04032f" />
-    <public type="string" name="duration_days_relative" id="0x7f040330" />
-    <public type="string" name="duration_days_relative_future" id="0x7f040331" />
-    <public type="string" name="duration_days_shortest" id="0x7f040332" />
     <public type="string" name="duration_days_shortest_future" id="0x7f040333" />
-    <public type="string" name="duration_hours_relative" id="0x7f040334" />
-    <public type="string" name="duration_hours_relative_future" id="0x7f040335" />
-    <public type="string" name="duration_hours_shortest" id="0x7f040336" />
     <public type="string" name="duration_hours_shortest_future" id="0x7f040337" />
-    <public type="string" name="duration_minutes_relative" id="0x7f040338" />
-    <public type="string" name="duration_minutes_relative_future" id="0x7f040339" />
-    <public type="string" name="duration_minutes_shortest" id="0x7f04033a" />
     <public type="string" name="duration_minutes_shortest_future" id="0x7f04033b" />
-    <public type="string" name="duration_years_relative" id="0x7f04033c" />
-    <public type="string" name="duration_years_relative_future" id="0x7f04033d" />
-    <public type="string" name="duration_years_shortest" id="0x7f04033e" />
     <public type="string" name="duration_years_shortest_future" id="0x7f04033f" />
     <public type="string" name="dynamic_mode_notification_channel_name" id="0x7f040340" />
     <public type="string" name="dynamic_mode_notification_summary" id="0x7f040341" />
     <public type="string" name="dynamic_mode_notification_title" id="0x7f040342" />
     <public type="string" name="editTextMenuTitle" id="0x7f040343" />
     <public type="string" name="edit_accessibility_shortcut_menu_button" id="0x7f040344" />
-    <public type="string" name="elapsed_time_short_format_h_mm_ss" id="0x7f040345" />
-    <public type="string" name="elapsed_time_short_format_mm_ss" id="0x7f040346" />
     <public type="string" name="emailTypeCustom" id="0x7f040347" />
     <public type="string" name="emailTypeHome" id="0x7f040348" />
     <public type="string" name="emailTypeMobile" id="0x7f040349" />
@@ -960,8 +700,6 @@
     <public type="string" name="fast_scroll_numeric_alphabet" id="0x7f0403bf" />
     <public type="string" name="fcComplete" id="0x7f0403c0" />
     <public type="string" name="fcError" id="0x7f0403c1" />
-    <public type="string" name="fileSizeSuffix" id="0x7f0403c2" />
-    <public type="string" name="file_count" id="0x7f0403c3" />
     <public type="string" name="find" id="0x7f0403c4" />
     <public type="string" name="find_next" id="0x7f0403c5" />
     <public type="string" name="find_on_page" id="0x7f0403c6" />
@@ -1005,18 +743,6 @@
     <public type="string" name="fingerprints" id="0x7f0403ec" />
     <public type="string" name="floating_toolbar_close_overflow_description" id="0x7f0403ed" />
     <public type="string" name="floating_toolbar_open_overflow_description" id="0x7f0403ee" />
-    <public type="string" name="font_family_body_1_material" id="0x7f0403ef" />
-    <public type="string" name="font_family_body_2_material" id="0x7f0403f0" />
-    <public type="string" name="font_family_button_material" id="0x7f0403f1" />
-    <public type="string" name="font_family_caption_material" id="0x7f0403f2" />
-    <public type="string" name="font_family_display_1_material" id="0x7f0403f3" />
-    <public type="string" name="font_family_display_2_material" id="0x7f0403f4" />
-    <public type="string" name="font_family_display_3_material" id="0x7f0403f5" />
-    <public type="string" name="font_family_display_4_material" id="0x7f0403f6" />
-    <public type="string" name="font_family_headline_material" id="0x7f0403f7" />
-    <public type="string" name="font_family_menu_material" id="0x7f0403f8" />
-    <public type="string" name="font_family_subhead_material" id="0x7f0403f9" />
-    <public type="string" name="font_family_title_material" id="0x7f0403fa" />
     <public type="string" name="force_close" id="0x7f0403fb" />
     <public type="string" name="foreground_service_app_in_background" id="0x7f0403fc" />
     <public type="string" name="foreground_service_apps_in_background" id="0x7f0403fd" />
@@ -1095,7 +821,6 @@
     <public type="string" name="httpErrorTimeout" id="0x7f040446" />
     <public type="string" name="httpErrorTooManyRequests" id="0x7f040447" />
     <public type="string" name="httpErrorUnsupportedAuthScheme" id="0x7f040448" />
-    <public type="string" name="icu_abbrev_wday_month_day_no_year" id="0x7f040449" />
     <public type="string" name="imProtocolAim" id="0x7f04044a" />
     <public type="string" name="imProtocolCustom" id="0x7f04044b" />
     <public type="string" name="imProtocolGoogleTalk" id="0x7f04044c" />
@@ -1110,7 +835,6 @@
     <public type="string" name="imTypeHome" id="0x7f040455" />
     <public type="string" name="imTypeOther" id="0x7f040456" />
     <public type="string" name="imTypeWork" id="0x7f040457" />
-    <public type="string" name="image_wallpaper_component" id="0x7f040458" />
     <public type="string" name="ime_action_default" id="0x7f040459" />
     <public type="string" name="ime_action_done" id="0x7f04045a" />
     <public type="string" name="ime_action_go" id="0x7f04045b" />
@@ -1221,7 +945,6 @@
     <public type="string" name="language_picker_section_suggested" id="0x7f0404c4" />
     <public type="string" name="language_selection_title" id="0x7f0404c5" />
     <public type="string" name="last_month" id="0x7f0404c6" />
-    <public type="string" name="last_num_days" id="0x7f0404c7" />
     <public type="string" name="launchBrowserDefault" id="0x7f0404c8" />
     <public type="string" name="launch_warning_original" id="0x7f0404c9" />
     <public type="string" name="launch_warning_replace" id="0x7f0404ca" />
@@ -1305,7 +1028,6 @@
     <public type="string" name="managed_profile_label_badge" id="0x7f040518" />
     <public type="string" name="managed_profile_label_badge_2" id="0x7f040519" />
     <public type="string" name="managed_profile_label_badge_3" id="0x7f04051a" />
-    <public type="string" name="matches_found" id="0x7f04051b" />
     <public type="string" name="maximize_button_text" id="0x7f04051c" />
     <public type="string" name="me" id="0x7f04051d" />
     <public type="string" name="media_route_button_content_description" id="0x7f04051e" />
@@ -1465,8 +1187,6 @@
     <public type="string" name="mmiErrorWhileRoaming" id="0x7f0405b8" />
     <public type="string" name="mmiFdnError" id="0x7f0405b9" />
     <public type="string" name="mobile_no_internet" id="0x7f0405ba" />
-    <public type="string" name="mobile_provisioning_apn" id="0x7f0405bb" />
-    <public type="string" name="mobile_provisioning_url" id="0x7f0405bc" />
     <public type="string" name="month_day_year" id="0x7f0405bd" />
     <public type="string" name="more_item_label" id="0x7f0405be" />
     <public type="string" name="mte_override_notification_message" id="0x7f0405bf" />
@@ -2206,7 +1926,6 @@
     <public type="string" name="ssl_ca_cert_noti_by_administrator" id="0x7f04089d" />
     <public type="string" name="ssl_ca_cert_noti_by_unknown" id="0x7f04089e" />
     <public type="string" name="ssl_ca_cert_noti_managed" id="0x7f04089f" />
-    <public type="string" name="ssl_ca_cert_warning" id="0x7f0408a0" />
     <public type="string" name="ssl_certificate" id="0x7f0408a1" />
     <public type="string" name="ssl_certificate_is_valid" id="0x7f0408a2" />
     <public type="string" name="status_bar_airplane" id="0x7f0408a3" />
@@ -2271,7 +1990,6 @@
     <public type="string" name="system_error_manufacturer" id="0x7f0408de" />
     <public type="string" name="system_error_wipe_data" id="0x7f0408df" />
     <public type="string" name="system_locale_title" id="0x7f0408e0" />
-    <public type="string" name="system_ui_date_pattern" id="0x7f0408e1" />
     <public type="string" name="taking_remote_bugreport_notification_title" id="0x7f0408e2" />
     <public type="string" name="terabyteShort" id="0x7f0408e3" />
     <public type="string" name="test_harness_mode_notification_message" id="0x7f0408e4" />
@@ -2449,14 +2167,6 @@
     <public type="string" name="zen_mode_default_weekends_name" id="0x7f040990" />
     <public type="string" name="zen_mode_default_weeknights_name" id="0x7f040991" />
     <public type="string" name="zen_mode_downtime_feature_name" id="0x7f040992" />
-    <public type="string" name="zen_mode_duration_hours" id="0x7f040993" />
-    <public type="string" name="zen_mode_duration_hours_short" id="0x7f040994" />
-    <public type="string" name="zen_mode_duration_hours_summary" id="0x7f040995" />
-    <public type="string" name="zen_mode_duration_hours_summary_short" id="0x7f040996" />
-    <public type="string" name="zen_mode_duration_minutes" id="0x7f040997" />
-    <public type="string" name="zen_mode_duration_minutes_short" id="0x7f040998" />
-    <public type="string" name="zen_mode_duration_minutes_summary" id="0x7f040999" />
-    <public type="string" name="zen_mode_duration_minutes_summary_short" id="0x7f04099a" />
     <public type="string" name="zen_mode_feature_name" id="0x7f04099b" />
     <public type="string" name="zen_mode_forever" id="0x7f04099c" />
     <public type="string" name="zen_mode_forever_dnd" id="0x7f04099d" />
