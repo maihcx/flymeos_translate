@@ -1770,14 +1770,14 @@ If you have questions, contact %2$s."</string>
     <string name="percentage">%</string>
     <string name="permission_type_edit_contact">Edit Contact</string>
     <string name="permission_type_etc">etc.</string>
-    <string name="permission_type_just"> just now </string>
+    <string name="permission_type_just">\u0020just now\u0020</string>
     <string name="permission_type_location">location</string>
     <string name="permission_type_photo">use Camera</string>
     <string name="permission_type_read_contact">read contact</string>
     <string name="permission_type_read_message">read message</string>
     <string name="permission_type_read_share_plate">read clipboard</string>
     <string name="permission_type_record">record</string>
-    <string name="permission_type_using"> in progress </string>
+    <string name="permission_type_using">\u0020in progress\u0020</string>
     <string name="permission_type_write_share_plate">write clipboard</string>
     <string name="person_available">Available</string>
     <string name="phone_hint">Swipe from icon for phone</string>

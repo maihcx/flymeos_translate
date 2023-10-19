@@ -1769,14 +1769,14 @@ Jika Anda memiliki pertanyaan, hubungi %2$s."</string>
     <string name="percentage">%</string>
     <string name="permission_type_edit_contact">Edit Kontak</string>
     <string name="permission_type_etc">dll.</string>
-    <string name="permission_type_just"> baru saja </string>
+    <string name="permission_type_just">\u0020baru saja\u0020</string>
     <string name="permission_type_location">lokasi</string>
     <string name="permission_type_photo">gunakan kamera</string>
     <string name="permission_type_read_contact">baca kontak</string>
     <string name="permission_type_read_message">baca pesan</string>
     <string name="permission_type_read_share_plate">baca clipboard</string>
     <string name="permission_type_record">rekam</string>
-    <string name="permission_type_using"> sedang berlangsung </string>
+    <string name="permission_type_using">\u0020sedang berlangsung\u0020</string>
     <string name="permission_type_write_share_plate">tulis clipboard</string>
     <string name="person_available">Tersedia</string>
     <string name="phone_hint">Geser dari ikon untuk telepon</string>
