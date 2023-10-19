@@ -411,7 +411,6 @@ To switch between features, swipe up with 3 fingers and hold."</string>
     <string name="account_sync_summary_all_on">Sync on for all items</string>
     <string name="account_sync_summary_some_on">Sync on for %1$d of %2$d items</string>
     <string name="account_sync_title">Account sync</string>
-    <string name="account_type" />
     <string name="action_drag_label_move_bottom">Move to bottom</string>
     <string name="action_drag_label_move_down">Move down</string>
     <string name="action_drag_label_move_top">Move to top</string>
@@ -718,10 +717,7 @@ Just bring the devices together (typically back to back) and then tap your scree
     <string name="app_memory_use">Memory use</string>
     <string name="app_name">KeepConfiguationContext</string>
     <string name="app_name_label">App</string>
-    <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
-    <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">The app wasn’t found in the list of installed apps.</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_notification_block_summary">Never show these notifications</string>
     <string name="app_notification_block_title">Block all</string>
     <string name="app_notification_field">App settings</string>

@@ -411,7 +411,6 @@ Tôi chỉ muốn kiểm tra xem các thiết kế sẽ ra sao. Liệu họ có 
     <string name="account_sync_summary_all_on">Bật đồng bộ hóa cho tất cả các mục</string>
     <string name="account_sync_summary_some_on">Bật đồng bộ hóa cho %1$d trong số %2$d mục</string>
     <string name="account_sync_title">Đồng bộ hóa tài khoản</string>
-    <string name="account_type" />
     <string name="action_drag_label_move_bottom">Di chuyển xuống cuối</string>
     <string name="action_drag_label_move_down">Di chuyển xuống</string>
     <string name="action_drag_label_move_top">Chuyển lên đầu</string>
@@ -718,10 +717,7 @@ Chỉ cần đưa các thiết bị lại gần nhau (thường quay lưng lại
     <string name="app_memory_use">Sử dụng bộ nhớ</string>
     <string name="app_name">KeepConfiguationContext</string>
     <string name="app_name_label">Ứng dụng</string>
-    <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
-    <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">Không tìm thấy ứng dụng trong danh sách ứng dụng đã cài đặt.</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_notification_block_summary">Không bao giờ hiển thị những thông báo này</string>
     <string name="app_notification_block_title">Chặn tất cả</string>
     <string name="app_notification_field">Cài đặt ứng dụng</string>

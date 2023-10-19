@@ -627,7 +627,6 @@
     <public type="string" name="account_sync_summary_all_on" id="0x7f120170" />
     <public type="string" name="account_sync_summary_some_on" id="0x7f120171" />
     <public type="string" name="account_sync_title" id="0x7f120172" />
-    <public type="string" name="account_type" id="0x7f120173" />
     <public type="string" name="action_drag_label_move_bottom" id="0x7f120174" />
     <public type="string" name="action_drag_label_move_down" id="0x7f120175" />
     <public type="string" name="action_drag_label_move_top" id="0x7f120176" />
@@ -918,10 +917,7 @@
     <public type="string" name="app_memory_use" id="0x7f120293" />
     <public type="string" name="app_name" id="0x7f120294" />
     <public type="string" name="app_name_label" id="0x7f120295" />
-    <public type="string" name="app_names_concatenation_template_2" id="0x7f120296" />
-    <public type="string" name="app_names_concatenation_template_3" id="0x7f120297" />
     <public type="string" name="app_not_found_dlg_text" id="0x7f120298" />
-    <public type="string" name="app_not_found_dlg_title" id="0x7f120299" />
     <public type="string" name="app_notification_block_summary" id="0x7f12029a" />
     <public type="string" name="app_notification_block_title" id="0x7f12029b" />
     <public type="string" name="app_notification_field" id="0x7f12029c" />
