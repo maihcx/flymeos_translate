@@ -21,24 +21,16 @@
         <item quantity="one">%s aplikasi aktif</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Masukkan PIN SIM. 
-Anda memiliki %d sisa percobaan.</item>
-        <item quantity="one">Masukkan PIN SIM. 
-Anda memiliki %d sisa upaya sebelum harus menghubungi operator untuk membuka kunci perangkat.</item>
+        <item quantity="other">Masukkan PIN SIM. Anda memiliki %d sisa percobaan.</item>
+        <item quantity="one">Masukkan PIN SIM. Anda memiliki %d sisa upaya sebelum harus menghubungi operator untuk membuka kunci perangkat.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
         <item quantity="other">Masukkan SIM%1$d PIN, Anda memiliki %2$d sisa upaya.</item>
         <item quantity="one">Masukkan SIM%1$d PIN, Anda memiliki %2$d sisa upaya sebelum Anda harus menghubungi operator untuk membuka kunci perangkat Anda.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM sekarang dinonaktifkan. 
-Masukkan kode PUK untuk melanjutkan. 
-Anda memiliki %d sisa percobaan sebelum SIM tidak dapat digunakan secara permanen. 
-Hubungi operator untuk rinciannya.</item>
-        <item quantity="one">SIM sekarang dinonaktifkan. 
-Masukkan kode PUK untuk melanjutkan. 
-Anda memiliki %d sisa upaya sebelum SIM tidak dapat digunakan secara permanen. 
-Hubungi operator untuk rinciannya.</item>
+        <item quantity="other">SIM sekarang dinonaktifkan. Masukkan kode PUK untuk melanjutkan. Anda memiliki %d sisa percobaan sebelum SIM tidak dapat digunakan secara permanen. Hubungi operator untuk rinciannya.</item>
+        <item quantity="one">SIM sekarang dinonaktifkan. Masukkan kode PUK untuk melanjutkan. Anda memiliki %d sisa upaya sebelum SIM tidak dapat digunakan secara permanen. Hubungi operator untuk rinciannya.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Kode PIN SIM salah, Anda memiliki %d sisa upaya.</item>

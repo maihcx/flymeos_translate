@@ -300,7 +300,6 @@
     <public type="string" name="abc_shareactionprovider_share_with_application" id="0x7f120028" />
     <public type="string" name="abc_slice_error" id="0x7f120029" />
     <public type="string" name="abc_slice_more" id="0x7f12002a" />
-    <public type="string" name="abc_slice_more_content" id="0x7f12002b" />
     <public type="string" name="abc_slice_permission_allow" id="0x7f12002c" />
     <public type="string" name="abc_slice_permission_deny" id="0x7f12002d" />
     <public type="string" name="abc_slice_permission_text_1" id="0x7f12002e" />
@@ -4542,7 +4541,6 @@
     <public type="string" name="mtrl_picker_a11y_next_month" id="0x7f12114e" />
     <public type="string" name="mtrl_picker_a11y_prev_month" id="0x7f12114f" />
     <public type="string" name="mtrl_picker_announce_current_selection" id="0x7f121150" />
-    <public type="string" name="mtrl_picker_cancel" id="0x7f121151" />
     <public type="string" name="mtrl_picker_confirm" id="0x7f121152" />
     <public type="string" name="mtrl_picker_date_header_selected" id="0x7f121153" />
     <public type="string" name="mtrl_picker_date_header_title" id="0x7f121154" />

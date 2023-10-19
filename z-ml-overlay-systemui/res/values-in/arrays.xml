@@ -644,7 +644,7 @@
         <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item Lemah</item>
+        <item>Lemah</item>
         <item>Sedang</item>
         <item>Baik</item>
         <item>Kuat</item>

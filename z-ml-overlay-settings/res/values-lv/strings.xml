@@ -43,7 +43,6 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_slice_error">"Couldn't connect"</string>
     <string name="abc_slice_more">More</string>
-    <string name="abc_slice_more_content">+ %1$d</string>
     <string name="abc_slice_permission_allow">Allow</string>
     <string name="abc_slice_permission_deny">Deny</string>
     <string name="abc_slice_permission_text_1">- It can read information from %1$s</string>
@@ -4528,7 +4527,6 @@ Switching to %1$s won't cancel your %2$s service."</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select Date</string>
