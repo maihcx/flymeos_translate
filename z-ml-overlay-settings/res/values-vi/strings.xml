@@ -249,7 +249,7 @@ Bạn không thể phóng to bàn phím hoặc thanh điều hướng."</string>
     <string name="accessibility_screen_magnification_short_summary">Nhấn 3 lần để phóng to</string>
     <string name="accessibility_screen_magnification_shortcut_title">Phím tắt phóng đại</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Phóng to bằng phím tắt &amp; nhấn ba lần</string>
-    <string name="accessibility_screen_magnification_summary">&lt;b>Để phóng to:&lt;/b>&lt;br/> {0,number,integer}. Sử dụng phím tắt để bắt đầu phóng to&lt;br/> {1,number,integer}. Nhấn vào màn hình&lt;br/> {2,số,số nguyên}. Kéo 2 ngón tay để di chuyển xung quanh màn hình&lt;br/> {3,number,integer}. Chụm 2 ngón tay để điều chỉnh mức thu phóng&lt;br/> {4,number,integer}. Sử dụng phím tắt để dừng phóng to&lt;br/>&lt;br/> &lt;b>Để phóng to tạm thời:&lt;/b>&lt;br/> {0,number,integer}. Đảm bảo loại phóng to của bạn được đặt thành toàn màn hình&lt;br/> {1,number,integer}. Sử dụng phím tắt để bắt đầu phóng to&lt;br/> {2,number,integer}. Chạm &amp; giữ bất kỳ vị trí nào trên màn hình&lt;br/> {3,number,integer}. Kéo ngón tay để di chuyển xung quanh màn hình&lt;br/> {4,number,integer}. Nhấc ngón tay lên để dừng phóng to</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>Để phóng to:&lt;/b>&lt;br/> {0,number,integer}. Sử dụng phím tắt để bắt đầu phóng to&lt;br/> {1,number,integer}. Nhấn vào màn hình&lt;br/> {2,number,integer}. Kéo 2 ngón tay để di chuyển xung quanh màn hình&lt;br/> {3,number,integer}. Chụm 2 ngón tay để điều chỉnh mức thu phóng&lt;br/> {4,number,integer}. Sử dụng phím tắt để dừng phóng to&lt;br/>&lt;br/> &lt;b>Để phóng to tạm thời:&lt;/b>&lt;br/> {0,number,integer}. Đảm bảo loại phóng to của bạn được đặt thành toàn màn hình&lt;br/> {1,number,integer}. Sử dụng phím tắt để bắt đầu phóng to&lt;br/> {2,number,integer}. Chạm &amp; giữ bất kỳ vị trí nào trên màn hình&lt;br/> {3,number,integer}. Kéo ngón tay để di chuyển xung quanh màn hình&lt;br/> {4,number,integer}. Nhấc ngón tay lên để dừng phóng to</string>
     <string name="accessibility_screen_magnification_title">Độ phóng đại</string>
     <string name="accessibility_screen_option">Tùy chọn</string>
     <string name="accessibility_service_action_perform_description">Nó có thể theo dõi các tương tác của bạn với một ứng dụng hoặc cảm biến phần cứng và thay mặt bạn tương tác với các ứng dụng.</string>
@@ -411,7 +411,6 @@ Tôi chỉ muốn kiểm tra xem các thiết kế sẽ ra sao. Liệu họ có 
     <string name="account_sync_summary_all_on">Bật đồng bộ hóa cho tất cả các mục</string>
     <string name="account_sync_summary_some_on">Bật đồng bộ hóa cho %1$d trong số %2$d mục</string>
     <string name="account_sync_title">Đồng bộ hóa tài khoản</string>
-    <string name="account_type" />
     <string name="action_drag_label_move_bottom">Di chuyển xuống cuối</string>
     <string name="action_drag_label_move_down">Di chuyển xuống</string>
     <string name="action_drag_label_move_top">Chuyển lên đầu</string>
@@ -718,10 +717,7 @@ Chỉ cần đưa các thiết bị lại gần nhau (thường quay lưng lại
     <string name="app_memory_use">Sử dụng bộ nhớ</string>
     <string name="app_name">KeepConfiguationContext</string>
     <string name="app_name_label">Ứng dụng</string>
-    <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
-    <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">Không tìm thấy ứng dụng trong danh sách ứng dụng đã cài đặt.</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_notification_block_summary">Không bao giờ hiển thị những thông báo này</string>
     <string name="app_notification_block_title">Chặn tất cả</string>
     <string name="app_notification_field">Cài đặt ứng dụng</string>
@@ -761,7 +757,6 @@ Chỉ cần đưa các thiết bị lại gần nhau (thường quay lưng lại
     <string name="app_special_disable_dlg_title">Xóa dữ liệu và tắt ứng dụng?</string>
     <string name="app_usage_cycle">Chu kỳ sử dụng dữ liệu di động</string>
     <string name="app_usage_preference">Tuỳ chọn sử dụng ứng dụng</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_info_label">Thông tin ứng dụng</string>
     <string name="application_restrictions">Cho phép ứng dụng và nội dung</string>
     <string name="application_size_label">Kích thước ứng dụng</string>
@@ -944,7 +939,6 @@ Chạy lần cuối vào %2$s"</string>
     <string name="backup_data_title">Sao lưu dữ liệu của tôi</string>
     <string name="backup_disabled">Sao lưu bị vô hiệu hóa</string>
     <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu Wi‑Fi, dấu trang, cài đặt khác và dữ liệu ứng dụng, đồng thời xóa tất cả bản sao trên máy chủ Google?</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_google_drive">Bản sao lưu &amp; khôi phục</string>
     <string name="backup_inactive_title">"Dịch vụ sao lưu không hoạt động"</string>
     <string name="backup_phone_data">Sao lưu dữ liệu &amp; khôi phục</string>
@@ -955,7 +949,6 @@ Chạy lần cuối vào %2$s"</string>
     <string name="backup_summary_state_on">Bật</string>
     <string name="base_band_version">Phiên bản băng tần cơ sở</string>
     <string name="baseband_one_title">Phiên bản băng tần cơ sở:</string>
-    <string name="baseband_prop_key">gsm.version.baseband</string>
     <string name="baseband_two_title">Phiên bản băng tần cơ sở:</string>
     <string name="baseband_version">Phiên bản băng tần cơ sở</string>
     <string name="battery_action_app_details">Thông tin ứng dụng</string>
@@ -1091,7 +1084,6 @@ Chạy lần cuối vào %2$s"</string>
     <string name="battery_stats_duration">%1$s kể từ khi rút phích cắm</string>
     <string name="battery_stats_flashlight_on_label">Bật đèn pin</string>
     <string name="battery_stats_gps_on_label">Bật GPS</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s hao pin</string>
     <string name="battery_stats_phone_signal_label">Tín hiệu mạng di động</string>
     <string name="battery_stats_screen_on_label">Bật màn hình</string>
@@ -1106,7 +1098,6 @@ Chạy lần cuối vào %2$s"</string>
     <string name="battery_sugg_display">Giảm độ sáng màn hình và/hoặc thời gian chờ của màn hình</string>
     <string name="battery_sugg_radio">Chuyển sang chế độ trên máy bay để tiết kiệm điện ở những khu vực không có sóng di động</string>
     <string name="battery_sugg_wifi">Tắt Wi‑Fi khi không sử dụng hoặc khi không có</string>
-    <string name="battery_suggestion_summary" />
     <string name="battery_suggestion_title">"Cải thiện thời lượng pin của điện thoại"</string>
     <string name="battery_summary">Dung lượng pin</string>
     <string name="battery_summary_24hr">%1$s sử dụng trong 24 giờ qua</string>
@@ -1588,7 +1579,6 @@ Khi được kết nối, %2$s sẽ nhận tất cả cuộc gọi tới %3$s."<
     <string name="bluetooth_visibility_timeout">Hết thời gian hiển thị</string>
     <string name="blur_view_switch_title">Làm mờ động</string>
     <string name="boot_sounds_title">Bật âm thanh</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
     <string name="brightness">Mức độ sáng</string>
     <string name="brightness_category_title">Độ sáng</string>
@@ -1640,7 +1630,6 @@ Khi được kết nối, %2$s sẽ nhận tất cả cuộc gọi tới %3$s."<
 
 Nếu bạn cài đặt chứng chỉ CA, chủ sở hữu chứng chỉ có thể truy cập dữ liệu của bạn, chẳng hạn như mật khẩu hoặc chi tiết thẻ tín dụng, từ các trang web bạn truy cập hoặc ứng dụng bạn sử dụng – ngay cả khi dữ liệu của bạn được mã hóa."</string>
     <string name="ca_certificate_warning_title">Dữ liệu của bạn sẽ không được riêng tư</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="cache_header_label">Bộ đệm</string>
     <string name="cache_size_label">Kích thước bộ đệm</string>
     <string name="cached">Tiến trình nền được lưu trong bộ nhớ đệm</string>
@@ -1649,7 +1638,6 @@ Nếu bạn cài đặt chứng chỉ CA, chủ sở hữu chứng chỉ có th�
     <string name="cached_apps_freezer_disabled">Đã tắt</string>
     <string name="cached_apps_freezer_enabled">Đã bật</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Thiết bị của bạn phải được khởi động lại để áp dụng thay đổi này. Khởi động lại ngay hoặc hủy.</string>
-    <string name="calendar_component_name" />
     <string name="calendar_sound_title">Cảnh báo lịch</string>
     <string name="call_category">Gọi điện</string>
     <string name="call_connected_tones_title">Gọi âm báo được kết nối</string>
@@ -1771,7 +1759,6 @@ Nếu bạn cài đặt chứng chỉ CA, chủ sở hữu chứng chỉ có th�
     <string name="certificate_management_app_description">Chứng chỉ sẽ xác minh bạn khi bạn sử dụng các ứng dụng và URL bên dưới</string>
     <string name="certificate_warning_dont_install">Không cài đặt</string>
     <string name="certificate_warning_install_anyway">Vẫn cài đặt</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change">Thay đổi</string>
     <string name="change_phone_helper_title">Công cụ di chuyển</string>
     <string name="change_storage">Thay đổi bộ nhớ</string>
@@ -2362,7 +2349,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="default_phone_title">Ứng dụng điện thoại</string>
     <string name="default_print_service_main_switch_title">Sử dụng dịch vụ in</string>
     <string name="default_ringtone">%s (Mặc định)</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="default_see_all_apps_title">Xem tất cả ứng dụng</string>
     <string name="default_sound">Âm thanh mặc định</string>
     <string name="default_spell_checker">Trình kiểm tra chính tả mặc định</string>
@@ -2534,7 +2520,6 @@ cống hiến cho sự hoàn hảo"</string>
     <string name="dlg_confirm_unmount_title">Tháo bộ lưu trữ USB?</string>
     <string name="dlg_delete">Xóa</string>
     <string name="dlg_error_unmount_text">Không thể ngắt kết nối bộ lưu trữ USB. Hãy thử lại sau.</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_guest_close_message">"Bạn không thể đăng nhập ở chế độ khách sau khi đóng cửa. Bạn có muốn xóa dữ liệu của người dùng khách không?"</string>
     <string name="dlg_guest_remain_data">Còn lại</string>
     <string name="dlg_ok">OK</string>
@@ -2611,7 +2596,6 @@ cống hiến cho sự hoàn hảo"</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở camera nhanh</string>
     <string name="double_tap_power_for_camera_summary">Để mở nhanh camera, nhấn nút nguồn hai lần. Hoạt động từ mọi màn hình.</string>
     <string name="double_tap_power_for_camera_title">Mở nhanh camera</string>
-    <string name="double_twist_for_camera_mode_summary" />
     <string name="double_twist_for_camera_mode_title">Lật camera để chụp ảnh tự sướng</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh tự sướng nhanh hơn</string>
     <string name="downloadAliPayTitle">Tải xuống ví alipay</string>
@@ -2878,7 +2862,6 @@ Hãy khởi động lại thiết bị của bạn và thử lại."</string>
     <string name="error_mcc_not3">Trường MCC phải có 3 chữ số.</string>
     <string name="error_mnc_not23">Trường MNC phải có 2 hoặc 3 chữ số.</string>
     <string name="error_name_empty">Trường Tên không được để trống.</string>
-    <string name="error_title" />
     <string name="estimated_charging_time_left">Cho đến khi được sạc đầy</string>
     <string name="estimated_time_description">Ước tính có thể thay đổi dựa trên mức sử dụng</string>
     <string name="estimated_time_left">Thời gian ước tính còn lại</string>
@@ -2905,8 +2888,6 @@ Hãy khởi động lại thiết bị của bạn và thử lại."</string>
     <string name="external_source_untrusted">Không được phép</string>
     <string name="extreme_threats_summary">Nhận cảnh báo về các mối đe dọa nghiêm trọng đến tính mạng và tài sản</string>
     <string name="extreme_threats_title">Mối đe dọa cực độ</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="face_add_max">Bạn có thể thêm tối đa %d khuôn mặt</string>
     <string name="face_intro_error_max">Bạn đã thêm số lượng khuôn mặt tối đa</string>
     <string name="face_intro_error_unknown">Không thể thêm nhiều khuôn mặt</string>
@@ -2914,8 +2895,6 @@ Hãy khởi động lại thiết bị của bạn và thử lại."</string>
     <string name="face_open_raise_up_dlg_summary">Tắt nó trong Cài đặt > AOD và LockScreen</string>
     <string name="face_open_raise_up_dlg_title">Bật nâng lên để đánh thức</string>
     <string name="face_open_raise_up_tips">Face ID &amp; nâng cao để đánh thức giúp mở khóa nhanh chóng.</string>
-    <string name="face_statement_seg1">"Phiên bản: 2.0
-Thời gian cập nhật: 2023-06-05"</string>
     <string name="face_statement_seg2">Vui lòng tham khảo Quy tắc xử lý dữ liệu nhận dạng khuôn mặt:</string>
     <string name="face_statement_seg3">Chào mừng bạn đến với tính năng Nhận dạng khuôn mặt!</string>
     <string name="face_statement_seg4">Để cung cấp cho bạn chức năng nhận dạng khuôn mặt để mở khóa thiết bị và ứng dụng, chúng tôi cần thu thập dữ liệu nhận dạng khuôn mặt của bạn. Chúng tôi hiểu rằng dữ liệu nhận dạng khuôn mặt của bạn được phân loại là dữ liệu sinh trắc học cá nhân và cần được bảo vệ cẩn thận. Do đó, chúng tôi sẽ không lưu trữ bất kỳ dữ liệu nhận dạng khuôn mặt ban đầu nào của bạn. Thay vào đó, chúng tôi sẽ chỉ thu thập dữ liệu tính năng nhận dạng khuôn mặt của bạn. Để đảm bảo an ninh, tất cả các hoạt động xử lý liên quan đến dữ liệu đặc điểm khuôn mặt của bạn, bao gồm thu thập, phân tích, lưu trữ và so sánh, sẽ được thực hiện trong môi trường thực thi đáng tin cậy trên thiết bị cục bộ của bạn và sẽ được mã hóa. Dữ liệu đặc điểm khuôn mặt của bạn sẽ không được tải lên hoặc sao lưu vào bất kỳ máy chủ đám mây nào.</string>
@@ -3016,8 +2995,6 @@ Nếu bạn bỏ lỡ một khoản thanh toán, thiết bị của bạn sẽ b
     <string name="fingerprint_manage_category_title">Quản lý dấu vân tay</string>
     <string name="fingerprint_name">Tên dấu vân tay</string>
     <string name="fingerprint_statement">Quy tắc xử lý dữ liệu nhận dạng vân tay</string>
-    <string name="fingerprint_statement_seg1">"Phiên bản: 1.0
-Cập nhật vào ngày 1 tháng 3 năm 2023"</string>
     <string name="fingerprint_statement_seg2">Vui lòng tham khảo Quy tắc xử lý dữ liệu nhận dạng vân tay</string>
     <string name="fingerprint_statement_seg3">Chào mừng đến với Nhận dạng vân tay</string>
     <string name="fingerprint_statement_seg4">"Tính năng này yêu cầu thu thập dấu vân tay của bạn để có thể sử dụng dấu vân tay đó để mở khóa thiết bị hoặc ứng dụng của bạn. Chúng tôi hiểu rằng dấu vân tay cấu thành một loại dữ liệu sinh trắc học rất cá nhân cần được bảo vệ. Do đó, chúng tôi không lưu trữ bất kỳ dữ liệu nhận dạng dấu vân tay ban đầu nào của bạn, chỉ thu thập một số đặc điểm nhất định của dấu vân tay của bạn. Vì mục đích bảo mật, việc thu thập, phân tích, lưu trữ và so sánh các đặc điểm dấu vân tay của bạn diễn ra hoàn toàn trong môi trường cục bộ được mã hóa, đáng tin cậy và sẽ không được tải lên hoặc lưu trữ trên bất kỳ máy chủ đám mây nào."</string>
@@ -3113,30 +3090,10 @@ Cập nhật vào ngày 1 tháng 3 năm 2023"</string>
     <string name="flyme_notification_filter_spinner_items_text_2">Gửi thường xuyên nhất</string>
     <string name="flyme_notification_filter_spinner_items_text_3">Đã tắt</string>
     <string name="flyme_notification_filter_spinner_items_text_4">Tất cả ứng dụng</string>
-    <string name="flyme_notification_key_app_custom_channel_screen_preference">flyme_notification_key_app_custom_channel_screen_preference</string>
-    <string name="flyme_notification_key_app_default_channel_category_preference">flyme_notification_key_app_default_channel_category_preference</string>
-    <string name="flyme_notification_key_app_filter_spinner">flyme_notification_key_app_filter_spinner</string>
-    <string name="flyme_notification_key_app_list_category">flyme_notification_key_app_list_category</string>
-    <string name="flyme_notification_key_app_switch_preference">flyme_notification_key_app_switch_preference</string>
-    <string name="flyme_notification_key_bubble_switch_preference">flyme_notification_key_bubble_switch_preference</string>
-    <string name="flyme_notification_key_channel_info_preference">flyme_notification_key_channel_info_preference</string>
-    <string name="flyme_notification_key_channel_priority_switch_preference">flyme_notification_key_channel_priority_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_category_preference">flyme_notification_key_channel_remind_category_preference</string>
-    <string name="flyme_notification_key_channel_remind_light_switch_preference">flyme_notification_key_channel_remind_light_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_ringtone_preference">flyme_notification_key_channel_remind_ringtone_preference</string>
-    <string name="flyme_notification_key_channel_remind_ringtone_switch_preference">flyme_notification_key_channel_remind_ringtone_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_vibrate_switch_preference">flyme_notification_key_channel_remind_vibrate_switch_preference</string>
-    <string name="flyme_notification_key_channel_switch_preference">flyme_notification_key_channel_switch_preference</string>
-    <string name="flyme_notification_key_classify_entrance_preference">flyme_notification_key_classify_entrance_preference</string>
-    <string name="flyme_notification_key_loading_preference">flyme_notification_key_loading_preference</string>
-    <string name="flyme_notification_key_lockscreen_preview_preference">flyme_notification_key_lockscreen_preview_preference</string>
-    <string name="flyme_notification_key_lockscreen_type_preference">flyme_notification_key_lockscreen_type_preference</string>
-    <string name="flyme_notification_key_ongoing_preference">flyme_notification_key_onging_preference</string>
     <string name="flyme_notification_lockscreen_preview_title">Xem trước thông báo</string>
     <string name="flyme_notification_lockscreen_type_title">Khi khóa màn hình</string>
     <string name="flyme_notification_not_sent_recently">Không được gửi gần đây</string>
     <string name="flyme_push_title">Đẩy</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="flyme_version_infor">Thông tin phiên bản</string>
     <string name="font_size_make_larger_desc">Phóng to hơn</string>
     <string name="font_size_make_smaller_desc">Thu nhỏ</string>
@@ -3223,8 +3180,6 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu thiết bị và 
     <string name="gentle_notifications_display_summary_shade_status_lock">Hiển thị trong bóng kéo xuống, thanh trạng thái &amp; trên màn hình khóa</string>
     <string name="gentle_notifications_education">Thông báo nhẹ nhàng luôn ở chế độ im lặng và luôn xuất hiện trong bóng kéo xuống</string>
     <string name="gentle_notifications_title">Thông báo nhẹ nhàng</string>
-    <string name="gesture_double_twist_sensor_type" />
-    <string name="gesture_double_twist_sensor_vendor" />
     <string name="gesture_not_supported_dialog_message">Không được ứng dụng chính mặc định của bạn, %s hỗ trợ</string>
     <string name="gesture_not_supported_positive_button">Chuyển đổi ứng dụng Home mặc định</string>
     <string name="gesture_preference_summary">Cử chỉ nhanh để điều khiển điện thoại của bạn</string>
@@ -3657,11 +3612,9 @@ Thứ Tư ngày 14 tháng 12 10:10:07 UTC 2016"</string>
     <string name="keywords_storage_menu_free">dọn dẹp, lưu trữ</string>
     <string name="keywords_storage_settings">bộ nhớ, bộ đệm, dữ liệu, xóa, xóa, trống, dung lượng</string>
     <string name="keywords_styles">biểu tượng, dấu, màu sắc</string>
-    <string name="keywords_switch_access" />
     <string name="keywords_system_navigation">điều hướng hệ thống, điều hướng 2 nút, điều hướng 3 nút, điều hướng bằng cử chỉ, vuốt</string>
     <string name="keywords_system_update_settings">nâng cấp, android</string>
     <string name="keywords_systemui_theme">chủ đề tối</string>
-    <string name="keywords_talkback" />
     <string name="keywords_text_to_speech_output">tỷ lệ, ngôn ngữ, mặc định, nói, nói, tts, khả năng truy cập, trình đọc màn hình, mù</string>
     <string name="keywords_time_format">Sử dụng định dạng 24 giờ</string>
     <string name="keywords_time_zone">múi giờ</string>
@@ -3671,7 +3624,6 @@ Thứ Tư ngày 14 tháng 12 10:10:07 UTC 2016"</string>
     <string name="keywords_vibrate_for_calls">Rung</string>
     <string name="keywords_vibration">cảm ứng, rung, rung</string>
     <string name="keywords_virtual_keyboard">Gboard</string>
-    <string name="keywords_voice_access" />
     <string name="keywords_voice_input">trình nhận dạng, đầu vào, giọng nói, nói, ngôn ngữ, rảnh tay, rảnh tay, nhận dạng, xúc phạm, từ, âm thanh, lịch sử, tai nghe bluetooth</string>
     <string name="keywords_vr_listener">Dịch vụ trợ giúp âm thanh nổi nghe thực tế ảo VR</string>
     <string name="keywords_wallet">ví</string>
@@ -3691,9 +3643,6 @@ Thứ Tư ngày 14 tháng 12 10:10:07 UTC 2016"</string>
     <string name="label_global_roaming_settings">Cài đặt chuyển vùng</string>
     <string name="language_and_input_for_work_category_title">Bàn phím &amp; công cụ</string>
     <string name="language_empty_list_user_restricted">Bạn không có quyền thay đổi ngôn ngữ của thiết bị.</string>
-    <string name="language_input_gesture_summary_off" />
-    <string name="language_input_gesture_summary_on_non_assist" />
-    <string name="language_input_gesture_summary_on_with_assist" />
     <string name="language_input_gesture_title">Ngôn ngữ, phương thức nhập &amp; cử chỉ</string>
     <string name="language_keyboard_settings_title">Ngôn ngữ &amp; đầu vào</string>
     <string name="language_picker_title">Ngôn ngữ</string>
@@ -3958,7 +3907,7 @@ Mã PIN bảo vệ điện thoại nếu bị mất hoặc bị đánh cắp."</
     <string name="lockpassword_password_requires_digit">Phải chứa ít nhất một chữ số</string>
     <string name="lockpassword_password_requires_symbol">Phải chứa ít nhất một ký hiệu</string>
     <string name="lockpassword_password_set_toast">Mật khẩu đã được đặt</string>
-    <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {If using only numbers, must be at least 1 digit} other {If using only numbers, must be at least # digits} }</string>
+    <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {Nếu chỉ sử dụng số thì phải có ít nhất 1 chữ số} other {Nếu chỉ sử dụng số thì ít nhất phải # chữ số} }</string>
     <string name="lockpassword_pattern_set_toast">Mẫu đã được đặt</string>
     <string name="lockpassword_pin_no_sequential_digits">"Không cho phép chuỗi chữ số tăng dần, giảm dần hoặc lặp lại"</string>
     <string name="lockpassword_pin_recently_used">"Quản trị viên thiết bị không cho phép sử dụng mã PIN gần đây"</string>
@@ -4042,23 +3991,6 @@ Mã PIN bảo vệ điện thoại nếu bị mất hoặc bị đánh cắp."</
     <string name="lte_4g_settings_title">Bật 4G</string>
     <string name="ltpo_adaptive">thích ứng</string>
     <string name="ltpo_summary">Tốc độ làm mới thích ứng, sẽ tự động điều chỉnh tốc độ làm mới theo các tình huống sử dụng khác nhau, để đạt được hiệu quả tiết kiệm năng lượng trong khi vẫn đảm bảo tính trôi chảy</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
-    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
-    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
-    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
-    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">khối bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">khối bezier(0.0, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_emphasized">đường dẫn(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1, 1)</string>
-    <string name="m3_sys_motion_easing_emphasized_accelerate">khối bezier(0.3, 0.0, 0.8, 0.2)</string>
-    <string name="m3_sys_motion_easing_emphasized_decelerate">khối bezier(0.1, 0.7, 0.1, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy">khối khối(0.4, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy_accelerate">khối khối(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy_decelerate">khối bezier(0.0, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_linear">khối khối(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">bezier khối(0.2, 0.0, 0.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard_accelerate">khối bezier(0.3, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard_decelerate">khối bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="macaddr_label">Địa chỉ MAC:</string>
     <string name="mah">%d mAh</string>
     <string name="mail_sound_title">Email</string>
@@ -4203,22 +4135,9 @@ Có những người dùng khác có mặt trên thiết bị này.
     <string name="mc_pattern_a_hour_before">1 giờ trước</string>
     <string name="mc_pattern_a_minute_before">1 phút trước</string>
     <string name="mc_pattern_hour_before">, vài giờ trước</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_minute_before">, phút trước</string>
-    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_today">Hôm nay</string>
     <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_yesterday">Ngày hôm qua</string>
     <string name="mc_permission_apply">Yêu cầu cấp phép</string>
     <string name="mc_permission_message_content">%1$s yêu cầu %3$d quyền bao gồm %2$s</string>
@@ -4262,8 +4181,6 @@ Có những người dùng khác có mặt trên thiết bị này.
     <string name="mc_search_text">Tìm kiếm</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">Tất cả</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">CN</string>
     <string name="mc_thursday">T5</string>
     <string name="mc_time_picker_dialog_title">Lịch trình</string>
@@ -4369,25 +4286,6 @@ Có những người dùng khác có mặt trên thiết bị này.
     <string name="menu_duration_3h">3 giờ</string>
     <string name="menu_duration_6h">6 giờ</string>
     <string name="menu_hide_system">Ẩn hệ thống</string>
-    <string name="menu_key_about_device">top_level_about_device</string>
-    <string name="menu_key_accessibility">top_level_accessibility</string>
-    <string name="menu_key_accounts">top_level_accounts</string>
-    <string name="menu_key_apps">top_level_apps</string>
-    <string name="menu_key_battery">top_level_battery</string>
-    <string name="menu_key_connected_devices">top_level_connected_devices</string>
-    <string name="menu_key_display">top_level_display</string>
-    <string name="menu_key_emergency">top_level_emergency</string>
-    <string name="menu_key_location">top_level_location</string>
-    <string name="menu_key_network">top_level_network</string>
-    <string name="menu_key_notifications">top_level_notifications</string>
-    <string name="menu_key_privacy">top_level_privacy</string>
-    <string name="menu_key_safety_center">top_level_safety_center</string>
-    <string name="menu_key_security">top_level_security</string>
-    <string name="menu_key_sound">top_level_sound</string>
-    <string name="menu_key_storage">top_level_storage</string>
-    <string name="menu_key_support">top_level_support</string>
-    <string name="menu_key_system">top_level_system</string>
-    <string name="menu_key_wallpaper">top_level_wallpaper</string>
     <string name="menu_new">APN mới</string>
     <string name="menu_proc_stats_duration">Thời lượng</string>
     <string name="menu_proc_stats_type">Loại thống kê</string>
@@ -4708,7 +4606,7 @@ Việc chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</stri
     <string name="mz_permissiongroup_name_other">Khác</string>
     <string name="mz_pm_allow_check_app">OK</string>
     <string name="mz_pm_allow_dialog_push">Cho phép đẩy</string>
-    <string name="mz_pm_bluetooth">điều khiển Bluetooth</string>
+    <string name="mz_pm_bluetooth">Điều khiển Bluetooth</string>
     <string name="mz_pm_call">Quay số</string>
     <string name="mz_pm_call_log">Đọc nhật ký cuộc gọi</string>
     <string name="mz_pm_camera">Máy ảnh (Ảnh/Video)</string>
@@ -4719,7 +4617,7 @@ Việc chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</stri
     <string name="mz_pm_dlg_ok">OK</string>
     <string name="mz_pm_location">Vị trí</string>
     <string name="mz_pm_network">Dữ liệu di động</string>
-    <string name="mz_pm_nfc">điều khiển NFC</string>
+    <string name="mz_pm_nfc">Điều khiển NFC</string>
     <string name="mz_pm_not_allow_check_app">Từ chối</string>
     <string name="mz_pm_not_allow_dialog_push">Chặn</string>
     <string name="mz_pm_online_intenert">Internet</string>
