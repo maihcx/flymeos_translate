@@ -757,7 +757,6 @@ Just bring the devices together (typically back to back) and then tap your scree
     <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
     <string name="app_usage_cycle">Mobile data usage cycle</string>
     <string name="app_usage_preference">App usage preferences</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_info_label">App info</string>
     <string name="application_restrictions">Allow apps and content</string>
     <string name="application_size_label">App size</string>
@@ -940,7 +939,6 @@ To restrict the app, first turn on battery optimization."</string>
     <string name="backup_data_title">Back up my data</string>
     <string name="backup_disabled">Back up disabled</string>
     <string name="backup_erase_dialog_message">Stop backing up your Wi‑Fi passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_google_drive">Google backup &amp; restore</string>
     <string name="backup_inactive_title">"Backup service isn't active"</string>
     <string name="backup_phone_data">Data backup &amp; restore</string>
@@ -951,7 +949,6 @@ To restrict the app, first turn on battery optimization."</string>
     <string name="backup_summary_state_on">On</string>
     <string name="base_band_version">Baseband version</string>
     <string name="baseband_one_title">Baseband version:</string>
-    <string name="baseband_prop_key">gsm.version.baseband</string>
     <string name="baseband_two_title">Baseband version:</string>
     <string name="baseband_version">Baseband version</string>
     <string name="battery_action_app_details">App info</string>
@@ -1087,7 +1084,6 @@ To restrict the app, first turn on battery optimization."</string>
     <string name="battery_stats_duration">%1$s since unplugged</string>
     <string name="battery_stats_flashlight_on_label">Flashlight on</string>
     <string name="battery_stats_gps_on_label">GPS on</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s on battery</string>
     <string name="battery_stats_phone_signal_label">Mobile network signal</string>
     <string name="battery_stats_screen_on_label">Screen on</string>
@@ -1102,7 +1098,6 @@ To restrict the app, first turn on battery optimization."</string>
     <string name="battery_sugg_display">Reduce the screen brightness and/or screen timeout</string>
     <string name="battery_sugg_radio">Switch to airplane mode to save power in areas with no cell coverage</string>
     <string name="battery_sugg_wifi">Turn off Wi‑Fi when not using it or when it isn’t available</string>
-    <string name="battery_suggestion_summary" />
     <string name="battery_suggestion_title">"Improve phone's battery life"</string>
     <string name="battery_summary">Battery capacity</string>
     <string name="battery_summary_24hr">%1$s use for past 24 hours</string>
@@ -1584,7 +1579,6 @@ While connected, %2$s will receive all calls made to %3$s."</string>
     <string name="bluetooth_visibility_timeout">Visibility timeout</string>
     <string name="blur_view_switch_title">Dynamic blurring</string>
     <string name="boot_sounds_title">Power on sounds</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="brightness">Brightness level</string>
     <string name="brightness_category_title">Brightness</string>
@@ -1636,7 +1630,6 @@ This affects other apps or conversations that are allowed to bubble."</string>
 
 If you install a CA certificate, the certificate owner could access your data, such as passwords or credit card details, from websites you visit or apps you use – even if your data is encrypted."</string>
     <string name="ca_certificate_warning_title">Your data won’t be private</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="cache_header_label">Cache</string>
     <string name="cache_size_label">Cache size</string>
     <string name="cached">Cached background process</string>
@@ -1645,7 +1638,6 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="cached_apps_freezer_disabled">Disabled</string>
     <string name="cached_apps_freezer_enabled">Enabled</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Your device must be rebooted for this change to apply. Reboot now or cancel.</string>
-    <string name="calendar_component_name" />
     <string name="calendar_sound_title">Calendar alerts</string>
     <string name="call_category">Calling</string>
     <string name="call_connected_tones_title">Call connected tones</string>
@@ -1767,7 +1759,6 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="certificate_management_app_description">Certificates will verify you when you use the apps and URLs below</string>
     <string name="certificate_warning_dont_install">Don’t install</string>
     <string name="certificate_warning_install_anyway">Install anyway</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change">Change</string>
     <string name="change_phone_helper_title">Migratool</string>
     <string name="change_storage">Change storage</string>
@@ -2358,7 +2349,6 @@ This setting affects all users on this phone."</string>
     <string name="default_phone_title">Phone app</string>
     <string name="default_print_service_main_switch_title">Use print service</string>
     <string name="default_ringtone">%s (Default)</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="default_see_all_apps_title">See all apps</string>
     <string name="default_sound">Default sound</string>
     <string name="default_spell_checker">Default spell checker</string>
@@ -2530,7 +2520,6 @@ dedicate to perfection"</string>
     <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
     <string name="dlg_delete">Delete</string>
     <string name="dlg_error_unmount_text">Couldn’t unmount USB storage. Try again later.</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_guest_close_message">"You're not able to login in guest mode after closed. Would you like to clean data of guest user?"</string>
     <string name="dlg_guest_remain_data">Remain</string>
     <string name="dlg_ok">OK</string>
@@ -2607,7 +2596,6 @@ dedicate to perfection"</string>
     <string name="double_tap_power_for_camera_suggestion_title">Open camera quickly</string>
     <string name="double_tap_power_for_camera_summary">To quickly open camera, press the power button twice. Works from any screen.</string>
     <string name="double_tap_power_for_camera_title">Quickly open camera</string>
-    <string name="double_twist_for_camera_mode_summary" />
     <string name="double_twist_for_camera_mode_title">Flip camera for selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Take selfies faster</string>
     <string name="downloadAliPayTitle">Download alipay wallet</string>
@@ -2874,7 +2862,6 @@ Restart your device and try again."</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>
     <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
     <string name="error_name_empty">The Name field can’t be empty.</string>
-    <string name="error_title" />
     <string name="estimated_charging_time_left">Until fully charged</string>
     <string name="estimated_time_description">Estimate may change based on usage</string>
     <string name="estimated_time_left">Estimated time left</string>
@@ -2901,8 +2888,6 @@ Restart your device and try again."</string>
     <string name="external_source_untrusted">Not allowed</string>
     <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
     <string name="extreme_threats_title">Extreme threats</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="face_add_max">You can add up to %d faces</string>
     <string name="face_intro_error_max">You’ve added the maximum number of faces</string>
     <string name="face_intro_error_unknown">Can’t add more faces</string>
@@ -2910,8 +2895,6 @@ Restart your device and try again."</string>
     <string name="face_open_raise_up_dlg_summary">Disable it in Settings > AOD and LockScreen</string>
     <string name="face_open_raise_up_dlg_title">Raise to wake enabled</string>
     <string name="face_open_raise_up_tips">Face ID &amp; raise to wake make unlocking fast.</string>
-    <string name="face_statement_seg1">"Version： 2.0
-Update time： 2023-06-05"</string>
     <string name="face_statement_seg2">Please refer to the Facial Recognition Data Processing Rules:</string>
     <string name="face_statement_seg3">Welcome to the Facial Recognition feature!</string>
     <string name="face_statement_seg4">In order to provide you with the functionality of facial recognition for device unlocking and applications, we need to collect your facial recognition data. We understand that your facial recognition data is classified as personal biometric data and requires careful protection. Therefore, we will not store any of your original facial recognition data. Instead, we will only collect your facial recognition feature data. To ensure security, all processing activities involving your facial feature data, including collection, analysis, storage, and comparison, will be performed in a trusted execution environment on your local device and will be encrypted. Your facial feature data will not be uploaded or backed up to any cloud servers.</string>
@@ -3012,8 +2995,6 @@ To learn more, contact your credit provider."</string>
     <string name="fingerprint_manage_category_title">Manage fingerprints</string>
     <string name="fingerprint_name">Fingerprint name</string>
     <string name="fingerprint_statement">Fingerprint Identification Data Processing Rules</string>
-    <string name="fingerprint_statement_seg1">"Version: 1.0
-Updated on 1 March, 2023"</string>
     <string name="fingerprint_statement_seg2">Please refer to the Rules for Processing Fingerprint Recognition Data</string>
     <string name="fingerprint_statement_seg3">Welcome to Fingerprint Recognition</string>
     <string name="fingerprint_statement_seg4">"This feature requires that your fingerprint be collected to be able to use it to unlock your devices or apps. We understand that a fingerprint constitutes a very personal type of biometric data that must be protected. Consequently, we don't store any of your original fingerprint identification data, collecting only certain characteristics of your fingerprints. For security purposes, the collection, analysis, storage, and comparison of the characteristics of your fingerprints takes place entirely in an encrypted, trusted local environment and will not be uploaded or stored on any cloud servers."</string>
@@ -3109,30 +3090,9 @@ Updated on 1 March, 2023"</string>
     <string name="flyme_notification_filter_spinner_items_text_2">Most frequently send</string>
     <string name="flyme_notification_filter_spinner_items_text_3">Disabled</string>
     <string name="flyme_notification_filter_spinner_items_text_4">All applications</string>
-    <string name="flyme_notification_key_app_custom_channel_screen_preference">flyme_notification_key_app_custom_channel_screen_preference</string>
-    <string name="flyme_notification_key_app_default_channel_category_preference">flyme_notification_key_app_default_channel_category_preference</string>
-    <string name="flyme_notification_key_app_filter_spinner">flyme_notification_key_app_filter_spinner</string>
-    <string name="flyme_notification_key_app_list_category">flyme_notification_key_app_list_category</string>
-    <string name="flyme_notification_key_app_switch_preference">flyme_notification_key_app_switch_preference</string>
-    <string name="flyme_notification_key_bubble_switch_preference">flyme_notification_key_bubble_switch_preference</string>
-    <string name="flyme_notification_key_channel_info_preference">flyme_notification_key_channel_info_preference</string>
-    <string name="flyme_notification_key_channel_priority_switch_preference">flyme_notification_key_channel_priority_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_category_preference">flyme_notification_key_channel_remind_category_preference</string>
-    <string name="flyme_notification_key_channel_remind_light_switch_preference">flyme_notification_key_channel_remind_light_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_ringtone_preference">flyme_notification_key_channel_remind_ringtone_preference</string>
-    <string name="flyme_notification_key_channel_remind_ringtone_switch_preference">flyme_notification_key_channel_remind_ringtone_switch_preference</string>
-    <string name="flyme_notification_key_channel_remind_vibrate_switch_preference">flyme_notification_key_channel_remind_vibrate_switch_preference</string>
-    <string name="flyme_notification_key_channel_switch_preference">flyme_notification_key_channel_switch_preference</string>
-    <string name="flyme_notification_key_classify_entrance_preference">flyme_notification_key_classify_entrance_preference</string>
-    <string name="flyme_notification_key_loading_preference">flyme_notification_key_loading_preference</string>
-    <string name="flyme_notification_key_lockscreen_preview_preference">flyme_notification_key_lockscreen_preview_preference</string>
-    <string name="flyme_notification_key_lockscreen_type_preference">flyme_notification_key_lockscreen_type_preference</string>
-    <string name="flyme_notification_key_ongoing_preference">flyme_notification_key_ongoing_preference</string>
-    <string name="flyme_notification_lockscreen_preview_title">Notification preview</string>
     <string name="flyme_notification_lockscreen_type_title">When lock screen</string>
     <string name="flyme_notification_not_sent_recently">Not sent recently</string>
     <string name="flyme_push_title">Push</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="flyme_version_infor">Version Info</string>
     <string name="font_size_make_larger_desc">Make larger</string>
     <string name="font_size_make_smaller_desc">Make smaller</string>
@@ -3219,8 +3179,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gentle_notifications_display_summary_shade_status_lock">Display in pull-down shade, status bar &amp; on lock screen</string>
     <string name="gentle_notifications_education">Gentle notifications are always silent and always appear in the pull-down shade</string>
     <string name="gentle_notifications_title">Gentle notifications</string>
-    <string name="gesture_double_twist_sensor_type" />
-    <string name="gesture_double_twist_sensor_vendor" />
     <string name="gesture_not_supported_dialog_message">Not supported by your default home app, %s</string>
     <string name="gesture_not_supported_positive_button">Switch default home app</string>
     <string name="gesture_preference_summary">Quick gestures to control your phone</string>
@@ -3653,11 +3611,9 @@ Wednesday Dec 14 10:10:07 UTC 2016"</string>
     <string name="keywords_storage_menu_free">clean, storage</string>
     <string name="keywords_storage_settings">memory, cache, data, delete, clear, free, space</string>
     <string name="keywords_styles">icon, accent, color</string>
-    <string name="keywords_switch_access" />
     <string name="keywords_system_navigation">system navigation, 2 button navigation, 3 button navigation, gesture navigation, swipe</string>
     <string name="keywords_system_update_settings">upgrade, android</string>
     <string name="keywords_systemui_theme">dark theme</string>
-    <string name="keywords_talkback" />
     <string name="keywords_text_to_speech_output">rate, language, default, speak, speaking, tts, accessibility, screen reader, blind</string>
     <string name="keywords_time_format">Use 24-hour format</string>
     <string name="keywords_time_zone">timezone</string>
@@ -3667,7 +3623,6 @@ Wednesday Dec 14 10:10:07 UTC 2016"</string>
     <string name="keywords_vibrate_for_calls">Vibration</string>
     <string name="keywords_vibration">haptics, vibrate, vibration</string>
     <string name="keywords_virtual_keyboard">Gboard</string>
-    <string name="keywords_voice_access" />
     <string name="keywords_voice_input">recognizer, input, speech, speak, language, hands-free, hand free, recognition, offensive, word, audio, history, bluetooth headset</string>
     <string name="keywords_vr_listener">vr virtual reality listener stereo helper service</string>
     <string name="keywords_wallet">wallet</string>
@@ -3687,9 +3642,6 @@ Wednesday Dec 14 10:10:07 UTC 2016"</string>
     <string name="label_global_roaming_settings">Roaming Settings</string>
     <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
     <string name="language_empty_list_user_restricted">You don’t have permission to change the device language.</string>
-    <string name="language_input_gesture_summary_off" />
-    <string name="language_input_gesture_summary_on_non_assist" />
-    <string name="language_input_gesture_summary_on_with_assist" />
     <string name="language_input_gesture_title">Languages, input &amp; gestures</string>
     <string name="language_keyboard_settings_title">Languages &amp; input</string>
     <string name="language_picker_title">Languages</string>
@@ -4038,23 +3990,6 @@ A PIN protects the phone if it’s lost or stolen."</string>
     <string name="lte_4g_settings_title">Enable 4G</string>
     <string name="ltpo_adaptive">adaptive</string>
     <string name="ltpo_summary">Adaptive refresh rate, which will dynamically adjust the refresh rate according to different usage scenarios, to achieve power saving effect while ensuring fluency</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
-    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
-    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
-    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
-    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
-    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
-    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="macaddr_label">MAC addr:</string>
     <string name="mah">%d mAh</string>
     <string name="mail_sound_title">Email</string>
@@ -4204,22 +4139,9 @@ There are other users present on this device.
     <string name="mc_pattern_a_hour_before">1 hour ago</string>
     <string name="mc_pattern_a_minute_before">1 minute ago</string>
     <string name="mc_pattern_hour_before">, hours ago</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_minute_before">, minutes ago</string>
-    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_today">Today</string>
     <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_yesterday">Yesterday</string>
     <string name="mc_permission_apply">Request for permission</string>
     <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
@@ -4263,8 +4185,6 @@ There are other users present on this device.
     <string name="mc_search_text">Search</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">SU</string>
     <string name="mc_thursday">TH</string>
     <string name="mc_time_picker_dialog_title">Schedule</string>
@@ -4370,25 +4290,6 @@ There are other users present on this device.
     <string name="menu_duration_3h">3 hours</string>
     <string name="menu_duration_6h">6 hours</string>
     <string name="menu_hide_system">Hide system</string>
-    <string name="menu_key_about_device">top_level_about_device</string>
-    <string name="menu_key_accessibility">top_level_accessibility</string>
-    <string name="menu_key_accounts">top_level_accounts</string>
-    <string name="menu_key_apps">top_level_apps</string>
-    <string name="menu_key_battery">top_level_battery</string>
-    <string name="menu_key_connected_devices">top_level_connected_devices</string>
-    <string name="menu_key_display">top_level_display</string>
-    <string name="menu_key_emergency">top_level_emergency</string>
-    <string name="menu_key_location">top_level_location</string>
-    <string name="menu_key_network">top_level_network</string>
-    <string name="menu_key_notifications">top_level_notifications</string>
-    <string name="menu_key_privacy">top_level_privacy</string>
-    <string name="menu_key_safety_center">top_level_safety_center</string>
-    <string name="menu_key_security">top_level_security</string>
-    <string name="menu_key_sound">top_level_sound</string>
-    <string name="menu_key_storage">top_level_storage</string>
-    <string name="menu_key_support">top_level_support</string>
-    <string name="menu_key_system">top_level_system</string>
-    <string name="menu_key_wallpaper">top_level_wallpaper</string>
     <string name="menu_new">New APN</string>
     <string name="menu_proc_stats_duration">Duration</string>
     <string name="menu_proc_stats_type">Stats type</string>
