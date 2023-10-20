@@ -627,7 +627,6 @@
     <public type="string" name="account_sync_summary_all_on" id="0x7f120170" />
     <public type="string" name="account_sync_summary_some_on" id="0x7f120171" />
     <public type="string" name="account_sync_title" id="0x7f120172" />
-    <public type="string" name="account_type" id="0x7f120173" />
     <public type="string" name="action_drag_label_move_bottom" id="0x7f120174" />
     <public type="string" name="action_drag_label_move_down" id="0x7f120175" />
     <public type="string" name="action_drag_label_move_top" id="0x7f120176" />
@@ -918,10 +917,7 @@
     <public type="string" name="app_memory_use" id="0x7f120293" />
     <public type="string" name="app_name" id="0x7f120294" />
     <public type="string" name="app_name_label" id="0x7f120295" />
-    <public type="string" name="app_names_concatenation_template_2" id="0x7f120296" />
-    <public type="string" name="app_names_concatenation_template_3" id="0x7f120297" />
     <public type="string" name="app_not_found_dlg_text" id="0x7f120298" />
-    <public type="string" name="app_not_found_dlg_title" id="0x7f120299" />
     <public type="string" name="app_notification_block_summary" id="0x7f12029a" />
     <public type="string" name="app_notification_block_title" id="0x7f12029b" />
     <public type="string" name="app_notification_field" id="0x7f12029c" />
@@ -961,7 +957,6 @@
     <public type="string" name="app_special_disable_dlg_title" id="0x7f1202be" />
     <public type="string" name="app_usage_cycle" id="0x7f1202bf" />
     <public type="string" name="app_usage_preference" id="0x7f1202c0" />
-    <public type="string" name="appbar_scrolling_view_behavior" id="0x7f1202c1" />
     <public type="string" name="application_info_label" id="0x7f1202c2" />
     <public type="string" name="application_restrictions" id="0x7f1202c3" />
     <public type="string" name="application_size_label" id="0x7f1202c4" />
@@ -1140,7 +1135,6 @@
     <public type="string" name="backup_data_title" id="0x7f120371" />
     <public type="string" name="backup_disabled" id="0x7f120372" />
     <public type="string" name="backup_erase_dialog_message" id="0x7f120373" />
-    <public type="string" name="backup_erase_dialog_title" id="0x7f120374" />
     <public type="string" name="backup_google_drive" id="0x7f120375" />
     <public type="string" name="backup_inactive_title" id="0x7f120376" />
     <public type="string" name="backup_phone_data" id="0x7f120377" />
@@ -1151,7 +1145,6 @@
     <public type="string" name="backup_summary_state_on" id="0x7f12037c" />
     <public type="string" name="base_band_version" id="0x7f12037d" />
     <public type="string" name="baseband_one_title" id="0x7f12037e" />
-    <public type="string" name="baseband_prop_key" id="0x7f12037f" />
     <public type="string" name="baseband_two_title" id="0x7f120380" />
     <public type="string" name="baseband_version" id="0x7f120381" />
     <public type="string" name="battery_action_app_details" id="0x7f120382" />
@@ -1287,7 +1280,6 @@
     <public type="string" name="battery_stats_duration" id="0x7f120404" />
     <public type="string" name="battery_stats_flashlight_on_label" id="0x7f120405" />
     <public type="string" name="battery_stats_gps_on_label" id="0x7f120406" />
-    <public type="string" name="battery_stats_last_duration" id="0x7f120407" />
     <public type="string" name="battery_stats_on_battery" id="0x7f120408" />
     <public type="string" name="battery_stats_phone_signal_label" id="0x7f120409" />
     <public type="string" name="battery_stats_screen_on_label" id="0x7f12040a" />
@@ -1302,7 +1294,6 @@
     <public type="string" name="battery_sugg_display" id="0x7f120413" />
     <public type="string" name="battery_sugg_radio" id="0x7f120414" />
     <public type="string" name="battery_sugg_wifi" id="0x7f120415" />
-    <public type="string" name="battery_suggestion_summary" id="0x7f120416" />
     <public type="string" name="battery_suggestion_title" id="0x7f120417" />
     <public type="string" name="battery_summary" id="0x7f120418" />
     <public type="string" name="battery_summary_24hr" id="0x7f120419" />
@@ -1535,7 +1526,6 @@
     <public type="string" name="bluetooth_enter_passkey_msg" id="0x7f1204fc" />
     <public type="string" name="bluetooth_enter_passkey_other_device" id="0x7f1204fd" />
     <public type="string" name="bluetooth_enter_pin_other_device" id="0x7f1204fe" />
-    <public type="string" name="bluetooth_error_title" id="0x7f1204ff" />
     <public type="string" name="bluetooth_find_broadcast" id="0x7f120500" />
     <public type="string" name="bluetooth_find_broadcast_button_leave" id="0x7f120501" />
     <public type="string" name="bluetooth_find_broadcast_button_scan" id="0x7f120502" />
@@ -1739,7 +1729,6 @@
     <public type="string" name="bluetooth_visibility_timeout" id="0x7f1205c8" />
     <public type="string" name="blur_view_switch_title" id="0x7f1205c9" />
     <public type="string" name="boot_sounds_title" id="0x7f1205ca" />
-    <public type="string" name="bottom_sheet_behavior" id="0x7f1205cb" />
     <public type="string" name="bottomsheet_action_expand_halfway" id="0x7f1205cc" />
     <public type="string" name="brightness" id="0x7f1205cd" />
     <public type="string" name="brightness_category_title" id="0x7f1205ce" />
@@ -1787,7 +1776,6 @@
     <public type="string" name="ca_certificate" id="0x7f1205f8" />
     <public type="string" name="ca_certificate_warning_description" id="0x7f1205f9" />
     <public type="string" name="ca_certificate_warning_title" id="0x7f1205fa" />
-    <public type="string" name="cache_db_name" id="0x7f1205fb" />
     <public type="string" name="cache_header_label" id="0x7f1205fc" />
     <public type="string" name="cache_size_label" id="0x7f1205fd" />
     <public type="string" name="cached" id="0x7f1205fe" />
@@ -1796,7 +1784,6 @@
     <public type="string" name="cached_apps_freezer_disabled" id="0x7f120601" />
     <public type="string" name="cached_apps_freezer_enabled" id="0x7f120602" />
     <public type="string" name="cached_apps_freezer_reboot_dialog_text" id="0x7f120603" />
-    <public type="string" name="calendar_component_name" id="0x7f120604" />
     <public type="string" name="calendar_sound_title" id="0x7f120605" />
     <public type="string" name="call_category" id="0x7f120606" />
     <public type="string" name="call_connected_tones_title" id="0x7f120607" />
@@ -1918,7 +1905,6 @@
     <public type="string" name="certificate_management_app_description" id="0x7f12067b" />
     <public type="string" name="certificate_warning_dont_install" id="0x7f12067c" />
     <public type="string" name="certificate_warning_install_anyway" id="0x7f12067d" />
-    <public type="string" name="certinstaller_package" id="0x7f12067e" />
     <public type="string" name="change" id="0x7f12067f" />
     <public type="string" name="change_phone_helper_title" id="0x7f120680" />
     <public type="string" name="change_storage" id="0x7f120681" />
@@ -2483,7 +2469,6 @@
     <public type="string" name="default_phone_title" id="0x7f1208d3" />
     <public type="string" name="default_print_service_main_switch_title" id="0x7f1208d4" />
     <public type="string" name="default_ringtone" id="0x7f1208d5" />
-    <public type="string" name="default_sans_serif" id="0x7f1208d6" />
     <public type="string" name="default_see_all_apps_title" id="0x7f1208d7" />
     <public type="string" name="default_sound" id="0x7f1208d8" />
     <public type="string" name="default_spell_checker" id="0x7f1208d9" />
@@ -2641,7 +2626,6 @@
     <public type="string" name="dlg_confirm_unmount_title" id="0x7f120971" />
     <public type="string" name="dlg_delete" id="0x7f120972" />
     <public type="string" name="dlg_error_unmount_text" id="0x7f120973" />
-    <public type="string" name="dlg_error_unmount_title" id="0x7f120974" />
     <public type="string" name="dlg_guest_close_message" id="0x7f120975" />
     <public type="string" name="dlg_guest_remain_data" id="0x7f120976" />
     <public type="string" name="dlg_ok" id="0x7f120977" />
@@ -2718,7 +2702,6 @@
     <public type="string" name="double_tap_power_for_camera_suggestion_title" id="0x7f1209be" />
     <public type="string" name="double_tap_power_for_camera_summary" id="0x7f1209bf" />
     <public type="string" name="double_tap_power_for_camera_title" id="0x7f1209c0" />
-    <public type="string" name="double_twist_for_camera_mode_summary" id="0x7f1209c1" />
     <public type="string" name="double_twist_for_camera_mode_title" id="0x7f1209c2" />
     <public type="string" name="double_twist_for_camera_suggestion_title" id="0x7f1209c3" />
     <public type="string" name="downloadAliPayTitle" id="0x7f1209c4" />
@@ -2952,7 +2935,6 @@
     <public type="string" name="error_mcc_not3" id="0x7f120aa8" />
     <public type="string" name="error_mnc_not23" id="0x7f120aa9" />
     <public type="string" name="error_name_empty" id="0x7f120aaa" />
-    <public type="string" name="error_title" id="0x7f120aab" />
     <public type="string" name="estimated_charging_time_left" id="0x7f120aac" />
     <public type="string" name="estimated_time_description" id="0x7f120aad" />
     <public type="string" name="estimated_time_left" id="0x7f120aae" />
@@ -2979,8 +2961,6 @@
     <public type="string" name="external_source_untrusted" id="0x7f120ac3" />
     <public type="string" name="extreme_threats_summary" id="0x7f120ac4" />
     <public type="string" name="extreme_threats_title" id="0x7f120ac5" />
-    <public type="string" name="fab_transformation_scrim_behavior" id="0x7f120ac6" />
-    <public type="string" name="fab_transformation_sheet_behavior" id="0x7f120ac7" />
     <public type="string" name="face_add_max" id="0x7f120ac8" />
     <public type="string" name="face_intro_error_max" id="0x7f120ac9" />
     <public type="string" name="face_intro_error_unknown" id="0x7f120aca" />
@@ -2988,7 +2968,6 @@
     <public type="string" name="face_open_raise_up_dlg_summary" id="0x7f120acc" />
     <public type="string" name="face_open_raise_up_dlg_title" id="0x7f120acd" />
     <public type="string" name="face_open_raise_up_tips" id="0x7f120ace" />
-    <public type="string" name="face_statement_seg1" id="0x7f120acf" />
     <public type="string" name="face_statement_seg2" id="0x7f120ad0" />
     <public type="string" name="face_statement_seg3" id="0x7f120ad1" />
     <public type="string" name="face_statement_seg4" id="0x7f120ad2" />
@@ -3082,7 +3061,6 @@
     <public type="string" name="fingerprint_manage_category_title" id="0x7f120b2a" />
     <public type="string" name="fingerprint_name" id="0x7f120b2b" />
     <public type="string" name="fingerprint_statement" id="0x7f120b2c" />
-    <public type="string" name="fingerprint_statement_seg1" id="0x7f120b2d" />
     <public type="string" name="fingerprint_statement_seg2" id="0x7f120b2e" />
     <public type="string" name="fingerprint_statement_seg3" id="0x7f120b2f" />
     <public type="string" name="fingerprint_statement_seg4" id="0x7f120b30" />
@@ -3178,30 +3156,10 @@
     <public type="string" name="flyme_notification_filter_spinner_items_text_2" id="0x7f120b8a" />
     <public type="string" name="flyme_notification_filter_spinner_items_text_3" id="0x7f120b8b" />
     <public type="string" name="flyme_notification_filter_spinner_items_text_4" id="0x7f120b8c" />
-    <public type="string" name="flyme_notification_key_app_custom_channel_screen_preference" id="0x7f120b8d" />
-    <public type="string" name="flyme_notification_key_app_default_channel_category_preference" id="0x7f120b8e" />
-    <public type="string" name="flyme_notification_key_app_filter_spinner" id="0x7f120b8f" />
-    <public type="string" name="flyme_notification_key_app_list_category" id="0x7f120b90" />
-    <public type="string" name="flyme_notification_key_app_switch_preference" id="0x7f120b91" />
-    <public type="string" name="flyme_notification_key_bubble_switch_preference" id="0x7f120b92" />
-    <public type="string" name="flyme_notification_key_channel_info_preference" id="0x7f120b93" />
-    <public type="string" name="flyme_notification_key_channel_priority_switch_preference" id="0x7f120b94" />
-    <public type="string" name="flyme_notification_key_channel_remind_category_preference" id="0x7f120b95" />
-    <public type="string" name="flyme_notification_key_channel_remind_light_switch_preference" id="0x7f120b96" />
-    <public type="string" name="flyme_notification_key_channel_remind_ringtone_preference" id="0x7f120b97" />
-    <public type="string" name="flyme_notification_key_channel_remind_ringtone_switch_preference" id="0x7f120b98" />
-    <public type="string" name="flyme_notification_key_channel_remind_vibrate_switch_preference" id="0x7f120b99" />
-    <public type="string" name="flyme_notification_key_channel_switch_preference" id="0x7f120b9a" />
-    <public type="string" name="flyme_notification_key_classify_entrance_preference" id="0x7f120b9b" />
-    <public type="string" name="flyme_notification_key_loading_preference" id="0x7f120b9c" />
-    <public type="string" name="flyme_notification_key_lockscreen_preview_preference" id="0x7f120b9d" />
-    <public type="string" name="flyme_notification_key_lockscreen_type_preference" id="0x7f120b9e" />
-    <public type="string" name="flyme_notification_key_ongoing_preference" id="0x7f120b9f" />
     <public type="string" name="flyme_notification_lockscreen_preview_title" id="0x7f120ba0" />
     <public type="string" name="flyme_notification_lockscreen_type_title" id="0x7f120ba1" />
     <public type="string" name="flyme_notification_not_sent_recently" id="0x7f120ba2" />
     <public type="string" name="flyme_push_title" id="0x7f120ba3" />
-    <public type="string" name="flyme_sans_serif_normal" id="0x7f120ba4" />
     <public type="string" name="flyme_version_infor" id="0x7f120ba5" />
     <public type="string" name="font_size_make_larger_desc" id="0x7f120ba6" />
     <public type="string" name="font_size_make_smaller_desc" id="0x7f120ba7" />
@@ -3282,8 +3240,6 @@
     <public type="string" name="gentle_notifications_display_summary_shade_status_lock" id="0x7f120bf2" />
     <public type="string" name="gentle_notifications_education" id="0x7f120bf3" />
     <public type="string" name="gentle_notifications_title" id="0x7f120bf4" />
-    <public type="string" name="gesture_double_twist_sensor_type" id="0x7f120bf5" />
-    <public type="string" name="gesture_double_twist_sensor_vendor" id="0x7f120bf6" />
     <public type="string" name="gesture_not_supported_dialog_message" id="0x7f120bf7" />
     <public type="string" name="gesture_not_supported_positive_button" id="0x7f120bf8" />
     <public type="string" name="gesture_preference_summary" id="0x7f120bf9" />
@@ -3709,11 +3665,9 @@
     <public type="string" name="keywords_storage_menu_free" id="0x7f120e06" />
     <public type="string" name="keywords_storage_settings" id="0x7f120e07" />
     <public type="string" name="keywords_styles" id="0x7f120e08" />
-    <public type="string" name="keywords_switch_access" id="0x7f120e09" />
     <public type="string" name="keywords_system_navigation" id="0x7f120e0a" />
     <public type="string" name="keywords_system_update_settings" id="0x7f120e0b" />
     <public type="string" name="keywords_systemui_theme" id="0x7f120e0c" />
-    <public type="string" name="keywords_talkback" id="0x7f120e0d" />
     <public type="string" name="keywords_text_to_speech_output" id="0x7f120e0e" />
     <public type="string" name="keywords_time_format" id="0x7f120e0f" />
     <public type="string" name="keywords_time_zone" id="0x7f120e10" />
@@ -3723,7 +3677,6 @@
     <public type="string" name="keywords_vibrate_for_calls" id="0x7f120e14" />
     <public type="string" name="keywords_vibration" id="0x7f120e15" />
     <public type="string" name="keywords_virtual_keyboard" id="0x7f120e16" />
-    <public type="string" name="keywords_voice_access" id="0x7f120e17" />
     <public type="string" name="keywords_voice_input" id="0x7f120e18" />
     <public type="string" name="keywords_vr_listener" id="0x7f120e19" />
     <public type="string" name="keywords_wallet" id="0x7f120e1a" />
@@ -3743,9 +3696,6 @@
     <public type="string" name="label_global_roaming_settings" id="0x7f120e28" />
     <public type="string" name="language_and_input_for_work_category_title" id="0x7f120e29" />
     <public type="string" name="language_empty_list_user_restricted" id="0x7f120e2a" />
-    <public type="string" name="language_input_gesture_summary_off" id="0x7f120e2b" />
-    <public type="string" name="language_input_gesture_summary_on_non_assist" id="0x7f120e2c" />
-    <public type="string" name="language_input_gesture_summary_on_with_assist" id="0x7f120e2d" />
     <public type="string" name="language_input_gesture_title" id="0x7f120e2e" />
     <public type="string" name="language_keyboard_settings_title" id="0x7f120e2f" />
     <public type="string" name="language_picker_title" id="0x7f120e30" />
@@ -4076,23 +4026,6 @@
     <public type="string" name="lte_4g_settings_title" id="0x7f120f75" />
     <public type="string" name="ltpo_adaptive" id="0x7f120f76" />
     <public type="string" name="ltpo_summary" id="0x7f120f77" />
-    <public type="string" name="m3_ref_typeface_brand_display_regular" id="0x7f120f78" />
-    <public type="string" name="m3_ref_typeface_brand_medium" id="0x7f120f79" />
-    <public type="string" name="m3_ref_typeface_brand_regular" id="0x7f120f7a" />
-    <public type="string" name="m3_ref_typeface_plain_medium" id="0x7f120f7b" />
-    <public type="string" name="m3_ref_typeface_plain_regular" id="0x7f120f7c" />
-    <public type="string" name="m3_sys_motion_easing_accelerated" id="0x7f120f7d" />
-    <public type="string" name="m3_sys_motion_easing_decelerated" id="0x7f120f7e" />
-    <public type="string" name="m3_sys_motion_easing_emphasized" id="0x7f120f7f" />
-    <public type="string" name="m3_sys_motion_easing_emphasized_accelerate" id="0x7f120f80" />
-    <public type="string" name="m3_sys_motion_easing_emphasized_decelerate" id="0x7f120f81" />
-    <public type="string" name="m3_sys_motion_easing_legacy" id="0x7f120f82" />
-    <public type="string" name="m3_sys_motion_easing_legacy_accelerate" id="0x7f120f83" />
-    <public type="string" name="m3_sys_motion_easing_legacy_decelerate" id="0x7f120f84" />
-    <public type="string" name="m3_sys_motion_easing_linear" id="0x7f120f85" />
-    <public type="string" name="m3_sys_motion_easing_standard" id="0x7f120f86" />
-    <public type="string" name="m3_sys_motion_easing_standard_accelerate" id="0x7f120f87" />
-    <public type="string" name="m3_sys_motion_easing_standard_decelerate" id="0x7f120f88" />
     <public type="string" name="macaddr_label" id="0x7f120f89" />
     <public type="string" name="mah" id="0x7f120f8a" />
     <public type="string" name="mail_sound_title" id="0x7f120f8b" />
@@ -4221,22 +4154,9 @@
     <public type="string" name="mc_pattern_a_hour_before" id="0x7f12100b" />
     <public type="string" name="mc_pattern_a_minute_before" id="0x7f12100c" />
     <public type="string" name="mc_pattern_hour_before" id="0x7f12100d" />
-    <public type="string" name="mc_pattern_hour_minute" id="0x7f12100e" />
-    <public type="string" name="mc_pattern_hour_minute_12" id="0x7f12100f" />
     <public type="string" name="mc_pattern_minute_before" id="0x7f121010" />
-    <public type="string" name="mc_pattern_month_day" id="0x7f121011" />
-    <public type="string" name="mc_pattern_month_day_hour_minute" id="0x7f121012" />
-    <public type="string" name="mc_pattern_month_day_hour_minute_12" id="0x7f121013" />
     <public type="string" name="mc_pattern_today" id="0x7f121014" />
     <public type="string" name="mc_pattern_week" id="0x7f121015" />
-    <public type="string" name="mc_pattern_week_hour_minute" id="0x7f121016" />
-    <public type="string" name="mc_pattern_week_hour_minute_12" id="0x7f121017" />
-    <public type="string" name="mc_pattern_week_month_day_hour_minute" id="0x7f121018" />
-    <public type="string" name="mc_pattern_week_month_day_hour_minute_12" id="0x7f121019" />
-    <public type="string" name="mc_pattern_year_month" id="0x7f12101a" />
-    <public type="string" name="mc_pattern_year_month_day" id="0x7f12101b" />
-    <public type="string" name="mc_pattern_year_month_day_hour_minute" id="0x7f12101c" />
-    <public type="string" name="mc_pattern_year_month_day_hour_minute_12" id="0x7f12101d" />
     <public type="string" name="mc_pattern_yesterday" id="0x7f12101e" />
     <public type="string" name="mc_permission_apply" id="0x7f12101f" />
     <public type="string" name="mc_permission_message_content" id="0x7f121020" />
@@ -4280,8 +4200,6 @@
     <public type="string" name="mc_search_text" id="0x7f121046" />
     <public type="string" name="mc_second" id="0x7f12104a" />
     <public type="string" name="mc_selectionbutton_all" id="0x7f12104b" />
-    <public type="string" name="mc_simple_pattern_month_day" id="0x7f12104c" />
-    <public type="string" name="mc_simple_pattern_year_month_day" id="0x7f12104d" />
     <public type="string" name="mc_sunday" id="0x7f12104e" />
     <public type="string" name="mc_thursday" id="0x7f12104f" />
     <public type="string" name="mc_time_picker_dialog_title" id="0x7f121050" />
@@ -4387,25 +4305,6 @@
     <public type="string" name="menu_duration_3h" id="0x7f1210b4" />
     <public type="string" name="menu_duration_6h" id="0x7f1210b5" />
     <public type="string" name="menu_hide_system" id="0x7f1210b6" />
-    <public type="string" name="menu_key_about_device" id="0x7f1210b7" />
-    <public type="string" name="menu_key_accessibility" id="0x7f1210b8" />
-    <public type="string" name="menu_key_accounts" id="0x7f1210b9" />
-    <public type="string" name="menu_key_apps" id="0x7f1210ba" />
-    <public type="string" name="menu_key_battery" id="0x7f1210bb" />
-    <public type="string" name="menu_key_connected_devices" id="0x7f1210bc" />
-    <public type="string" name="menu_key_display" id="0x7f1210bd" />
-    <public type="string" name="menu_key_emergency" id="0x7f1210be" />
-    <public type="string" name="menu_key_location" id="0x7f1210bf" />
-    <public type="string" name="menu_key_network" id="0x7f1210c0" />
-    <public type="string" name="menu_key_notifications" id="0x7f1210c1" />
-    <public type="string" name="menu_key_privacy" id="0x7f1210c2" />
-    <public type="string" name="menu_key_safety_center" id="0x7f1210c3" />
-    <public type="string" name="menu_key_security" id="0x7f1210c4" />
-    <public type="string" name="menu_key_sound" id="0x7f1210c5" />
-    <public type="string" name="menu_key_storage" id="0x7f1210c6" />
-    <public type="string" name="menu_key_support" id="0x7f1210c7" />
-    <public type="string" name="menu_key_system" id="0x7f1210c8" />
-    <public type="string" name="menu_key_wallpaper" id="0x7f1210c9" />
     <public type="string" name="menu_new" id="0x7f1210ca" />
     <public type="string" name="menu_proc_stats_duration" id="0x7f1210cb" />
     <public type="string" name="menu_proc_stats_type" id="0x7f1210cc" />
