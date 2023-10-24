@@ -5274,7 +5274,6 @@ Thông báo nâng cao có thể truy cập nội dung thông báo, bao gồm th�
     <string name="personal_profile_app_subtext">Cá nhân</string>
     <string name="phone_category_title">Điện thoại</string>
     <string name="phone_language">Ngôn ngữ</string>
-    <string name="phone_language_summary" />
     <string name="phone_pwd">Mật khẩu điện thoại</string>
     <string name="phone_pwd_summary">Sử dụng để quản lý vân tay và mở khóa màn hình</string>
     <string name="phone_pwd_summary_no_fp">Sử dụng để mở khóa màn hình</string>
@@ -5879,8 +5878,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
 Đầu: %2$sW/kg @1g
 Thân: %3$sW/kg @1g"</string>
     <string name="sar_dialog_title">Giá trị SAR của Ấn Độ</string>
-    <string name="sar_head_value" />
-    <string name="sar_limit_value" />
     <string name="save">Lưu</string>
     <string name="saved_network">Được lưu bởi %1$s</string>
     <string name="scan_list_label">Quét kết quả:</string>
@@ -6155,9 +6152,6 @@ Mẫu khuôn mặt của bạn sẽ bị xóa vĩnh viễn và an toàn.
 Sau khi xóa, bạn sẽ cần vân tay, mã PIN, hình mở khóa hoặc mật khẩu để mở khóa điện thoại hoặc để xác thực trong ứng dụng."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Thiết lập Mở khóa bằng khuôn mặt</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Sử dụng thiết lập khả năng truy cập</string>
-    <string name="security_settings_face_enroll_introduction_accessibility_diversity" />
-    <string name="security_settings_face_enroll_introduction_accessibility_expanded" />
-    <string name="security_settings_face_enroll_introduction_accessibility_vision" />
     <string name="security_settings_face_enroll_introduction_agree">Tôi đồng ý</string>
     <string name="security_settings_face_enroll_introduction_cancel">Hủy</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Cho phép con bạn sử dụng khuôn mặt để mở khóa điện thoại hoặc xác minh danh tính của chúng. Điều này xảy ra khi họ đăng nhập vào ứng dụng, phê duyệt giao dịch mua và hơn thế nữa.</string>
