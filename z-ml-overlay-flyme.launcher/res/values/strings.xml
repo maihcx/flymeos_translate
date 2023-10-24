@@ -95,7 +95,6 @@
     <string name="allset_navigation_settings"><annotation id="link">System navigation settings</annotation></string>
     <string name="allset_title">All set!</string>
     <string name="alwaysUse">Use this option as default</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_cancel_install">Cancel</string>
     <string name="app_download_failed">Download failed</string>
     <string name="app_download_paused">Paused</string>
@@ -106,7 +105,6 @@
     <string name="app_info_drop_target_label">App info</string>
     <string name="app_installing">Installing</string>
     <string name="app_installing_title">%1$s installing, %2$s complete</string>
-    <string name="app_name">Launcher3</string>
     <string name="app_option">application operation</string>
     <string name="app_waiting_download_title">%1$s waiting to install</string>
     <string name="assistant_gesture_feedback_swipe_not_diagonal">Make sure you swipe diagonally.</string>
@@ -128,13 +126,10 @@
     <string name="back_gesture_tutorial_confirm_subtitle">To change the sensitivity of the back gesture, go to Settings</string>
     <string name="blocked_by_policy">"This action isn't allowed by the app or your organization"</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="cache_db_name">app_icons.db</string>
-    <string name="calendar_component_name">com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity</string>
     <string name="can_not_move_to_target_screen_explain">Space is not enough</string>
     <string name="cancel_action">Cancel</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="cloned">cloned</string>
@@ -147,7 +142,6 @@
     <string name="create_folder_button">GROUP</string>
     <string name="create_folder_with">Create folder with: %1$s</string>
     <string name="date_time_set">Set</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="default_scroll_format">Page %1$d of %2$d</string>
     <string name="derived_app_name">System launcher</string>
     <string name="developer_options_filter_hint">Filter</string>
@@ -158,7 +152,6 @@
     <string name="dialog_update_title">App update required</string>
     <string name="disabled_app_label">Disabled %1$s</string>
     <string name="dismiss_prediction_label">"Don't suggest app"</string>
-    <string name="dotted_app_label">{count, plural, =1 {{app_name} has # notification} other {{app_name} has # notifications} }</string>
     <string name="double_tap_off_screen_desc">Double click on an empty space in the workspace</string>
     <string name="double_tap_off_screen_title">Lock screen</string>
     <string name="easy_contact_dial_add">Add</string>
@@ -342,7 +335,6 @@
     <string name="mc_pattern_a_minute_before">1 minute ago</string>
     <string name="mc_pattern_hour_before">, hours ago</string>
     <string name="mc_pattern_today">Today</string>
-    <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_yesterday">Yesterday</string>
     <string name="mc_permission_apply">Request for permission</string>
     <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
@@ -411,7 +403,6 @@
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
@@ -428,16 +419,12 @@
     <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Select Range</string>
     <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
     <string name="mtrl_picker_save">Save</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
@@ -528,7 +515,6 @@
     <string name="notification_pull_down_option_notification">Notification Center</string>
     <string name="notifications_header">Notifications</string>
     <string name="out_of_space">No room on this home screen</string>
-    <string name="overscroll_plugin_factory_class" />
     <string name="overview_gesture_feedback_complete_with_follow_up">You learned how to use gestures. To turn off gestures, go to Settings.</string>
     <string name="overview_gesture_feedback_complete_without_follow_up">You completed the switch apps gesture.</string>
     <string name="overview_gesture_feedback_home_detected">Try holding the window for longer before releasing.</string>
@@ -584,7 +570,6 @@
     <string name="search_menu_title">Search</string>
     <string name="search_pref_screen_title">Search your phone</string>
     <string name="search_pref_screen_title_tablet">Search your tablet</string>
-    <string name="search_session_manager_class" />
     <string name="search_switch">Search</string>
     <string name="search_switch_explain">Swipe up on desktop to search</string>
     <string name="settings_button_text">Home settings</string>
@@ -600,7 +585,6 @@
     <string name="split_screen_position_top">Split top</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="styles_wallpaper_button_text">Wallpaper &amp; style</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure">OK</string>
     <string name="swipe_again">Swipe again</string>
     <string name="sys_shortcut_add_widget">Add widget</string>
@@ -655,20 +639,16 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="wallpaper_button_text">Wallpapers</string>
-    <string name="wallpaper_picker_package" />
-    <string name="wellbeing_provider_pkg" />
     <string name="widget_accessible_dims_format">%1$d wide by %2$d high</string>
     <string name="widget_add_tips">Add Widget</string>
     <string name="widget_button_text">Widget</string>
     <string name="widget_category_conversations">Conversations</string>
-    <string name="widget_dims_format">%1$d × %2$d</string>
     <string name="widget_education_close_button">Got it</string>
     <string name="widget_education_content">To get info without opening apps, you can add widgets to your home screen</string>
     <string name="widget_education_header">Useful info at your fingertips</string>
     <string name="widget_preview_context_description">%1$s widget</string>
     <string name="widget_reconfigure_button_content_description">Change widget settings</string>
     <string name="widget_resized">Widget resized to width %1$s height %2$s</string>
-    <string name="widgets_and_shortcuts_count">%1$s, %2$s</string>
     <string name="widgets_full_sheet_cancel_button_description">Clear text from search box</string>
     <string name="widgets_full_sheet_personal_tab">Personal</string>
     <string name="widgets_full_sheet_search_bar_hint">Search</string>

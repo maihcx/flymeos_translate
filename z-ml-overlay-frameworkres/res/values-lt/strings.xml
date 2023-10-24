@@ -363,7 +363,6 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="autofill_phone_suffix_separator_re">^-$</string>
     <string name="autofill_picker_accessibility_title">Autofill options</string>
     <string name="autofill_picker_no_suggestions">No autofill suggestions</string>
-    <string name="autofill_picker_some_suggestions">{count, plural, =1 {One autofill suggestion} other {# autofill suggestions} }</string>
     <string name="autofill_postal_code">Postal code</string>
     <string name="autofill_prefecture">Prefecture</string>
     <string name="autofill_province">Province</string>
@@ -422,7 +421,6 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth will stay on during airplane mode</string>
-    <string name="bugreport_countdown">{count, plural, =1 {Taking screenshot for bug report in # second.} other {Taking screenshot for bug report in # seconds.} }</string>
     <string name="bugreport_message">This will collect information about your current device state, to send as an e-mail message. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
     <string name="bugreport_option_full_summary">Use this option for minimal system interference when your device is unresponsive or too slow, or when you need all report sections. Does not allow you to enter more details or take additional screenshots.</string>
     <string name="bugreport_option_full_title">Full report</string>
@@ -480,9 +478,6 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="color_inversion_feature_name">Color Inversion</string>
     <string name="common_last_name_prefixes" />
     <string name="common_name">Common name:</string>
-    <string name="common_name_conjunctions" />
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
     <string name="condition_provider_service_binding_label">Condition provider</string>
     <string name="conference_call">Conference Call</string>
     <string name="confirm_battery_saver">OK</string>
@@ -546,10 +541,7 @@ using %s"</string>
     <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Headphones</string>
     <string name="default_audio_route_name_usb">USB</string>
-    <string name="default_browser" />
     <string name="default_notification_channel_label">Uncategorized</string>
-    <string name="default_sms_application">com.android.messaging</string>
-    <string name="default_wallpaper_component">@null</string>
     <string name="delete">Delete</string>
     <string name="deleteText">Delete</string>
     <string name="deleted_key">%1$s deleted</string>
@@ -582,29 +574,15 @@ using %s"</string>
     <string name="dump_heap_system_text">The %1$s process has exceeded its memory limit of %2$s. A heap dump is available for you to share. Be careful: this heap dump can contain any sensitive personal information that the process has access to, which may include things you’ve typed.</string>
     <string name="dump_heap_text">The %1$s process has exceeded its memory limit of %2$s. A heap dump is available for you to share with its developer. Be careful: this heap dump can contain any of your personal information that the application has access to.</string>
     <string name="dump_heap_title">Share heap dump?</string>
-    <string name="duration_days_relative">{count, plural, =1 {# day ago} other {# days ago} }</string>
-    <string name="duration_days_relative_future">{count, plural, =1 {# day} other {# days} }</string>
-    <string name="duration_days_shortest">%dd</string>
     <string name="duration_days_shortest_future">in %dd</string>
-    <string name="duration_hours_relative">{count, plural, =1 {# hour ago} other {# hours ago} }</string>
-    <string name="duration_hours_relative_future">{count, plural, =1 {# hour} other {# hours} }</string>
-    <string name="duration_hours_shortest">%dh</string>
     <string name="duration_hours_shortest_future">in %dh</string>
-    <string name="duration_minutes_relative">{count, plural, =1 {# minute ago} other {# minutes ago} }</string>
-    <string name="duration_minutes_relative_future">{count, plural, =1 {# minute} other {# minutes} }</string>
-    <string name="duration_minutes_shortest">%dm</string>
     <string name="duration_minutes_shortest_future">in %dm</string>
-    <string name="duration_years_relative">{count, plural, =1 {# year ago} other {# years ago} }</string>
-    <string name="duration_years_relative_future">{count, plural, =1 {# year} other {# years} }</string>
-    <string name="duration_years_shortest">%dy</string>
     <string name="duration_years_shortest_future">in %dy</string>
     <string name="dynamic_mode_notification_channel_name">Routine Mode info notification</string>
     <string name="dynamic_mode_notification_summary">Battery Saver activated to extend battery life</string>
     <string name="dynamic_mode_notification_title">Battery may run out before usual charge</string>
     <string name="editTextMenuTitle">Text actions</string>
     <string name="edit_accessibility_shortcut_menu_button">Edit shortcuts</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="emailTypeCustom">Custom</string>
     <string name="emailTypeHome">Home</string>
     <string name="emailTypeMobile">Mobile</string>
@@ -730,8 +708,6 @@ If you have questions, contact your organization's admin."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Feature code complete.</string>
     <string name="fcError">Connection problem or invalid feature code.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="file_count">{count, plural, =1 {{file_name} + # file} other {{file_name} + # files} }</string>
     <string name="find">Find</string>
     <string name="find_next">Find next</string>
     <string name="find_on_page">Find on page</string>
@@ -775,18 +751,6 @@ If you have questions, contact your organization's admin."</string>
     <string name="fingerprints">Fingerprints:</string>
     <string name="floating_toolbar_close_overflow_description">Close overflow</string>
     <string name="floating_toolbar_open_overflow_description">More options</string>
-    <string name="font_family_body_1_material">sans-serif</string>
-    <string name="font_family_body_2_material">sans-serif-medium</string>
-    <string name="font_family_button_material">sans-serif-medium</string>
-    <string name="font_family_caption_material">sans-serif</string>
-    <string name="font_family_display_1_material">sans-serif</string>
-    <string name="font_family_display_2_material">sans-serif</string>
-    <string name="font_family_display_3_material">sans-serif</string>
-    <string name="font_family_display_4_material">sans-serif-light</string>
-    <string name="font_family_headline_material">sans-serif</string>
-    <string name="font_family_menu_material">sans-serif</string>
-    <string name="font_family_subhead_material">sans-serif</string>
-    <string name="font_family_title_material">sans-serif-medium</string>
     <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">%1$s is using battery</string>
     <string name="foreground_service_apps_in_background">%1$d apps are using battery</string>
@@ -869,7 +833,6 @@ Try tapping lightly while setting up your fingerprint."</string>
     <string name="httpErrorTimeout">The connection to the server timed out.</string>
     <string name="httpErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
     <string name="httpErrorUnsupportedAuthScheme">"The site authentication scheme isn't supported."</string>
-    <string name="icu_abbrev_wday_month_day_no_year">EEEMMMMd</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Custom</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -1005,7 +968,6 @@ Try again in %2$d seconds."</string>
     <string name="language_picker_section_suggested">Suggested</string>
     <string name="language_selection_title">Add a language</string>
     <string name="last_month">Last month</string>
-    <string name="last_num_days">{ count, plural, =1 {Last # day} other {Last # days} }</string>
     <string name="launchBrowserDefault">Launch Browser?</string>
     <string name="launch_warning_original">%1$s was originally launched.</string>
     <string name="launch_warning_replace">%1$s is now running.</string>
@@ -1103,7 +1065,6 @@ If you don’t allow this app to access all device logs, it can still access its
     <string name="managed_profile_label_badge">Work %1$s</string>
     <string name="managed_profile_label_badge_2">2nd Work %1$s</string>
     <string name="managed_profile_label_badge_3">3rd Work %1$s</string>
-    <string name="matches_found">{ count, plural, =1 {# match} other {# of {total}} }</string>
     <string name="maximize_button_text">Maximize</string>
     <string name="me">Me</string>
     <string name="media_route_button_content_description">Cast</string>
@@ -1263,9 +1224,6 @@ If you don’t allow this app to access all device logs, it can still access its
     <string name="mmiErrorWhileRoaming">Can not change call forwarding settings from your phone while you are roaming.</string>
     <string name="mmiFdnError">Operation is restricted to fixed dialing numbers only.</string>
     <string name="mobile_no_internet">Mobile network has no internet access</string>
-    <string name="mobile_provisioning_apn" />
-    <string name="mobile_provisioning_url" />
-    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
     <string name="more_item_label">More</string>
     <string name="mte_override_notification_message">Performance and stability might be impacted. Reboot to disable. If enabled using arm64.memtag.bootctl, set it to none beforehand.</string>
     <string name="mte_override_notification_title">Experimental MTE enabled</string>
@@ -2010,7 +1968,6 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="ssl_ca_cert_noti_by_administrator">By your work profile admin</string>
     <string name="ssl_ca_cert_noti_by_unknown">By an unknown third party</string>
     <string name="ssl_ca_cert_noti_managed">By %s</string>
-    <string name="ssl_ca_cert_warning">{count, plural, =1 {Certificate authority installed} other {Certificate authorities installed} }</string>
     <string name="ssl_certificate">Security certificate</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
     <string name="status_bar_airplane">airplane</string>
@@ -2251,14 +2208,6 @@ Do you want to close it?"</string>
     <string name="zen_mode_default_weekends_name">Weekend</string>
     <string name="zen_mode_default_weeknights_name">Weeknight</string>
     <string name="zen_mode_downtime_feature_name">Downtime</string>
-    <string name="zen_mode_duration_hours">{count, plural, =1 {For 1 hour} other {For # hours} }</string>
-    <string name="zen_mode_duration_hours_short">{count, plural, =1 {For 1 hr} other {For # hr} }</string>
-    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {For 1 hour (until {formattedTime})} other {For # hours (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {For 1 hr (until {formattedTime})} other {For # hr (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes">{count, plural, =1 {For one minute} other {For # minutes} }</string>
-    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {For 1 min} other {For # min} }</string>
-    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {For one minute (until {formattedTime})} other {For # minutes (until {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {For 1 min (until {formattedTime})} other {For # min (until {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Do not disturb</string>
     <string name="zen_mode_forever">Until you turn off</string>
     <string name="zen_mode_forever_dnd">Until you turn off Do Not Disturb</string>
