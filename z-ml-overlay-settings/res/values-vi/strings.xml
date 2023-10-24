@@ -1665,14 +1665,14 @@ Nếu bạn cài đặt chứng chỉ CA, chủ sở hữu chứng chỉ có th�
     <string name="camera_click_sounds_enable_title">Màn trập máy ảnh</string>
     <string name="camera_double_tap_power_gesture_desc">Mở nhanh camera mà không cần mở khóa màn hình</string>
     <string name="camera_double_tap_power_gesture_title">Nhấn nút nguồn hai lần để mở máy ảnh</string>
-    <string name="camera_front">Phía trước</string>
+    <string name="camera_front">Trước</string>
     <string name="camera_front_info">13MP</string>
     <string name="camera_gesture_desc">Mở ứng dụng máy ảnh bằng cách vặn cổ tay của bạn hai lần</string>
     <string name="camera_gesture_title">Vặn đôi cho máy ảnh</string>
     <string name="camera_info">64+8+2MP</string>
     <string name="camera_laser_sensor_switch">Cảm biến laze của máy ảnh</string>
     <string name="camera_open_failed_msg">Lỗi khởi động camera. Vui lòng thử lại sau</string>
-    <string name="camera_rear">Phía sau</string>
+    <string name="camera_rear">Sau</string>
     <string name="camera_rear_info">64+8+2MP</string>
     <string name="camera_summary">Máy ảnh</string>
     <string name="camera_summary_ai">Máy ảnh AI</string>
@@ -5840,7 +5840,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="root_warning_msg">Việc cho phép bên thứ ba truy cập quyền root có thể dẫn đến các rủi ro như mất ổn định hệ thống, rò rỉ dữ liệu riêng tư, hư hỏng phần cứng, v.v. Meizu sẽ không chịu trách nhiệm về bất kỳ rủi ro hoặc thiệt hại nào thuộc loại đó.</string>
     <string name="root_warning_title">CẢNH BÁO</string>
     <string name="rssi_label">RSSI:</string>
-    <string name="run_memory">Đang chạy bộ nhớ</string>
+    <string name="run_memory">Bộ nhớ đang chạy</string>
     <string name="run_memory_expansion_title">Chạy mở rộng bộ nhớ</string>
     <string name="running_frequency">Tần số</string>
     <string name="running_process_item_removed_user_label">Đã xóa người dùng</string>
