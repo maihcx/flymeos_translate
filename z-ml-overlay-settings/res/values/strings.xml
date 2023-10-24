@@ -2685,7 +2685,6 @@ dedicate to perfection"</string>
  • Your call may not be answered"</string>
     <string name="emergency_gesture_screen_summary">Press the Power button quickly 5 times or more to start the actions below</string>
     <string name="emergency_gesture_screen_title">Emergency SOS</string>
-    <string name="emergency_gesture_settings_package" />
     <string name="emergency_gesture_sound_setting_summary">Play a loud sound when Emergency SOS is starting</string>
     <string name="emergency_gesture_sound_setting_title">Play countdown alarm</string>
     <string name="emergency_gesture_switchbar_title">Use Emergency SOS</string>
@@ -4578,7 +4577,6 @@ Switching to %1$s won't cancel your %2$s service."</string>
     <string name="mz_fp_unselect_all">None</string>
     <string name="mz_fp_verify_failed">Fingerprint mismatch</string>
     <string name="mz_install_unknown_applications">Unknown sources</string>
-    <string name="mz_install_unknown_applications_summary">@string/install_unknown_applications</string>
     <string name="mz_network_unavailable_hint">Network unavailable. Please check your network settings.</string>
     <string name="mz_permission_agree">Agree</string>
     <string name="mz_permission_allow">Allow</string>
@@ -4638,7 +4636,6 @@ Switching to %1$s won't cancel your %2$s service."</string>
     <string name="mz_pm_wlan">WLAN</string>
     <string name="mz_privacy_policy">Privacy Policy</string>
     <string name="mz_reject">Exit</string>
-    <string name="mz_security_head_title">@string/mz_fp_header_title</string>
     <string name="mz_settings_regulation_title">Regulatory</string>
     <string name="mz_specific_permission_allow">Still allow</string>
     <string name="mz_specific_permission_deny">Deny to give permission</string>
@@ -4990,7 +4987,6 @@ This replaces %2$s as your default payment app."</string>
     <string name="not_installed">Not installed for this user</string>
     <string name="not_reset_auto_launch_summary">Not set as other auto launch</string>
     <string name="not_set">Not set</string>
-    <string name="notice_header" />
     <string name="notif_listener_excluded_app_screen_title">Apps shown on device</string>
     <string name="notif_listener_excluded_app_summary">Change settings for each app that sends notifications</string>
     <string name="notif_listener_excluded_app_title">See all apps</string>
@@ -5571,9 +5567,6 @@ Press Power and Volume up at the same time."</string>
     <string name="push_channel_title">Push notification</string>
     <string name="pwd_exist">Identical password, please re-enter</string>
     <string name="qr_code_share_notice">Please scan the QR code with Flyme camera to connect</string>
-    <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
-    <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
-    <string name="qtifeedback_package">com.qti.smq.Feedback</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
     <string name="qtifeedback_settings_title">Hardware Feedback</string>
     <string name="quick_controls_lower">device controls</string>
@@ -5852,10 +5845,6 @@ This setting affects all users on this phone."</string>
     <string name="root_warning_msg">Allowing third-party to access root permission may result in risks such as system unstability, private data leaking, hardware damage, etc. Meizu will not be responsible for any risk or damage of such kind.</string>
     <string name="root_warning_title">WARNING</string>
     <string name="rssi_label">RSSI:</string>
-    <string name="rtt_settings_always_visible" />
-    <string name="rtt_settings_no_visible" />
-    <string name="rtt_settings_title" />
-    <string name="rtt_settings_visible_during_call" />
     <string name="run_memory">Running memory</string>
     <string name="run_memory_expansion_title">Run memory expansion</string>
     <string name="running_frequency">Frequency</string>
@@ -5890,7 +5879,6 @@ This setting affects all users on this phone."</string>
     <string name="safety_and_regulatory_info">Safety &amp; regulatory manual</string>
     <string name="safety_center_summary">App security, device lock, permissions</string>
     <string name="safety_center_title">Security &amp; privacy</string>
-    <string name="sar_body_value" />
     <string name="sar_dialog_msg">"Limit: %1$sW/kg
 Head: %2$sW/kg @1g
 Body: %3$sW/kg @1g"</string>
@@ -6052,7 +6040,6 @@ To use app pinning: \u0009
     <string name="sd_insert_summary">Insert USB storage for mounting</string>
     <string name="sd_memory">USB storage</string>
     <string name="sd_mount">Mount USB storage</string>
-    <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
     <string name="sdcard_format">Erase USB storage</string>
     <string name="sdcard_install_failed">Failed to mount SD card. Please remove and re-insert SD card.</string>
@@ -6151,8 +6138,6 @@ To use app pinning: \u0009
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">If accessibility Face Unlock is turned off, some setup steps may not work properly with TalkBack.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Go back</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Continue setup</string>
-    <string name="security_settings_face_enroll_education_message" />
-    <string name="security_settings_face_enroll_education_message_accessibility" />
     <string name="security_settings_face_enroll_education_start">Start</string>
     <string name="security_settings_face_enroll_education_title">How to set up Face Unlock</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Set up Face Unlock</string>
@@ -6180,21 +6165,6 @@ After deletion, you will need your fingerprint, PIN, pattern, or password to unl
     <string name="security_settings_face_enroll_introduction_agree">I agree</string>
     <string name="security_settings_face_enroll_introduction_cancel">Cancel</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Allow your child to use their face to unlock their phone or verify it’s them. This happens when they sign in to apps, approve a purchase, and more.</string>
-    <string name="security_settings_face_enroll_introduction_control_consent_message" />
-    <string name="security_settings_face_enroll_introduction_control_consent_title" />
-    <string name="security_settings_face_enroll_introduction_control_message" />
-    <string name="security_settings_face_enroll_introduction_control_title" />
-    <string name="security_settings_face_enroll_introduction_how_consent_message" />
-    <string name="security_settings_face_enroll_introduction_how_message" />
-    <string name="security_settings_face_enroll_introduction_how_title" />
-    <string name="security_settings_face_enroll_introduction_info_consent_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_consent_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_consent_looking" />
-    <string name="security_settings_face_enroll_introduction_info_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_less_secure" />
-    <string name="security_settings_face_enroll_introduction_info_looking" />
-    <string name="security_settings_face_enroll_introduction_info_title" />
     <string name="security_settings_face_enroll_introduction_message">Use your face to unlock your phone, authorize purchases, or sign in to apps.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Use your face to unlock your phone, authorize purchases, or sign in to apps</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Use your face to unlock your phone or approve purchases.
@@ -6290,7 +6260,6 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Touch the sensor on the back of your phone. Use your index finger.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Whoops, that’s not the sensor</string>
     <string name="security_settings_fingerprint_enroll_udfps_title">Touch &amp; hold the fingerprint sensor</string>
-    <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Fingerprint</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">This fingerprint has already been added</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">Clean your screen near the sensor and try again</string>
@@ -6312,7 +6281,6 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">For best results, use a screen protector that’s Made for Google certified. With other screen protectors, your child’s fingerprint may not work.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Keep in mind</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">How it works</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" />
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">When you see this icon, use your fingerprint for authentication, like when you sign in to apps or approve a purchase</string>
     <string name="security_settings_fingerprint_v2_home_screen_text">Use your fingerprint to unlock your phone or verify it’s you, like when you sign in to apps</string>
     <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
@@ -6418,7 +6386,6 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">There is a problem loading the manual.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_panel_title">Settings Panel</string>
     <string name="settings_permission_dialog_msg">Settings needs network access to get service history, read and write your contacts to create a Do Not Disturb whitelist.</string>
     <string name="settings_safetylegal_activity_loading">Loading</string>
@@ -6426,7 +6393,6 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="settings_safetylegal_activity_unreachable">You don’t have a data connection. To view this information now, go to %s from any computer connected to the internet.</string>
     <string name="settings_safetylegal_title">Safety information</string>
     <string name="settings_shortcut">Settings shortcut</string>
-    <string name="settingslib_config_headlineFontFamily" />
     <string name="settingslib_learn_more_text">Learn more</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
@@ -7014,10 +6980,6 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="subscreen_title">Secondary display</string>
     <string name="subscreen_use_tips">Demo</string>
     <string name="subscription_available">Available</string>
-    <string name="sudFontSecondary">google-sans</string>
-    <string name="sudFontSecondaryMedium">google-sans-medium</string>
-    <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
-    <string name="sudFontSecondaryText">google-sans-text</string>
     <string name="sud_back_button_label">Back</string>
     <string name="sud_more_button_label">More</string>
     <string name="sud_next_button_label">Next</string>
@@ -7041,7 +7003,6 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="sum_select_automatically">Auto choose preferred network</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_empty" />
     <string name="summary_font_size">%1$s</string>
     <string name="summary_fullscreen_gesture">Fullscreen gesture</string>
     <string name="summary_gesture">Gesture navigation</string>
@@ -7392,7 +7353,6 @@ This also deletes the fingerprint model stored on your device. You won’t be ab
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_summary">No security</string>
     <string name="unlock_set_unlock_none_title">Swipe</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">None</string>
     <string name="unlock_set_unlock_password_summary">High security</string>
     <string name="unlock_set_unlock_password_title">Password</string>
@@ -7930,7 +7890,6 @@ Visit your carrier’s privacy policy for details."</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">If Wi‑Fi is unavailable, use mobile network</string>
     <string name="wifi_calling_not_supported">Wi‑Fi calling is not supported for %1$s</string>
     <string name="wifi_calling_off_explanation">When Wi-Fi calling is on, your phone can route calls via Wi-Fi networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.%1$s</string>
-    <string name="wifi_calling_off_explanation_2" />
     <string name="wifi_calling_pref_managed_by_carrier">Setting managed by carrier</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Roaming preference</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
@@ -8225,7 +8184,6 @@ Allow this for all apps that want to scan?"</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">None/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -8368,7 +8326,6 @@ Credential storage might not enable"</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS server cannot be accessed</string>
     <string name="wifitrackerlib_saved_network">Saved by %1$s</string>
-    <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tap to renew subscription and connect</string>
     <string name="wifitrackerlib_tap_to_sign_up">Tap to sign up</string>
