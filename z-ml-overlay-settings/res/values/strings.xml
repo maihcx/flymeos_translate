@@ -5278,7 +5278,6 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
     <string name="personal_profile_app_subtext">Personal</string>
     <string name="phone_category_title">Phone</string>
     <string name="phone_language">Language</string>
-    <string name="phone_language_summary" />
     <string name="phone_pwd">Phone password</string>
     <string name="phone_pwd_summary">Use for fingerprint management and screen unlock</string>
     <string name="phone_pwd_summary_no_fp">Use for screen unlock</string>
@@ -5883,8 +5882,6 @@ This setting affects all users on this phone."</string>
 Head: %2$sW/kg @1g
 Body: %3$sW/kg @1g"</string>
     <string name="sar_dialog_title">India SAR value</string>
-    <string name="sar_head_value" />
-    <string name="sar_limit_value" />
     <string name="save">Save</string>
     <string name="saved_network">Saved by %1$s</string>
     <string name="scan_list_label">Scan results:</string>
@@ -6159,9 +6156,6 @@ Your face model will be permanently and securely deleted.
 After deletion, you will need your fingerprint, PIN, pattern, or password to unlock your phone or for authentication in apps."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Set up Face Unlock</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Use accessibility setup</string>
-    <string name="security_settings_face_enroll_introduction_accessibility_diversity" />
-    <string name="security_settings_face_enroll_introduction_accessibility_expanded" />
-    <string name="security_settings_face_enroll_introduction_accessibility_vision" />
     <string name="security_settings_face_enroll_introduction_agree">I agree</string>
     <string name="security_settings_face_enroll_introduction_cancel">Cancel</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Allow your child to use their face to unlock their phone or verify it’s them. This happens when they sign in to apps, approve a purchase, and more.</string>

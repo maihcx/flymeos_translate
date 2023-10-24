@@ -5280,7 +5280,6 @@
     <public type="string" name="personal_profile_app_subtext" id="0x7f1214a2" />
     <public type="string" name="phone_category_title" id="0x7f1214a3" />
     <public type="string" name="phone_language" id="0x7f1214a4" />
-    <public type="string" name="phone_language_summary" id="0x7f1214a5" />
     <public type="string" name="phone_pwd" id="0x7f1214a6" />
     <public type="string" name="phone_pwd_summary" id="0x7f1214a7" />
     <public type="string" name="phone_pwd_summary_no_fp" id="0x7f1214a8" />
@@ -5861,8 +5860,6 @@
     <public type="string" name="safety_center_title" id="0x7f1216ff" />
     <public type="string" name="sar_dialog_msg" id="0x7f121701" />
     <public type="string" name="sar_dialog_title" id="0x7f121702" />
-    <public type="string" name="sar_head_value" id="0x7f121703" />
-    <public type="string" name="sar_limit_value" id="0x7f121704" />
     <public type="string" name="save" id="0x7f121705" />
     <public type="string" name="saved_network" id="0x7f121706" />
     <public type="string" name="scan_list_label" id="0x7f121707" />
@@ -6098,9 +6095,6 @@
     <public type="string" name="security_settings_face_enroll_improve_face_alert_body_fingerprint" id="0x7f1217f0" />
     <public type="string" name="security_settings_face_enroll_improve_face_alert_title" id="0x7f1217f1" />
     <public type="string" name="security_settings_face_enroll_introduction_accessibility" id="0x7f1217f2" />
-    <public type="string" name="security_settings_face_enroll_introduction_accessibility_diversity" id="0x7f1217f3" />
-    <public type="string" name="security_settings_face_enroll_introduction_accessibility_expanded" id="0x7f1217f4" />
-    <public type="string" name="security_settings_face_enroll_introduction_accessibility_vision" id="0x7f1217f5" />
     <public type="string" name="security_settings_face_enroll_introduction_agree" id="0x7f1217f6" />
     <public type="string" name="security_settings_face_enroll_introduction_cancel" id="0x7f1217f7" />
     <public type="string" name="security_settings_face_enroll_introduction_consent_message" id="0x7f1217f8" />
