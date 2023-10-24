@@ -2685,7 +2685,6 @@ cống hiến cho sự hoàn hảo"</string>
   • Cuộc gọi của bạn có thể không được trả lời"</string>
     <string name="emergency_gesture_screen_summary">Nhấn nhanh nút Nguồn 5 lần trở lên để bắt đầu các tác vụ bên dưới</string>
     <string name="emergency_gesture_screen_title">SOS khẩn cấp</string>
-    <string name="emergency_gesture_settings_package" />
     <string name="emergency_gesture_sound_setting_summary">Phát âm thanh lớn khi SOS khẩn cấp đang bắt đầu</string>
     <string name="emergency_gesture_sound_setting_title">Chơi báo thức đếm ngược</string>
     <string name="emergency_gesture_switchbar_title">Sử dụng SOS khẩn cấp</string>
@@ -4574,7 +4573,6 @@ Việc chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</stri
     <string name="mz_fp_unselect_all">Không</string>
     <string name="mz_fp_verify_failed">Vân tay không khớp</string>
     <string name="mz_install_unknown_applications">Nguồn không xác định</string>
-    <string name="mz_install_unknown_applications_summary">@string/install_unknown_applications</string>
     <string name="mz_network_unavailable_hint">Mạng không khả dụng. Vui lòng kiểm tra cài đặt mạng của bạn.</string>
     <string name="mz_permission_agree">Đồng ý</string>
     <string name="mz_permission_allow">Cho phép</string>
@@ -4634,7 +4632,6 @@ Việc chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</stri
     <string name="mz_pm_wlan">WLAN</string>
     <string name="mz_privacy_policy">Chính sách quyền riêng tư</string>
     <string name="mz_reject">Thoát</string>
-    <string name="mz_security_head_title">@string/mz_fp_header_title</string>
     <string name="mz_settings_regulation_title">Quy định</string>
     <string name="mz_specific_permission_allow">Vẫn cho phép</string>
     <string name="mz_specific_permission_deny">Từ chối cấp quyền</string>
@@ -4986,7 +4983,6 @@ Việc chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</stri
     <string name="not_installed">Chưa được cài đặt cho người dùng này</string>
     <string name="not_reset_auto_launch_summary">Không được đặt làm chế độ tự động khởi chạy khác</string>
     <string name="not_set">Chưa được đặt</string>
-    <string name="notice_header" />
     <string name="notif_listener_excluded_app_screen_title">Ứng dụng hiển thị trên thiết bị</string>
     <string name="notif_listener_excluded_app_summary">Thay đổi cài đặt cho từng ứng dụng gửi thông báo</string>
     <string name="notif_listener_excluded_app_title">Xem tất cả ứng dụng</string>
@@ -5567,9 +5563,6 @@ Nhấn Nguồn và Tăng âm lượng cùng lúc."</string>
     <string name="push_channel_title">Thông báo đẩy</string>
     <string name="pwd_exist">Mật khẩu giống hệt, vui lòng nhập lại</string>
     <string name="qr_code_share_notice">Vui lòng quét mã QR bằng camera Flyme để kết nối</string>
-    <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
-    <string name="qtifeedback_intent_action">com.qti.smq.snapdragonCài đặt</string>
-    <string name="qtifeedback_package">com.qti.smq.Feedback</string>
     <string name="qtifeedback_settings_subtitle">Báo cáo của Qualcomm Technologies, Inc</string>
     <string name="qtifeedback_settings_title">Phản hồi phần cứng</string>
     <string name="quick_controls_lower">điều khiển thiết bị</string>
@@ -5848,10 +5841,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="root_warning_msg">Việc cho phép bên thứ ba truy cập quyền root có thể dẫn đến các rủi ro như mất ổn định hệ thống, rò rỉ dữ liệu riêng tư, hư hỏng phần cứng, v.v. Meizu sẽ không chịu trách nhiệm về bất kỳ rủi ro hoặc thiệt hại nào thuộc loại đó.</string>
     <string name="root_warning_title">CẢNH BÁO</string>
     <string name="rssi_label">RSSI:</string>
-    <string name="rtt_settings_always_visible" />
-    <string name="rtt_settings_no_visible" />
-    <string name="rtt_settings_title" />
-    <string name="rtt_settings_visible_during_call" />
     <string name="run_memory">Đang chạy bộ nhớ</string>
     <string name="run_memory_expansion_title">Chạy mở rộng bộ nhớ</string>
     <string name="running_frequency">Tần số</string>
@@ -5886,7 +5875,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="safety_and_regulatory_info">An toàn &amp; sổ tay quy định</string>
     <string name="safety_center_summary">Bảo mật ứng dụng, khóa thiết bị, quyền</string>
     <string name="safety_center_title">Bảo mật &amp; quyền riêng tư</string>
-    <string name="sar_body_value" />
     <string name="sar_dialog_msg">"Giới hạn: %1$sW/kg
 Đầu: %2$sW/kg @1g
 Thân: %3$sW/kg @1g"</string>
@@ -6048,7 +6036,6 @@ Nếu bạn muốn chia sẻ thiết bị của mình một cách an toàn với
     <string name="sd_insert_summary">Lắp bộ lưu trữ USB để gắn</string>
     <string name="sd_memory">Bộ nhớ USB</string>
     <string name="sd_mount">Gắn bộ lưu trữ USB</string>
-    <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">Các thay đổi có hiệu lực khi cáp USB được kết nối lại.</string>
     <string name="sdcard_format">Xóa bộ nhớ USB</string>
     <string name="sdcard_install_failed">Không thể gắn thẻ SD. Vui lòng tháo và lắp lại thẻ SD.</string>
@@ -6147,8 +6134,6 @@ Nếu bạn muốn chia sẻ thiết bị của mình một cách an toàn với
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">Nếu khả năng truy cập Mở khóa bằng khuôn mặt bị tắt thì một số bước thiết lập có thể không hoạt động bình thường với TalkBack.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Quay lại</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Tiếp tục thiết lập</string>
-    <string name="security_settings_face_enroll_education_message" />
-    <string name="security_settings_face_enroll_education_message_accessibility" />
     <string name="security_settings_face_enroll_education_start">Bắt đầu</string>
     <string name="security_settings_face_enroll_education_title">Cách thiết lập Mở khóa bằng khuôn mặt</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Thiết lập Mở khóa bằng khuôn mặt</string>
@@ -6176,21 +6161,6 @@ Sau khi xóa, bạn sẽ cần vân tay, mã PIN, hình mở khóa hoặc mật 
     <string name="security_settings_face_enroll_introduction_agree">Tôi đồng ý</string>
     <string name="security_settings_face_enroll_introduction_cancel">Hủy</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Cho phép con bạn sử dụng khuôn mặt để mở khóa điện thoại hoặc xác minh danh tính của chúng. Điều này xảy ra khi họ đăng nhập vào ứng dụng, phê duyệt giao dịch mua và hơn thế nữa.</string>
-    <string name="security_settings_face_enroll_introduction_control_consent_message" />
-    <string name="security_settings_face_enroll_introduction_control_consent_title" />
-    <string name="security_settings_face_enroll_introduction_control_message" />
-    <string name="security_settings_face_enroll_introduction_control_title" />
-    <string name="security_settings_face_enroll_introduction_how_consent_message" />
-    <string name="security_settings_face_enroll_introduction_how_message" />
-    <string name="security_settings_face_enroll_introduction_how_title" />
-    <string name="security_settings_face_enroll_introduction_info_consent_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_consent_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_consent_looking" />
-    <string name="security_settings_face_enroll_introduction_info_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_less_secure" />
-    <string name="security_settings_face_enroll_introduction_info_looking" />
-    <string name="security_settings_face_enroll_introduction_info_title" />
     <string name="security_settings_face_enroll_introduction_message">Sử dụng khuôn mặt của bạn để mở khóa điện thoại, ủy quyền mua hàng hoặc đăng nhập vào ứng dụng.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Sử dụng khuôn mặt của bạn để mở khóa điện thoại, ủy quyền mua hàng hoặc đăng nhập vào ứng dụng</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Sử dụng khuôn mặt của bạn để mở khóa điện thoại hoặc phê duyệt mua hàng.
@@ -6286,7 +6256,6 @@ Lưu ý: Bạn không thể sử dụng dấu vân tay của mình để mở kh
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Chạm vào cảm biến ở mặt sau điện thoại của bạn. Sử dụng ngón trỏ của bạn.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Rất tiếc, đó không phải là cảm biến</string>
     <string name="security_settings_fingerprint_enroll_udfps_title">Chạm &amp; giữ cảm biến vân tay</string>
-    <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Dấu vân tay</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">Vân tay này đã được thêm</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">Làm sạch màn hình của bạn gần cảm biến và thử lại</string>
@@ -6308,7 +6277,6 @@ Lưu ý: Bạn không thể sử dụng dấu vân tay của mình để mở kh
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Để có kết quả tốt nhất, hãy sử dụng miếng bảo vệ màn hình được chứng nhận Made for Google. Với các miếng bảo vệ màn hình khác, dấu vân tay của con bạn có thể không hoạt động.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Hãy ghi nhớ</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Cách thức hoạt động</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" />
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Khi bạn nhìn thấy biểu tượng này, hãy sử dụng dấu vân tay của bạn để xác thực, chẳng hạn như khi bạn đăng nhập vào ứng dụng hoặc phê duyệt mua hàng</string>
     <string name="security_settings_fingerprint_v2_home_screen_text">Sử dụng dấu vân tay của bạn để mở khóa điện thoại hoặc xác minh danh tính của bạn, chẳng hạn như khi bạn đăng nhập vào ứng dụng</string>
     <string name="security_settings_summary">Đặt Vị trí của tôi, mở khóa màn hình, khóa thẻ SIM, khóa bộ nhớ thông tin xác thực</string>
@@ -6414,7 +6382,6 @@ Lưu ý: Bạn không thể sử dụng dấu vân tay của mình để mở kh
     <string name="settings_license_activity_unavailable">Đã xảy ra sự cố khi tải giấy phép.</string>
     <string name="settings_manual_activity_title">Hướng dẫn sử dụng</string>
     <string name="settings_manual_activity_unavailable">Đã xảy ra sự cố khi tải hướng dẫn sử dụng.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_panel_title">Bảng cài đặt</string>
     <string name="settings_permission_dialog_msg">Cài đặt cần truy cập mạng để lấy lịch sử dịch vụ, đọc và ghi danh bạ của bạn để tạo danh sách trắng Không làm phiền.</string>
     <string name="settings_safetylegal_activity_loading">Đang tải</string>
@@ -6422,7 +6389,6 @@ Lưu ý: Bạn không thể sử dụng dấu vân tay của mình để mở kh
     <string name="settings_safetylegal_activity_unreachable">Bạn không có kết nối dữ liệu. Để xem thông tin này ngay bây giờ, hãy truy cập %s từ bất kỳ máy tính nào được kết nối Internet.</string>
     <string name="settings_safetylegal_title">Thông tin an toàn</string>
     <string name="settings_shortcut">Phím tắt cài đặt</string>
-    <string name="settingslib_config_headlineFontFamily" />
     <string name="settingslib_learn_more_text">Tìm hiểu thêm</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Bạn đã chọn sử dụng dấu vân tay làm một cách để mở khóa điện thoại của mình. Nếu bỏ qua bây giờ, bạn sẽ cần thiết lập tính năng này sau. Quá trình thiết lập chỉ mất khoảng một phút.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Bỏ qua thiết lập vân tay?</string>
@@ -7010,10 +6976,6 @@ Hãy thử sử dụng ^3 nhanh hơn hoặc sử dụng ^4 này để lưu trữ
     <string name="subscreen_title">Hiển thị phụ</string>
     <string name="subscreen_use_tips">Bản demo</string>
     <string name="subscription_available">Có sẵn</string>
-    <string name="sudFontSecondary">google-san</string>
-    <string name="sudFontSecondaryMedium">google-sans-medium</string>
-    <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
-    <string name="sudFontSecondaryText">google-sans-text</string>
     <string name="sud_back_button_label">Quay lại</string>
     <string name="sud_more_button_label">Thêm</string>
     <string name="sud_next_button_label">Tiếp theo</string>
@@ -7037,7 +6999,6 @@ Hãy thử sử dụng ^3 nhanh hơn hoặc sử dụng ^4 này để lưu trữ
     <string name="sum_select_automatically">Tự động chọn mạng ưa thích</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_empty" />
     <string name="summary_font_size">%1$s</string>
     <string name="summary_fullscreen_gesture">Cử chỉ toàn màn hình</string>
     <string name="summary_gesture">Điều hướng bằng cử chỉ</string>
@@ -7388,7 +7349,6 @@ Thao tác này cũng sẽ xóa mẫu vân tay được lưu trữ trên thiết 
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_summary">Không có bảo mật</string>
     <string name="unlock_set_unlock_none_title">Vuốt</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Không có</string>
     <string name="unlock_set_unlock_password_summary">Bảo mật cao</string>
     <string name="unlock_set_unlock_password_title">Mật khẩu</string>
@@ -7925,7 +7885,6 @@ Hãy truy cập chính sách quyền riêng tư của nhà cung cấp dịch v�
     <string name="wifi_calling_mode_wifi_preferred_summary">Nếu không có Wi‑Fi, hãy sử dụng mạng di động</string>
     <string name="wifi_calling_not_supported">Gọi qua Wi‑Fi không được hỗ trợ cho %1$s</string>
     <string name="wifi_calling_off_explanation">Khi bật tính năng gọi qua Wi-Fi, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng của nhà cung cấp dịch vụ, tùy thuộc vào tùy chọn của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, hãy kiểm tra với nhà cung cấp dịch vụ của bạn về phí và các chi tiết khác.%1$s</string>
-    <string name="wifi_calling_off_explanation_2" />
     <string name="wifi_calling_pref_managed_by_carrier">Cài đặt do nhà mạng quản lý</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Tùy chọn chuyển vùng</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
@@ -8220,7 +8179,6 @@ Cho phép điều này đối với tất cả ứng dụng muốn quét?"</stri
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Không/nợ</string>
     <string name="wifi_security_short_owe">NỢ</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -8363,7 +8321,6 @@ trên bộ định tuyến của bạn"</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Không thể hoàn tất đăng ký. Nhấn để thử lại.</string>
     <string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS riêng</string>
     <string name="wifitrackerlib_saved_network">Được lưu bởi %1$s</string>
-    <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Nhấn để gia hạn đăng ký và kết nối</string>
     <string name="wifitrackerlib_tap_to_sign_up">Nhấn để đăng ký</string>
