@@ -3087,6 +3087,7 @@ Untuk mempelajari lebih lanjut, hubungi penyedia kredit Anda."</string>
     <string name="flyme_notification_filter_spinner_items_text_2">Paling sering dikirim</string>
     <string name="flyme_notification_filter_spinner_items_text_3">Dinonaktifkan</string>
     <string name="flyme_notification_filter_spinner_items_text_4">Semua aplikasi</string>
+    <string name="flyme_notification_lockscreen_preview_title">Pratinjau pemberitahuan</string>
     <string name="flyme_notification_lockscreen_type_title">Saat layar kunci</string>
     <string name="flyme_notification_not_sent_recently">Tidak terkirim baru-baru ini</string>
     <string name="flyme_push_title">Push</string>
@@ -3409,7 +3410,7 @@ Jangan lepaskan"</string>
     <string name="input_methods_settings_title">Input teks</string>
     <string name="input_new_password">Masukkan kata sandi baru dengan %s digit.</string>
     <string name="input_third_protocol_hint">"Metode input pihak ketiga dapat mengakses semua data yang diketik. Harap baca dengan cermat protokol layanan dan kebijakan privasi pengembang pihak ketiga."</string>
-    <string name="install_all">Instal semua</string>
+    <string name="install_all_app">Instal semua</string>
     <string name="install_all_warning">Telepon dan data pribadi Anda lebih rentan terhadap serangan oleh aplikasi yang tidak dikenal. Dengan menginstal aplikasi dari sumber ini, Anda setuju bahwa Anda bertanggung jawab atas segala kerusakan pada telepon Anda atau kehilangan data yang mungkin diakibatkan oleh penggunaannya.</string>
     <string name="install_all_warning_intl">Telepon dan data pribadi Anda lebih rentan terhadap serangan oleh aplikasi yang tidak dikenal. Dengan mengizinkan penginstalan aplikasi dari sumber ini, Anda setuju bahwa Anda bertanggung jawab atas segala kerusakan pada telepon Anda atau kehilangan data yang mungkin diakibatkan oleh penggunaannya.</string>
     <string name="install_app">Instal</string>
@@ -5268,8 +5269,7 @@ Ini juga akan memberi aplikasi kemampuan untuk mengaktifkan atau menonaktifkan J
     <string name="personal_data_section_title">Data pribadi</string>
     <string name="personal_profile_app_subtext">Pribadi</string>
     <string name="phone_category_title">Telepon</string>
-    <string name="phone_lingual">Bahasa</string>
-    <string nama="ringkasan_bahasa_telepon" />
+    <string name="phone_language">Bahasa</string>
     <string name="phone_pwd">Kata sandi telepon</string>
     <string name="phone_pwd_summary">Gunakan untuk pengelolaan sidik jari dan membuka kunci layar</string>
     <string name="phone_pwd_summary_no_fp">Gunakan untuk membuka kunci layar</string>
@@ -5305,7 +5305,7 @@ Ini juga akan memberi aplikasi kemampuan untuk mengaktifkan atau menonaktifkan J
     <string name="power_camera">Kamera</string>
     <string name="power_cell">Jaringan seluler</string>
     <string name="power_charge_remaining">%1$s untuk ditagih</string>
-    <string nama="power_charging">%1$s - %2$s</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s tersisa hingga penuh</string>
     <string name="power_charging_limited">%1$s - Pengisian daya dibatasi untuk sementara</string>
     <string name="power_consumption_statistics">Konsumsi daya dan latar belakang</string>
@@ -5339,7 +5339,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="power_remaining_charging_duration_only">%1$s tersisa hingga penuh</string>
     <string name="power_remaining_duration_only">Tersisa sekitar %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tersisa sekitar %1$s berdasarkan penggunaan Anda</string>
-    <string nama="power_remaining_duration_only_short">%1$s</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Ponsel mungkin akan segera dimatikan</string>
     <string name="power_remaining_duration_shutdown_imminent">Ponsel mungkin akan segera mati (%1$s)</string>
     <string name="power_remaining_less_than_duration">Tersisa kurang dari %1$s (%2$s)</string>
@@ -5351,7 +5351,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="power_suggestion_battery_run_out">Baterai mungkin habis %1$s</string>
     <string name="power_unaccounted">Lain-lain</string>
     <string name="power_usage_enhanced_debug">%1$s tersisa (Estimasi ML Baru)</string>
-    <string nama="power_usage_level_and_status">%1$s - %2$s</string>
+    <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="power_usage_list_summary">Penggunaan baterai sejak pengisian daya penuh</string>
     <string name="power_usage_not_available">"Data penggunaan baterai tidak tersedia"</string>
     <string name="power_usage_old_debug">%1$s tersisa (Perkiraan Lama)</string>
@@ -5463,7 +5463,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="print_failed_state_title_template">Kesalahan printer %1$s</string>
     <string name="print_feature_state_off">Mati</string>
     <string name="print_feature_state_on">Aktif</string>
-    <string nama="print_job_summary">"%1$s
+    <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_menu_item_add_printer">Tambahkan printer</string>
     <string name="print_menu_item_add_printers">Tambahkan printer</string>
@@ -5506,7 +5506,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="privileged_action_disable_sub_dialog_title">Matikan %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Matikan SIM?</string>
     <string name="process_dex2oat_label">Pengoptimalan aplikasi</string>
-    <string nama="proses_format">%1$s (%2$d)</string>
+    <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">OS Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_network_tethering">Penambatan</string>
@@ -5532,7 +5532,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="profile_connect_timeout_subtext">Masalah koneksi. Matikan perangkat &amp; kembali</string>
     <string name="profile_info_settings_title">Info profil</string>
     <string name="profile_owner_add_title">Aktifkan Manajer Profil?</string>
-    <string name="profile_owner_add_title_simplement">Izinkan pengawasan?</string>
+    <string name="profile_owner_add_title_simplified">Izinkan pengawasan?</string>
     <string name="profile_section_header">Pemberitahuan kerja</string>
     <string name="profile_section_header_for_advanced_privacy">Profil kerja</string>
     <string name="progress_scanning">Menyegarkan</string>
@@ -5637,7 +5637,7 @@ Tekan Daya dan Naikkan volume secara bersamaan."</string>
     <string name="red_envelope_can_not_get_title">"Tidak dapat memperoleh notifikasi meskipun fitur ini diaktifkan?"</string>
     <string name="red_envelope_tip">"Catatan:
 Untuk memastikan berfungsi dengan baik, Lucky Money Assistant akan memperbarui secara otomatis melalui WLAN."</string>
-    <string nama="red_envelope_tip_one">1. Buka WeChat > Saya > Setelan > Notifikasi, dan pastikan \"Peringatan Pesan Baru\" dan \"Pusat Pemberitahuan\" diaktifkan.</string>
+    <string name="red_envelope_tip_one">1. Buka WeChat > Saya > Setelan > Notifikasi, dan pastikan \"Peringatan Pesan Baru\" dan \"Pusat Pemberitahuan\" diaktifkan.</string>
     <string name="red_envelope_tip_two_partone">"2. Buka layar obrolan grup Anda, ketuk "</string>
     <string name="red_envelope_tip_two_parttwo">"ikon untuk membuka pengaturan, dan pastikan \"Bungkam Notifikasi\" dinonaktifkan."</string>
     <string name="red_envelope_title">Asisten uang keberuntungan</string>
@@ -5663,7 +5663,7 @@ Untuk memastikan berfungsi dengan baik, Lucky Money Assistant akan memperbarui s
     <string name="refresh_rate_60hz_summary">Gunakan kecepatan refresh normal, konsumsi daya lebih rendah</string>
     <string name="refresh_rate_90hz">90Hz</string>
     <string name="refresh_rate_90hz_summary">Gunakan kecepatan refresh yang lebih tinggi, seimbangkan kelancaran dan konsumsi daya</string>
-    <string name="refresh_rate_and_solving">Kecepatan dan resolusi penyegaran</string>
+    <string name="refresh_rate_and_resolution">Kecepatan dan resolusi penyegaran</string>
     <string name="refresh_rate_category_title">Kecepatan penyegaran</string>
     <string name="refresh_rate_label">Kecepatan penyegaran:</string>
     <string name="region_picker">Pilih wilayah</string>
@@ -5672,7 +5672,7 @@ Untuk memastikan berfungsi dengan baik, Lucky Money Assistant akan memperbarui s
     <string name="register_automatically">Pendaftaran otomatis…</string>
     <string name="register_on_network">Mendaftar di %s…</string>
     <string name="registration_done">Terdaftar di jaringan.</string>
-    <string nama="regulatory_info_text" />
+    <string name="regulatory_info_text" />
     <string name="regulatory_labels">Label peraturan</string>
     <string name="release_space">Kosongkan ruang</string>
     <string name="remaining_length_format">%1$s tersisa</string>
@@ -5758,11 +5758,11 @@ Nyalakan ulang perangkat Anda dan coba lagi."</string>
     <string name="reset_your_internet_title">Setel ulang internet Anda?</string>
     <string name="resetting">Mengatur Ulang</string>
     <string name="resetting_internet_text">Menyetel ulang internet Anda…</string>
-    <string name="resolusi_category_title">Resolusi</string>
-    <string name="resolusi_changed_tips">Pengalihan resolusi akan memulai ulang aplikasi latar belakang</string>
-    <string nama="resolusi_fhd_plus">FHD+</string>
-    <string name="resolusi_label">Resolusi:</string>
-    <string nama="resolusi_qhd_plus">QHD+</string>
+    <string name="resolution_category_title">Resolusi</string>
+    <string name="resolution_changed_tips">Pengalihan resolusi akan memulai ulang aplikasi latar belakang</string>
+    <string name="resolution_fhd_plus">FHD+</string>
+    <string name="resolution_label">Resolusi:</string>
+    <string name="resolution_qhd_plus">QHD+</string>
     <string name="restore_default_apn">Memulihkan pengaturan APN default.</string>
     <string name="restore_default_apn_completed">Reset pengaturan APN default selesai.</string>
     <string name="restore_default_data">Setel ulang</string>
@@ -5833,12 +5833,12 @@ Setelan ini memengaruhi semua pengguna di ponsel ini."</string>
     <string name="root_permission_still_allowed">Masih Izinkan</string>
     <string name="root_permission_title">izin ROOT</string>
     <string name="root_remember">Ingat pilihan saya</string>
-    <string name="root_warning_msg">Mengizinkan pihak ketiga mengakses izin root dapat mengakibatkan risiko seperti ketidakstabilan sistem, kebocoran data pribadi, kerusakan perangkat keras, dll. Meizu tidak bertanggung jawab atas risiko atau kerusakan apa pun semacam itu.</ tali>
+    <string name="root_warning_msg">Mengizinkan pihak ketiga mengakses izin root dapat mengakibatkan risiko seperti ketidakstabilan sistem, kebocoran data pribadi, kerusakan perangkat keras, dll. Meizu tidak bertanggung jawab atas risiko atau kerusakan apa pun semacam itu.</string>
     <string name="root_warning_title">PERINGATAN</string>
     <string name="rssi_label">RSSI:</string>
     <string name="run_memory">Memori berjalan</string>
     <string name="run_memory_expansion_title">Jalankan perluasan memori</string>
-    <string name="running_frekuensi">Frekuensi</string>
+    <string name="running_frequency">Frekuensi</string>
     <string name="running_process_item_removed_user_label">Pengguna yang dihapus</string>
     <string name="running_process_item_user_label">Pengguna: %1$s</string>
     <string name="running_processes_header_apps_prefix">Aplikasi</string>
@@ -5874,8 +5874,6 @@ Setelan ini memengaruhi semua pengguna di ponsel ini."</string>
 Kepala: %2$sW/kg @1g
 Isi: %3$sW/kg @1g"</string>
     <string name="sar_dialog_title">Nilai SAR India</string>
-    <string nama="sar_head_value" />
-    <string nama="sar_limit_value" />
     <string name="save">Simpan</string>
     <string name="saved_network">Disimpan oleh %1$s</string>
     <string name="scan_list_label">Hasil pemindaian:</string>
@@ -5962,21 +5960,21 @@ Untuk menggunakan penyematan aplikasi: \u0009
     <string name="screen_refresh_rate_force_use_ninty_hz_summary">Konsumsi daya lebih tinggi, beberapa aplikasi dan game mungkin tidak normal</string>
     <string name="screen_refresh_rate_ninty_hz">90Hz</string>
     <string name="screen_refresh_rate_ninty_hz_summary">Meningkatkan kecepatan refresh layar secara dinamis, menjadikannya halus dan stabil</string>
-    <string name="screen_refresh_rate_solving_power_save_summary">Refresh rate dan resolusi normal, lebih hemat daya (60Hz + 1080p)</string>
-    <string name="screen_refresh_rate_solving_power_save_title">Hemat daya</string>
-    <string name="screen_refresh_rate_solving_smooth_summary">Layar lebih halus dan mulus (120Hz + 1080p)</string>
-    <string name="screen_refresh_rate_solving_smooth_title">Halus</string>
-    <string name="screen_refresh_rate_solving_ultra_clear_summary">Layar lebih jernih dan halus (60Hz + 2K)</string>
-    <string name="screen_refresh_rate_solving_ultra_clear_title">Sangat jelas</string>
+    <string name="screen_refresh_rate_resolution_power_save_summary">Refresh rate dan resolusi normal, lebih hemat daya (60Hz + 1080p)</string>
+    <string name="screen_refresh_rate_resolution_power_save_title">Hemat daya</string>
+    <string name="screen_refresh_rate_resolution_smooth_summary">Layar lebih halus dan mulus (120Hz + 1080p)</string>
+    <string name="screen_refresh_rate_resolution_smooth_title">Halus</string>
+    <string name="screen_refresh_rate_resolution_ultra_clear_summary">Layar lebih jernih dan halus (60Hz + 2K)</string>
+    <string name="screen_refresh_rate_resolution_ultra_clear_title">Sangat jelas</string>
     <string name="screen_refresh_rate_sixty_hz">60Hz</string>
     <string name="screen_refresh_rate_sixty_hz_summary">Kecepatan penyegaran layar normal, lebih hemat daya</string>
     <string name="screen_refresh_rate_tips">Coba game yang mendukung kecepatan refresh tinggi</string>
-    <string name="screen_solving_footer">Mengganti resolusi mungkin menyebabkan beberapa aplikasi yang sedang berjalan ditutup.</string>
-    <string name="screen_solving_option_high">Resolusi tinggi</string>
-    <string name="screen_solving_option_highest">Resolusi tertinggi</string>
-    <string name="screen_solving_summary_high">1080p FHD+</string>
-    <string name="screen_solving_summary_highest">1440p QHD+</string>
-    <string name="screen_solving_title">Resolusi layar</string>
+    <string name="screen_resolution_footer">Mengganti resolusi mungkin menyebabkan beberapa aplikasi yang sedang berjalan ditutup.</string>
+    <string name="screen_resolution_option_high">Resolusi tinggi</string>
+    <string name="screen_resolution_option_highest">Resolusi tertinggi</string>
+    <string name="screen_resolution_summary_high">1080p FHD+</string>
+    <string name="screen_resolution_summary_highest">1440p QHD+</string>
+    <string name="screen_resolution_title">Resolusi layar</string>
     <string name="screen_timeout">Kunci otomatis</string>
     <string name="screen_timeout_summary">Setelah %1$s</string>
     <string name="screen_timeout_title">Layar mati</string>
@@ -6049,7 +6047,7 @@ Untuk menggunakan penyematan aplikasi: \u0009
     <string name="sdcard_unmount">Lepas penyimpanan USB</string>
     <string name="sdcard_unmounting">Mencopot pemasangan…</string>
     <string name="search_all_app">Telusuri semua aplikasi</string>
-    <string nama="search_bar_account_avatar_content_description" />
+    <string name="search_bar_account_avatar_content_description" />
     <string name="search_breadcrumb_connector">%1$s > %2$s</string>
     <string name="search_button">Telusuri</string>
     <string name="search_clear_history">Hapus riwayat</string>
@@ -6128,7 +6126,7 @@ Untuk menggunakan penyematan aplikasi: \u0009
     <string name="security_settings_face_enroll_done">Selesai</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">Jika aksesibilitas Face Unlock dinonaktifkan, beberapa langkah penyiapan mungkin tidak berfungsi dengan baik dengan TalkBack.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Kembali</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_positif">Lanjutkan penyiapan</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Lanjutkan penyiapan</string>
     <string name="security_settings_face_enroll_education_start">Mulai</string>
     <string name="security_settings_face_enroll_education_title">Cara mengatur Face Unlock</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Siapkan Face Unlock</string>
@@ -6150,9 +6148,6 @@ Model wajah Anda akan dihapus secara permanen dan aman.
 Setelah penghapusan, Anda memerlukan sidik jari, PIN, pola, atau sandi untuk membuka kunci ponsel atau untuk autentikasi dalam aplikasi."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Mengatur Face Unlock</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Gunakan penyiapan aksesibilitas</string>
-    <string nama="keamanan_settings_face_enroll_introduction_accessibility_diversity" />
-    <string nama="keamanan_settings_face_enroll_introduction_accessibility_expanded" />
-    <string nama="keamanan_settings_face_enroll_introduction_accessibility_vision" />
     <string name="security_settings_face_enroll_introduction_agree">Saya setuju</string>
     <string name="security_settings_face_enroll_introduction_cancel">Batal</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Izinkan anak Anda menggunakan wajahnya untuk membuka kunci ponselnya atau memverifikasi bahwa itu memang dia. Hal ini terjadi saat mereka login ke aplikasi, menyetujui pembelian, dan lainnya.</string>
@@ -6313,9 +6308,9 @@ Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat i
     <string name="select_sim_for_calls">Panggilan dengan</string>
     <string name="select_sim_for_data">Pilih SIM untuk data seluler</string>
     <string name="select_sim_for_sms">Pilih SIM untuk SMS</string>
-    <string name="select_special_sim_for_data_button">Gunakan %1$s</string>
-    <string name="select_special_sim_for_data_msg">Jika Anda beralih ke %1$s, %2$s tidak akan lagi digunakan untuk data seluler.</string>
-    <string name="select_special_sim_for_data_title">Gunakan %1$s untuk data seluler?</string>
+    <string name="select_specific_sim_for_data_button">Gunakan %1$s</string>
+    <string name="select_specific_sim_for_data_msg">Jika Anda beralih ke %1$s, %2$s tidak akan lagi digunakan untuk data seluler.</string>
+    <string name="select_specific_sim_for_data_title">Gunakan %1$s untuk data seluler?</string>
     <string name="select_to_speak_summary">Ketuk item di layar Anda untuk mendengarnya dibacakan</string>
     <string name="select_usb_configuration_dialog_title">Pilih Konfigurasi USB</string>
     <string name="select_usb_configuration_title">Pilih Konfigurasi USB</string>
@@ -6328,7 +6323,7 @@ Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat i
     <string name="separator">ꚙ</string>
     <string name="service_attitude">Sikap pelayanan</string>
     <string name="service_background_processes">%1$s gratis</string>
-    <string nama="service_client_name">%1$s</string>
+    <string name="service_client_name">%1$s</string>
     <string name="service_details">Detail layanan</string>
     <string name="service_evaluation">Komentar</string>
     <string name="service_foreground_processes">%1$s digunakan</string>
@@ -6337,7 +6332,7 @@ Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat i
     <string name="service_loading">Memuat informasi</string>
     <string name="service_manage">Pengaturan</string>
     <string name="service_manage_description">%1$s: sedang digunakan. Ketuk Setelan untuk mengontrolnya.</string>
-    <string nama="service_process_name">%1$s</string>
+    <string name="service_process_name">%1$s</string>
     <string name="service_push_notify_no_count_title">Anda memiliki data layanan konfirmasi yang menunggu keputusan</string>
     <string name="service_push_notify_summary">Ketuk untuk melihat</string>
     <string name="service_push_notify_title">Anda memiliki %1$d data layanan konfirmasi yang menunggu keputusan</string>
@@ -6355,7 +6350,7 @@ Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat i
     <string name="set_screen_lock">Kunci kata sandi</string>
     <string name="set_screen_password_message">Sebelum mengaktifkan PrivateSpace, harap tetapkan kata sandi layar kunci</string>
     <string name="set_screen_password_negative">Batal</string>
-    <string name="set_screen_password_positif">Setel</string>
+    <string name="set_screen_password_positive">Setel</string>
     <string name="set_screen_password_title">Setel kata sandi layar kunci?</string>
     <string name="set_secrets_mode_pwd_guide_btn_set_phone_pwd">Setel kata sandi privasi</string>
     <string name="set_secrets_mode_pwd_guide_btn_set_secrets_pwd">Setel sekarang</string>
@@ -6502,8 +6497,8 @@ Peralihan tidak akan membatalkan layanan %1$s Anda."</string>
     <string name="sim_category_default_active_sim">" / Default untuk %1$s"</string>
     <string name="sim_category_inactive_sim">Tidak aktif</string>
     <string name="sim_category_title">SIM</string>
-    <string name="sim_cell_data_unavailable">Data seluler tidak tersedia</string>
-    <string name="sim_seluler_data_unavailable_summary">Ketuk untuk memilih SIM data</string>
+    <string name="sim_cellular_data_unavailable">Data seluler tidak tersedia</string>
+    <string name="sim_cellular_data_unavailable_summary">Ketuk untuk memilih SIM data</string>
     <string name="sim_change_data_message">"Anda menggunakan %2$s untuk data seluler. Jika Anda beralih ke %1$s, %2$s tidak akan lagi digunakan untuk data seluler."</string>
     <string name="sim_change_data_ok">Gunakan %1$s</string>
     <string name="sim_change_data_title">Gunakan %1$s untuk data seluler?</string>
@@ -6556,7 +6551,7 @@ Kemungkinan PIN salah."</string>
     <string name="sim_select_card">Pilih kartu SIM</string>
     <string name="sim_selection_channel_title">Pemilihan SIM</string>
     <string name="sim_selection_required_pref">Diperlukan seleksi</string>
-    <string nama="sim_settings_summary">%1$s - %2$s</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Kartu SIM</string>
     <string name="sim_setup_channel_id">Aktivasi jaringan</string>
     <string name="sim_setup_wizard_title">Kartu SIM</string>
@@ -6569,7 +6564,7 @@ Kemungkinan PIN salah."</string>
     <string name="simple_gesture_guide_pager_cancel_button_text">Jangan sekarang</string>
     <string name="simple_gesture_guide_pager_cancel_dialog_message">Aktifkan di Pengaturan > Navigasi &amp; multitugas > Bilah navigasi</string>
     <string name="simple_gesture_guide_pager_cancel_dialog_negative_button_text">Batal</string>
-    <string name="simple_gesture_guide_pager_cancel_dialog_positif_button_text">Jangan sekarang</string>
+    <string name="simple_gesture_guide_pager_cancel_dialog_positive_button_text">Jangan sekarang</string>
     <string name="simple_gesture_guide_pager_cancel_dialog_title">Tidak mengaktifkan Easy Navi Gesture?</string>
     <string name="simple_gesture_guide_pager_notification_learn_more">Pelajari Lebih Lanjut</string>
     <string name="simple_gesture_guide_pager_notification_subtitle">Perendaman visual, interaksi lebih mudah</string>
@@ -6583,7 +6578,7 @@ Kemungkinan PIN salah."</string>
     <string name="skip_anyway_button_label">Tetap lewati</string>
     <string name="skip_label">Lewati</string>
     <string name="skip_lock_screen_dialog_button_label">Lewati</string>
-    <string nama="slot_number">(Slot%1$d)</string>
+    <string name="slot_number">(Slot%1$d)</string>
     <string name="smart_5g_mode_summary">Penggunaan jaringan 5g secara cerdas untuk meningkatkan masa pakai baterai</string>
     <string name="smart_5g_mode_title">Mode 5G Cerdas</string>
     <string name="smart_battery_footer">Saat Pengelola Baterai mendeteksi aplikasi menghabiskan baterai, Anda akan memiliki opsi untuk membatasi aplikasi tersebut. Aplikasi yang dibatasi mungkin tidak berfungsi dengan baik dan notifikasi mungkin tertunda.</string>
@@ -6683,7 +6678,7 @@ Kemungkinan PIN salah."</string>
     <string name="speed_label_very_slow">Sangat Lambat</string>
     <string name="spell_checker_not_selected">Tidak dipilih</string>
     <string name="spell_checker_primary_switch_title">Gunakan pemeriksa ejaan</string>
-    <string name="spellchecker_lingual">Bahasa</string>
+    <string name="spellchecker_language">Bahasa</string>
     <string name="spellchecker_quick_settings">Pengaturan</string>
     <string name="spellchecker_security_warning">Pemeriksa ejaan ini mungkin dapat mengumpulkan semua teks yang Anda ketik, termasuk data pribadi seperti kata sandi dan nomor kartu kredit. Itu berasal dari aplikasi %1$s. Gunakan pemeriksa ejaan ini?</string>
     <string name="spellcheckers_settings_for_work_title">Pemeriksa ejaan untuk pekerjaan</string>
@@ -6708,7 +6703,7 @@ Kredensial tepercaya yang dipasang di perangkat Anda memungkinkan hal ini."</str
     <string name="start_enroll_fingerprint">Mulai daftarkan sidik jari</string>
     <string name="state_title_all">Semua aplikasi</string>
     <string name="state_title_blocked">Dinonaktifkan</string>
-    <string name="state_title_frekuensi">Paling sering dikirim</string>
+    <string name="state_title_frequency">Paling sering dikirim</string>
     <string name="state_title_recency">Baru saja dikirim</string>
     <string name="status_awake_time">Waktu bangun</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -6719,7 +6714,7 @@ Kredensial tepercaya yang dipasang di perangkat Anda memungkinkan hal ini."</str
     <string name="status_esim_id">Idul Fitri</string>
     <string name="status_icc_id">ICCID</string>
     <string name="status_iccid">ICCID</string>
-    <string nama="status_imei">IMEI</string>
+    <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
     <string name="status_latest_area_info">Info operator</string>
     <string name="status_mac_addresses">"acak：%1$s
@@ -6819,7 +6814,7 @@ Semua aplikasi yang disimpan di ^1 ini akan dihapus instalasinya dan datanya aka
     <string name="storage_settings_summary">Lepas penyimpanan USB, lihat penyimpanan yang tersedia</string>
     <string name="storage_settings_title">Pengaturan penyimpanan</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_size_large_alternate">^1<kecil> <font size="20">^2</font></small></string>
+    <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
     <string name="storage_summary">%1$s terpakai - %2$s gratis</string>
     <string name="storage_summary_format">%1$s digunakan di %2$s</string>
     <string name="storage_summary_with_sdcard">Penyimpanan internal: %1$s terpakai - %2$s gratis</string>
@@ -6863,7 +6858,7 @@ Pemformatan akan menghapus konten yang ada di ^2. Untuk menghindari kehilangan k
     <string name="storage_wizard_init_external_title">Gunakan sebagai penyimpanan portabel</string>
     <string name="storage_wizard_init_internal_summary">Untuk menyimpan apa pun di perangkat ini saja, termasuk aplikasi dan foto. Memerlukan pemformatan yang mencegahnya berfungsi dengan perangkat lain.</string>
     <string name="storage_wizard_init_internal_title">Gunakan sebagai penyimpanan internal</string>
-    <string name="storage_wizard_init_title">Siapkan ^1</string> Anda
+    <string name="storage_wizard_init_title">Siapkan ^1</string>
     <string name="storage_wizard_init_v2_external_action">Penyimpanan portabel</string>
     <string name="storage_wizard_init_v2_external_summary">Untuk mentransfer file dan media antar perangkat</string>
     <string name="storage_wizard_init_v2_external_title">Gunakan untuk penyimpanan portabel</string>
@@ -6976,7 +6971,7 @@ Coba gunakan ^3 yang lebih cepat, atau gunakan ^4 ini untuk penyimpanan portabel
     <string name="sud_next_button_label">Selanjutnya</string>
     <string name="suggest_max_length_text">Maksimal 500 karakter</string>
     <string name="suggested_app_locales_title">Bahasa yang disarankan</string>
-    <string nama="suggested_fingerprint_lock_settings_summary" />
+    <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Tambahkan sidik jari untuk membuka kunci</string>
     <string name="suggested_lock_settings_summary">Setel kunci layar untuk melindungi ponsel</string>
     <string name="suggested_lock_settings_title">Amankan ponsel Anda</string>
@@ -6986,25 +6981,25 @@ Coba gunakan ^3 yang lebih cepat, atau gunakan ^4 ini untuk penyimpanan portabel
     <string name="suggestion_button_text">Oke</string>
     <string name="suggestion_remove">Hapus</string>
     <string name="suggestions_more_title">+%1$d lainnya</string>
-    <string nama="suggestions_summary">+%1$d</string>
+    <string name="suggestions_summary">+%1$d</string>
     <string name="suggestions_title">Saran</string>
     <string name="suggestions_title_v2">Disarankan untuk Anda</string>
     <string name="sum_carrier_select">Pilih operator jaringan</string>
     <string name="sum_search_networks">Telusuri semua jaringan yang tersedia</string>
     <string name="sum_select_automatically">Pilih jaringan pilihan secara otomatis</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string nama="summary_divider_text">", "</string>
+    <string name="summary_divider_text">", "</string>
     <string name="summary_font_size">%1$s</string>
     <string name="summary_fullscreen_gesture">Gerakan layar penuh</string>
     <string name="summary_gesture">Navigasi isyarat</string>
     <string name="summary_mback">mBack</string>
     <string name="summary_navigation_bar">bilah navigasi Android</string>
     <string name="summary_no_tts_engine">Tidak ada</string>
-    <string nama="summary_placeholder"> </string>
-    <string nama="summary_range_symbol_combination">%1$s - %2$s</string>
+    <string name="summary_placeholder"> </string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s hingga %2$s</string>
     <string name="summary_simple_gesture">Bilah navigasi</string>
-    <string nama="summary_two_lines_placeholder">"
+    <string name="summary_two_lines_placeholder">"
 "</string>
     <string name="sunrise_sunset">Dari matahari terbenam hingga matahari terbit</string>
     <string name="super_stereo_sound_summary">Secara otomatis menyesuaikan efek suara speaker dalam game dan video layar horizontal untuk menghadirkan pengalaman stereo yang lebih mendalam</string>
@@ -7060,7 +7055,7 @@ Pendekatan Google untuk menyinkronkan data untuk memungkinkan akses ke kontak, j
     <string name="system_package">Pembaruan sistem tidak dapat diinstal pada media eksternal.</string>
     <string name="system_ringtone">Sistem</string>
     <string name="system_ui_settings">Tampilkan Penyetel UI Sistem</string>
-    <string nama="system_update_settings_list_item_summary" />
+    <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Pembaruan sistem</string>
     <string name="system_version">"Versi sistem: "</string>
     <string name="take_call_on_title">Terima panggilan</string>
@@ -7176,7 +7171,7 @@ Pendekatan Google untuk menyinkronkan data untuk memungkinkan akses ke kontak, j
     <string name="to_open">Untuk membuka</string>
     <string name="to_open_fp_dlg_title">Harap aktifkan pengenalan sidik jari terlebih dahulu</string>
     <string name="to_switch_networks_disconnect_ethernet">Untuk berpindah jaringan, putuskan sambungan ethernet</string>
-    <string name="toast_allows_restricted_settings_successously">Setelan terbatas diperbolehkan untuk %s</string>
+    <string name="toast_allows_restricted_settings_successfully">Setelan terbatas diperbolehkan untuk %s</string>
     <string name="total_memory">Total memori</string>
     <string name="total_size">Total ruang</string>
     <string name="total_size_label">Jumlah</string>
@@ -7242,7 +7237,7 @@ Pendekatan Google untuk menyinkronkan data untuk memungkinkan akses ke kontak, j
     <string name="tts_settings">Pengaturan teks-ke-ucapan</string>
     <string name="tts_settings_title">Keluaran teks-ke-ucapan</string>
     <string name="tts_sliders_title">Kecepatan bicara &amp; nada</string>
-    <string name="tts_spoken_lingual">Bahasa Lisan</string>
+    <string name="tts_spoken_language">Bahasa Lisan</string>
     <string name="tts_status_checking">Memeriksa…</string>
     <string name="tts_status_not_supported">%1$s tidak didukung</string>
     <string name="tts_status_ok">%1$s didukung sepenuhnya</string>
@@ -7426,11 +7421,11 @@ Ini juga menghapus model sidik jari yang tersimpan di perangkat Anda. Anda tidak
     <string name="usb_mtp_tip_normal_two"><font color="#1368FB">Cara mentransfer file setelah layar gagal</font></string>
     <string name="usb_mtp_tip_normal_two_content_title1">Bagaimana cara mengekspor data dari ponsel dengan fitur sentuh (layar mati atau rusak)?</string>
     <string name="usb_mtp_tip_normal_two_content_title2">"Pengguna tidak menyetel sandi layar kunci: "</string>
-    <string nama="usb_mtp_tip_normal_two_content_title2_content1">1. Kirim SMS *##* ke ponsel dengan fitur sentuh. Nomor untuk mengirim SMS haruslah nomor yang disimpan dalam kontak ponsel dengan fitur sentuh yang tidak dapat disentuh.</string>
-    <string nama="usb_mtp_tip_normal_two_content_title2_content2">2. Setelah SMS dengan format yang tepat berhasil dikirim, ponsel dengan fitur sentuh beralih ke mode Perangkat Media (MTP) dengan peringatan.</string>
-    <string nama="usb_mtp_tip_normal_two_content_title2_content3">3. Hubungkan ponsel ke komputer dengan kabel dan ekspor data</string>
+    <string name="usb_mtp_tip_normal_two_content_title2_content1">1. Kirim SMS *##* ke ponsel dengan fitur sentuh. Nomor untuk mengirim SMS haruslah nomor yang disimpan dalam kontak ponsel dengan fitur sentuh yang tidak dapat disentuh.</string>
+    <string name="usb_mtp_tip_normal_two_content_title2_content2">2. Setelah SMS dengan format yang tepat berhasil dikirim, ponsel dengan fitur sentuh beralih ke mode Perangkat Media (MTP) dengan peringatan.</string>
+    <string name="usb_mtp_tip_normal_two_content_title2_content3">3. Hubungkan ponsel ke komputer dengan kabel dan ekspor data</string>
     <string name="usb_mtp_tip_normal_two_content_title3">"Pengguna telah menyetel sandi layar kunci: "</string>
-    <string nama="usb_mtp_tip_normal_two_content_title3_content4">1. Kirim SMS *#kata sandi layar kunci#* ke ponsel dengan fitur sentuh. Jika kata sandinya Flyme123, SMS harusnya *#Flyme123#*. Tolong bedakan huruf besar dan kecilnya. Nomor untuk mengirim SMS haruslah nomor yang disimpan dalam kontak ponsel dengan fitur sentuh yang tidak dapat disentuh.</string>
+    <string name="usb_mtp_tip_normal_two_content_title3_content4">1. Kirim SMS *#kata sandi layar kunci#* ke ponsel dengan fitur sentuh. Jika kata sandinya Flyme123, SMS harusnya *#Flyme123#*. Tolong bedakan huruf besar dan kecilnya. Nomor untuk mengirim SMS haruslah nomor yang disimpan dalam kontak ponsel dengan fitur sentuh yang tidak dapat disentuh.</string>
     <string name="usb_mtp_tip_url"><font color="#1F7FFB">http://www.android.com/filetransfer</font></string>
     <string name="usb_mtp_title">Transfer berkas</string>
     <string name="usb_power_title">Opsi daya</string>
@@ -7484,7 +7479,7 @@ Ini juga menghapus model sidik jari yang tersimpan di perangkat Anda. Anda tidak
     <string name="use_open_wifi_automatically_title">Hubungkan ke jaringan publik</string>
     <string name="use_simple_password">Gunakan kata sandi sederhana</string>
     <string name="use_system_input_panel">Masukkan kata sandi hanya dengan keyboard keamanan Flyme</string>
-    <string name="use_system_lingual_to_select_input_method_subtypes">Gunakan bahasa sistem</string>
+    <string name="use_system_language_to_select_input_method_subtypes">Gunakan bahasa sistem</string>
     <string name="use_wifi_hotsopt_main_switch_title">Gunakan hotspot Wi‑Fi</string>
     <string name="user_account_title">Akun untuk konten</string>
     <string name="user_add_max_count">Anda tidak dapat menambahkan pengguna lagi. Hapus pengguna untuk menambahkan pengguna baru.</string>
@@ -7535,13 +7530,13 @@ Setiap pengguna dapat memperbarui aplikasi untuk semua pengguna lainnya."</strin
     <string name="user_dict_settings_add_shortcut_option_name">Pintasan:</string>
     <string name="user_dict_settings_add_word_hint">Ketikkan sebuah kata</string>
     <string name="user_dict_settings_add_word_option_name">Kata:</string>
-    <string name="user_dict_settings_all_linguals">Untuk semua bahasa</string>
+    <string name="user_dict_settings_all_languages">Untuk semua bahasa</string>
     <string name="user_dict_settings_context_menu_delete_title">Hapus</string>
     <string name="user_dict_settings_context_menu_edit_title">Edit</string>
     <string name="user_dict_settings_edit_dialog_title">Edit kata</string>
     <string name="user_dict_settings_empty_text">Anda tidak memiliki kata apa pun di kamus pengguna. Untuk menambahkan kata, ketuk tombol Tambah (+).</string>
     <string name="user_dict_settings_for_work_title">Kamus pribadi untuk bekerja</string>
-    <string name="user_dict_settings_more_linguals">Bahasa lainnya…</string>
+    <string name="user_dict_settings_more_languages">Bahasa lainnya…</string>
     <string name="user_dict_settings_summary">Tambahkan kata yang akan digunakan di aplikasi seperti Pemeriksa ejaan</string>
     <string name="user_dict_settings_title">Kamus pribadi</string>
     <string name="user_enable_calling">Aktifkan panggilan telepon</string>
@@ -7571,7 +7566,7 @@ Setiap pengguna dapat memperbarui aplikasi untuk semua pengguna lainnya."</strin
     <string name="user_remove_user">Hapus pengguna</string>
     <string name="user_remove_user_menu">Hapus %1$s dari perangkat ini</string>
     <string name="user_rename">GANTI NAMA</string>
-    <string name="user_restrictions_ controlled_by">Dikendalikan oleh %1$s</string>
+    <string name="user_restrictions_controlled_by">Dikendalikan oleh %1$s</string>
     <string name="user_restrictions_title">Aplikasi &amp; akses konten</string>
     <string name="user_set_lock_button">Setel kunci</string>
     <string name="user_settings_footer_text">Bagikan ponsel Anda dengan menambahkan pengguna baru. Setiap pengguna memiliki ruang pribadi di ponsel Anda untuk layar Utama khusus, akun, aplikasi, setelan, dan lainnya.</string>
@@ -7599,7 +7594,7 @@ Setiap pengguna dapat memperbarui aplikasi untuk semua pengguna lainnya."</strin
     <string name="verify_flyme_password_dlg_msg">Akun Flyme: %s</string>
     <string name="verify_flyme_password_dlg_title">Verifikasi kata sandi</string>
     <string name="verify_from_create_fingeprint_tips">Harap masukkan kata sandi telepon</string>
-    <string name="verify_pwd_throttle_timeout_ Minute_tips">Silakan coba lagi sandi Anda setelah %1$d menit %2$d detik</string>
+    <string name="verify_pwd_throttle_timeout_minute_tips">Silakan coba lagi sandi Anda setelah %1$d menit %2$d detik</string>
     <string name="verify_pwd_throttle_timeout_tips">Silakan coba lagi sandi Anda setelah %d detik</string>
     <string name="version_text">versi %1$s</string>
     <string name="vertify_pwd_or_fingerprint">Harap verifikasi sidik jari atau kata sandi</string>
@@ -7674,7 +7669,7 @@ Selama panggilan suara, Anda tidak dapat menggunakan internet dan beberapa aplik
     <string name="vpn_disconnect_confirm">Putuskan sambungan VPN ini?</string>
     <string name="vpn_disconnected">Terputus dari VPN</string>
     <string name="vpn_disconnected_summary">Tidak ada</string>
-    <string nama="vpn_dns_hint">8.8.8.8</string>
+    <string name="vpn_dns_hint">8.8.8.8</string>
     <string name="vpn_dns_servers">Server DNS</string>
     <string name="vpn_done">Tutup</string>
     <string name="vpn_edit">Edit profil VPN</string>
@@ -7713,7 +7708,7 @@ Selama panggilan suara, Anda tidak dapat menggunakan internet dan beberapa aplik
     <string name="vpn_replace_vpn_title">Ganti VPN yang ada?</string>
     <string name="vpn_require_connection">Blokir koneksi tanpa VPN</string>
     <string name="vpn_require_connection_title">Membutuhkan koneksi VPN?</string>
-    <string nama="vpn_route_hint">10.0.0.0/8</string>
+    <string name="vpn_route_hint">10.0.0.0/8</string>
     <string name="vpn_routes">Meneruskan rute</string>
     <string name="vpn_save">Simpan</string>
     <string name="vpn_save_login">Ingat kata sandi</string>
@@ -7825,11 +7820,11 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_access_points">Jaringan Wi‑Fi</string>
     <string name="wifi_add_app_network_save_failed_summary">Tidak dapat menyimpan. Coba lagi.</string>
     <string name="wifi_add_app_networks_saved_summary">Jaringan disimpan</string>
-    <string name="wifi_add_app_networks_ saving_summary">Menyimpan %d jaringan…</string>
+    <string name="wifi_add_app_networks_saving_summary">Menyimpan %d jaringan…</string>
     <string name="wifi_add_app_networks_summary">%1$s ingin menyimpan jaringan ini ke ponsel Anda</string>
     <string name="wifi_add_app_networks_title">Simpan jaringan?</string>
     <string name="wifi_add_app_single_network_saved_summary">Disimpan</string>
-    <string name="wifi_add_app_single_network_ saving_summary">Menyimpan…</string>
+    <string name="wifi_add_app_single_network_saving_summary">Menyimpan…</string>
     <string name="wifi_add_app_single_network_summary">%1$s ingin menyimpan jaringan ke ponsel Anda</string>
     <string name="wifi_add_app_single_network_title">Simpan jaringan ini?</string>
     <string name="wifi_add_network">Tambahkan jaringan</string>
@@ -7873,7 +7868,7 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_band_6ghz">6GHz</string>
     <string name="wifi_bridge_title">berbagi WLAN</string>
     <string name="wifi_calling_main_switch_title">Gunakan panggilan Wi‑Fi</string>
-    <string name="wifi_calling_mode_seluler_preferred_summary">Jika jaringan seluler tidak tersedia, gunakan Wi‑Fi</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Jika jaringan seluler tidak tersedia, gunakan Wi‑Fi</string>
     <string name="wifi_calling_mode_dialog_title">Preferensi panggilan</string>
     <string name="wifi_calling_mode_ims_preferred_summary">Jika LTE dan Wi‑Fi tidak tersedia, gunakan 2G/3G</string>
     <string name="wifi_calling_mode_title">Preferensi panggilan</string>
@@ -7896,8 +7891,8 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_cant_connect_to_ap">"Tidak dapat terhubung ke '%1$s'"</string>
     <string name="wifi_carrier_connect">Jaringan Wi‑Fi operator</string>
     <string name="wifi_carrier_content">Hubungkan melalui %1$s</string>
-    <string name="wifi_seluler_data_fallback_summary">Gunakan data seluler saat Wi‑Fi tidak memiliki akses internet. Biaya penggunaan data mungkin berlaku.</string>
-    <string name="wifi_seluler_data_fallback_title">Beralih ke data seluler secara otomatis</string>
+    <string name="wifi_cellular_data_fallback_summary">Gunakan data seluler saat Wi‑Fi tidak memiliki akses internet. Biaya penggunaan data mungkin berlaku.</string>
+    <string name="wifi_cellular_data_fallback_title">Beralih ke data seluler secara otomatis</string>
     <string name="wifi_certificate">Sertifikat Wi‑Fi</string>
     <string name="wifi_certinstall">Instal atau lihat sertifikat</string>
     <string name="wifi_check_password_try_again">Periksa kata sandi dan coba lagi</string>
@@ -7951,9 +7946,9 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_display_status_not_available">Tidak tersedia</string>
     <string name="wifi_display_wps_config">Konfigurasi WPS</string>
     <string name="wifi_dns1">DNS 1 (kecuali diganti oleh DNS Pribadi)</string>
-    <string nama="wifi_dns1_hint">8.8.8.8</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2 (kecuali diganti oleh DNS Pribadi)</string>
-    <string nama="wifi_dns2_hint">8.8.4.4</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_do_not_provide_eap_user_cert">Jangan sediakan</string>
     <string name="wifi_do_not_validate_eap_server">Jangan validasi</string>
     <string name="wifi_dpp_add_another_device">Tambahkan perangkat lain</string>
@@ -7974,7 +7969,7 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_dpp_failure_enrollee_authentication">Periksa kata sandi dan coba lagi</string>
     <string name="wifi_dpp_failure_enrollee_rejected_configuration">Hubungi produsen perangkat</string>
     <string name="wifi_dpp_failure_generic">Pastikan perangkat telah dicolokkan, diisi dayanya, dan dihidupkan. Jika masalah berlanjut, hubungi produsen perangkat</string>
-    <string name="wifi_dpp_failure_not_compatibel">Terjadi masalah</string>
+    <string name="wifi_dpp_failure_not_compatible">Terjadi masalah</string>
     <string name="wifi_dpp_failure_not_supported">Menambahkan “%1$s” tidak didukung oleh perangkat ini</string>
     <string name="wifi_dpp_failure_timeout">Pastikan perangkat telah dicolokkan, diisi dayanya, dan dihidupkan</string>
     <string name="wifi_dpp_hotspot_password">Kata sandi hotspot: %1$s</string>
@@ -8010,9 +8005,9 @@ Kunjungi kebijakan privasi operator Anda untuk mengetahui detailnya."</string>
     <string name="wifi_forget_dialog_message">Semua kata sandi untuk jaringan ini akan dihapus</string>
     <string name="wifi_forget_dialog_title">Lupa jaringan?</string>
     <string name="wifi_forget_network_title">Lupakan jaringan</string>
-    <string name="wifi_frekuensi">Frekuensi</string>
+    <string name="wifi_frequency">Frekuensi</string>
     <string name="wifi_gateway">Gerbang</string>
-    <string nama="wifi_gateway_hint">192.168.1.1</string>
+    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_hand_sel_wapi_cert">Sertifikat WAPI</string>
     <string name="wifi_hidden_gbk">Pengkodean GBK</string>
     <string name="wifi_hidden_network">Jaringan tersembunyi</string>
@@ -8045,7 +8040,7 @@ Menyetel jaringan sebagai tersembunyi tidak akan mengubah setelan router Anda."<
     <string name="wifi_in_airplane_mode">Dalam mode Pesawat</string>
     <string name="wifi_install_credentials">Instal sertifikat</string>
     <string name="wifi_ip_address">Alamat IP</string>
-    <string nama="wifi_ip_address_hint">192.168.1.128</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">Pengaturan IP</string>
     <string name="wifi_ip_settings_invalid_dns">Ketikkan alamat DNS yang valid.</string>
     <string name="wifi_ip_settings_invalid_gateway">Ketikkan alamat gateway yang valid.</string>
@@ -8116,10 +8111,10 @@ Menyetel jaringan sebagai tersembunyi tidak akan mengubah setelan router Anda."<
     <string name="wifi_privacy_settings">Privasi</string>
     <string name="wifi_privacy_settings_ephemeral_summary">MAC acak</string>
     <string name="wifi_proxy_ip">Server</string>
-    <string nama="wifi_proxy_ip_hint">0.0.0.0</string>
+    <string name="wifi_proxy_ip_hint">0.0.0.0</string>
     <string name="wifi_proxy_manual">Panduan</string>
     <string name="wifi_proxy_port">Pelabuhan</string>
-    <string nama="wifi_proxy_port_hint">80</string>
+    <string name="wifi_proxy_port_hint">80</string>
     <string name="wifi_proxy_setting">Setelan proksi</string>
     <string name="wifi_proxy_settings_title">Setelan proksi</string>
     <string name="wifi_proxy_switch">Server proksi</string>
@@ -8127,7 +8122,7 @@ Menyetel jaringan sebagai tersembunyi tidak akan mengubah setelan router Anda."<
     <string name="wifi_quick_toggle_title">Wi‑Fi</string>
     <string name="wifi_remembered">Disimpan</string>
     <string name="wifi_require_sim_card_to_connect">Membutuhkan SIM untuk terhubung</string>
-    <string name="wifi_require_special_sim_card_to_connect">Membutuhkan %s SIM untuk terhubung</string>
+    <string name="wifi_require_specific_sim_card_to_connect">Membutuhkan %s SIM untuk terhubung</string>
     <string name="wifi_sap_no_channel_error">Pita 5 GHz tidak tersedia di negara ini</string>
     <string name="wifi_save">Oke</string>
     <string name="wifi_saved_access_points_label">Jaringan tersimpan</string>
@@ -8165,11 +8160,11 @@ Izinkan ini untuk semua aplikasi yang ingin memindai?"</string>
     <string name="wifi_security_none_owe">Tidak Ada/Terbuka Ditingkatkan</string>
     <string name="wifi_security_owe">Keterbukaan yang Ditingkatkan</string>
     <string name="wifi_security_passpoint">Titik Sandi</string>
-    <string nama="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Pribadi</string>
     <string name="wifi_security_sae">WPA3-Pribadi</string>
     <string name="wifi_security_short_dpp">DPP</string>
-    <string nama="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
@@ -8192,9 +8187,9 @@ Izinkan ini untuk semua aplikasi yang ingin memindai?"</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_select_assistant_dialog_title">Pilih asisten</string>
     <string name="wifi_select_network">Pilih WLAN</string>
-    <string name="wifi_setting_frekuensi_band_error">Ada masalah dalam menyetel pita frekuensi.</string>
-    <string name="wifi_setting_frekuensi_band_summary">Tentukan rentang frekuensi operasi</string>
-    <string name="wifi_setting_frekuensi_band_title">pita frekuensi WLAN</string>
+    <string name="wifi_setting_frequency_band_error">Ada masalah dalam menyetel pita frekuensi.</string>
+    <string name="wifi_setting_frequency_band_summary">Tentukan rentang frekuensi operasi</string>
+    <string name="wifi_setting_frequency_band_title">pita frekuensi WLAN</string>
     <string name="wifi_setting_on_during_sleep_title">Wi‑Fi aktif saat tidur</string>
     <string name="wifi_setting_sleep_policy_error">Ada masalah saat mengubah pengaturan</string>
     <string name="wifi_setting_sleep_policy_sum">Untuk mengurangi konsumsi daya</string>
@@ -8306,7 +8301,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="wifitrackerlib_available_via_app">Tersedia melalui %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">Terhubung melalui %1$s</string>
-    <string nama="wifitrackerlib_help_url_imsi_protection" />
+    <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Jaringan ini menerima ID SIM yang dapat digunakan untuk melacak lokasi perangkat. <annotation id="url">Pelajari lebih lanjut</annotation></string>
     <string name="wifitrackerlib_no_attribution_annotation_packages">com.google.android.setupwizard,com.google.android.gms</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Menyelesaikan pendaftaran…</string>
@@ -8424,7 +8419,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_category_apps">Aplikasi</string>
     <string name="zen_category_behavior">Apa yang dapat mengganggu mode Jangan Ganggu</string>
     <string name="zen_category_duration">Durasi untuk Pengaturan Cepat</string>
-    <string name="zen_category_Exceptions">Alarm &amp; gangguan lainnya</string>
+    <string name="zen_category_exceptions">Alarm &amp; gangguan lainnya</string>
     <string name="zen_category_people">Orang</string>
     <string name="zen_category_schedule">Jadwal</string>
     <string name="zen_custom_settings_dialog_ok">Oke</string>
@@ -8446,7 +8441,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_mode_all_callers">siapa saja</string>
     <string name="zen_mode_all_calls_summary">Semua panggilan dapat menghubungi Anda</string>
     <string name="zen_mode_all_messages_summary">Semua pesan dapat sampai kepada Anda</string>
-    <string nama="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Setelan ini tidak dapat diubah saat ini. Aplikasi (%1$s) telah otomatis mengaktifkan Jangan Ganggu dengan perilaku khusus."</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Jadwal</string>
     <string name="zen_mode_automation_settings_page_title">Jadwal</string>
@@ -8492,7 +8487,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_mode_calls_footer">Untuk memastikan panggilan yang diizinkan mengeluarkan suara, periksa apakah perangkat disetel untuk berdering</string>
     <string name="zen_mode_calls_header">Panggilan yang dapat mengganggu</string>
     <string name="zen_mode_calls_list">panggilan</string>
-    <string nama="zen_mode_calls_summary_one">%1$s</string>
+    <string name="zen_mode_calls_summary_one">%1$s</string>
     <string name="zen_mode_calls_summary_two">%1$s dan %2$s</string>
     <string name="zen_mode_calls_title">Panggilan</string>
     <string name="zen_mode_choose_rule_type">Pilih jenis jadwal</string>
@@ -8503,8 +8498,8 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_mode_custom_behavior_summary">Buat pengaturan khusus untuk jadwal ini</string>
     <string name="zen_mode_custom_behavior_summary_default">Gunakan pengaturan default</string>
     <string name="zen_mode_custom_behavior_title">Jangan Ganggu perilaku</string>
-    <string name="zen_mode_custom_calls_footer">Untuk panggilan masuk '%1$s' diblokir. Anda dapat menyesuaikan setelan agar teman, keluarga, atau kontak lain dapat menghubungi Anda.</string>
-    <string name="zen_mode_custom_messages_footer">Untuk '%1$s' pesan masuk diblokir. Anda dapat menyesuaikan setelan agar teman, keluarga, atau kontak lain dapat menghubungi Anda.</string>
+    <string name="zen_mode_custom_calls_footer">Untuk panggilan masuk ‘%1$s’ diblokir. Anda dapat menyesuaikan setelan agar teman, keluarga, atau kontak lain dapat menghubungi Anda.</string>
+    <string name="zen_mode_custom_messages_footer">Untuk ‘%1$s’ pesan masuk diblokir. Anda dapat menyesuaikan setelan agar teman, keluarga, atau kontak lain dapat menghubungi Anda.</string>
     <string name="zen_mode_delete_automatic_rules">Hapus jadwal</string>
     <string name="zen_mode_delete_rule">Hapus jadwal</string>
     <string name="zen_mode_delete_rule_button">Hapus</string>
@@ -8519,7 +8514,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_mode_event_rule_calendar">Selama acara untuk</string>
     <string name="zen_mode_event_rule_calendar_any">Kalender apa pun</string>
     <string name="zen_mode_event_rule_reply">Tempat balasan</string>
-    <string name="zen_mode_event_rule_reply_any_kecuali_no">Ya, Mungkin, atau Tidak dibalas</string>
+    <string name="zen_mode_event_rule_reply_any_except_no">Ya, Mungkin, atau Tidak dibalas</string>
     <string name="zen_mode_event_rule_reply_yes">Ya</string>
     <string name="zen_mode_event_rule_reply_yes_or_maybe">Ya atau Mungkin</string>
     <string name="zen_mode_event_rule_summary_any_calendar">kalender apa pun</string>
@@ -8547,7 +8542,7 @@ Penyimpanan kredensial mungkin tidak diaktifkan"</string>
     <string name="zen_mode_messages_header">Pesan yang dapat mengganggu</string>
     <string name="zen_mode_messages_list">pesan</string>
     <string name="zen_mode_messages_title">Pesan</string>
-    <string name="zen_mode_no_Exceptions">Tidak ada</string>
+    <string name="zen_mode_no_exceptions">Tidak ada</string>
     <string name="zen_mode_none_calls">Tidak ada</string>
     <string name="zen_mode_none_messages">Tidak ada</string>
     <string name="zen_mode_other_options">opsi lain</string>
@@ -8589,7 +8584,7 @@ Saat Anda menonaktifkan mode Jangan Ganggu, temukan notifikasi yang terlewat den
     <string name="zen_mode_rule_not_found_text">Aturan tidak ditemukan.</string>
     <string name="zen_mode_rule_rename_button">Ganti nama</string>
     <string name="zen_mode_rule_summary_enabled_combination">Aktif / %1$s</string>
-    <string nama="zen_mode_rule_summary_provider_combination">"%1$s
+    <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
     <string name="zen_mode_rule_type_unknown">Tidak diketahui</string>
     <string name="zen_mode_schedule_alarm_summary">Jadwal dimatikan saat alarm berbunyi</string>
@@ -8673,7 +8668,7 @@ Perbarui pengaturan ke:
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Menggunakan %1$s. %2$s dimulai pada %3$s.</string>
     <string name="zone_info_footer_no_dst">Menggunakan %1$s. Tidak ada waktu musim panas.</string>
-    <string nama="zone_info_offset_and_name">%2$s (%1$s)</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">Pilih berdasarkan offset UTC</string>
     <string name="zone_menu_by_region">Pilih berdasarkan wilayah</string>
     <string name="zone_time_type_dst">Waktu musim panas</string>
