@@ -2408,7 +2408,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="device_info_default">Không xác định</string>
     <string name="device_info_not_available">Không có sẵn</string>
     <string name="device_memory_expansion_message">"Khi bộ nhớ trong của điện thoại di động đủ, một phần dung lượng lưu trữ có thể được mở rộng thành bộ nhớ đang chạy.
- sau khi được bật lên sẽ có ảnh hưởng nhất định đến tuổi thọ của đĩa lưu trữ. Vui lòng bật nó khi cần thiết"</string>
+Sau khi được bật lên sẽ có ảnh hưởng nhất định đến tuổi thọ của đĩa lưu trữ. Vui lòng bật nó khi cần thiết"</string>
     <string name="device_picker">Chọn thiết bị Bluetooth</string>
     <string name="device_screen_usage">Mức sử dụng màn hình kể từ khi sạc đầy</string>
     <string name="device_status">Trạng thái</string>
