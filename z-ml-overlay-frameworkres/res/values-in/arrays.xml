@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Rumah</item>
+        <item>Kantor</item>
+        <item>Lainnya</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,66 +17,66 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Kantor</item>
+        <item>Lainnya</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
+        <item>Rumah</item>
+        <item>Ponsel</item>
+        <item>Kantor</item>
+        <item>Faks Kantor</item>
+        <item>Faks Rumah</item>
         <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Lainnya</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Rumah</item>
+        <item>Kantor</item>
+        <item>Lainnya</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="config_autoTimeSourcesPriority">
-        <item>network</item>
-        <item>telephony</item>
+        <item>jaringan</item>
+        <item>telepon</item>
     </string-array>
     <string-array name="config_globalActionsList">
-        <item>emergency</item>
-        <item>lockdown</item>
-        <item>power</item>
-        <item>restart</item>
-        <item>logout</item>
-        <item>screenshot</item>
-        <item>bugreport</item>
+        <item>Darurat</item>
+        <item>Kunci Darurat</item>
+        <item>Daya</item>
+        <item>Restart</item>
+        <item>Keluar</item>
+        <item>Screenshot</item>
+        <item>Laporan Bug</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item></item>
-        <item>wait finger down</item>
-        <item>finger down</item>
-        <item>finger up</item>
-        <item>finger down timeout</item>
-        <item>please adjust your finger</item>
-        <item>please put the finger not enrolled</item>
+        <item>Tunggu jari turun</item>
+        <item>Jari turun</item>
+        <item>Jari naik</item>
+        <item>Time Out Jari Turun</item>
+        <item>Harap sesuaikan jari Anda</item>
+        <item>Harap masukkan jari yang belum terdaftar</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Rumah</item>
+        <item>Kantor</item>
+        <item>Lainnya</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>mobile data</item>
+        <item>data seluler</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings. (Error code: %1$s)</item>
+        <item>Untuk melakukan panggilan dan mengirim pesan melalui Wi-Fi, pertama-tama minta penyedia Anda mengaktifkan layanan ini. Kemudian hidupkan kembali panggilan Wi-Fi dari Pengaturan. (Kode kesalahan: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Issue registering Wi‑Fi calling with your carrier: %1$s</item>
+        <item>Masalah saat mendaftarkan panggilan Wi-Fi dengan penyedia Anda: %1$s</item>
     </string-array>
     <string-array name="always_show_plmn_operators">
         <item>CMCC</item>
@@ -92,123 +92,124 @@
         <item>CHINA MOBILE</item>
     </string-array>
     <string-array name="calendar_week_title">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
     </string-array>
     <string-array name="smartbar_bottom_height">
-        <item>Closure</item>
-        <item>Moderate</item>
-        <item>Minimize</item>
+        <item>Tutup</item>
+        <item>Sedang</item>
+        <item>Minimalkan</item>
     </string-array>
     <string-array name="system_ringtone_name_list1">
-        <item>Infinite Passion</item>
-        <item>"Flyme Lang Lang's piano version"</item>
-        <item>Awaited</item>
+        <item>Passion Tak Terbatas</item>
+        <item>Versi Piano "Lang Lang Flyme"</item>
+        <item>Yang Ditunggu</item>
         <item>Piano</item>
         <item>Digital</item>
         <item>Flyme</item>
-        <item>Music box</item>
-        <item>Tech/Science</item>
-        <item>Guitar</item>
+        <item>Kotak Musik</item>
+        <item>Teknologi/Sains</item>
+        <item>Gitar</item>
         <item>Marimba</item>
-        <item>Naughty</item>
-        <item>Crystal</item>
-        <item>Progress</item>
-        <item>The kittens</item>
-        <item>Morning song</item>
-        <item>Call of love</item>
+        <item>Genit</item>
+        <item>Kristal</item>
+        <item>Kemajuan</item>
+        <item>Kucing-kucing</item>
+        <item>Lagu Pagi</item>
+        <item>Panggilan Cinta</item>
         <item>Tumbler</item>
-        <item>Journey begins</item>
-        <item>New life</item>
-        <item>Heartbeat</item>
-        <item>East ville memory</item>
+        <item>Pembukaan Perjalanan</item>
+        <item>Kecewa</item>
+        <item>Hidup Baru</item>
+        <item>Ketukan Hati</item>
+        <item>Kenangan Kota Timur</item>
         <item>Waltz</item>
-        <item>The cantor</item>
-        <item>Passion</item>
-        <item>Journey</item>
-        <item>Game</item>
-        <item>Rain dance</item>
-        <item>Twilight dance</item>
+        <item>Pendeta</item>
+        <item>Gairah</item>
+        <item>Perjalanan</item>
+        <item>Permainan</item>
+        <item>Tarian Hujan</item>
+        <item>Tarian Senja</item>
         <item>Foredawn</item>
-        <item>Home</item>
+        <item>Rumah</item>
         <item>Blues</item>
-        <item>Dash</item>
-        <item>Mechanical ringtone</item>
-        <item>Phone</item>
-        <item>Beeper</item>
-        <item>After school</item>
+        <item>Sprint</item>
+        <item>Bel</item>
+        <item>Ponsel</item>
+        <item>Pengepul</item>
+        <item>Setelah Sekolah</item>
         <item>Mario</item>
-        <item>Nighty-night</item>
-        <item>Soaring</item>
-        <item>Childhood</item>
-        <item>Morning run</item>
-        <item>Sweetheart</item>
-        <item>Curtain call</item>
-        <item>Bell</item>
+        <item>Malammu</item>
+        <item>Melayang</item>
+        <item>Masa Kecil</item>
+        <item>Lari Pagi</item>
+        <item>Kekasih</item>
+        <item>Tirai Terbuka</item>
+        <item>Bel</item>
         <item>Celesta</item>
-        <item>Triumph</item>
-        <item>Reminder</item>
-        <item>Doorbell</item>
-        <item>Promotion</item>
-        <item>Little crystal</item>
-        <item>Arrival</item>
-        <item>Cleverer</item>
-        <item>Agile</item>
-        <item>Red wine cork</item>
-        <item>Tapping</item>
-        <item>Water drop</item>
+        <item>Kemenangan</item>
+        <item>Pengingat</item>
+        <item>Bel Pintu</item>
+        <item>Promosi</item>
+        <item>Kristal Kecil</item>
+        <item>Kedatangan</item>
+        <item>Lebih Cerdas</item>
+        <item>Lincah</item>
+        <item>Tutupan Botol Anggur Merah</item>
+        <item>Pukulan</item>
+        <item>Menyejukkan</item>
         <item>Link</item>
-        <item>Spinning</item>
-        <item>Gift</item>
-        <item>Strikes</item>
-        <item>Pure</item>
-        <item>Beating</item>
-        <item>Naughty</item>
-        <item>Chocolate</item>
-        <item>Code word</item>
-        <item>Corner</item>
+        <item>Putaran</item>
+        <item>Kado</item>
+        <item>Pukulan</item>
+        <item>Murni</item>
+        <item>Pukulan</item>
+        <item>Genit</item>
+        <item>Cokelat</item>
+        <item>Kata Sandi</item>
+        <item>Sudut</item>
         <item>Empire</item>
-        <item>Jump</item>
+        <item>Loncat</item>
         <item>Laputa</item>
         <item>Meteor</item>
-        <item>Ripples</item>
-        <item>Shining</item>
-        <item>Quiet night</item>
-        <item>The north star</item>
-        <item>Time Tunnel</item>
-        <item>Awake</item>
-        <item>Awake relaxed version</item>
-        <item>Floating light</item>
-        <item>Floating light relaxed version</item>
+        <item>Getaran</item>
+        <item>Bersinar</item>
+        <item>Malam Tenang</item>
+        <item>Bintang Utara</item>
+        <item>Tongkat Waktu</item>
+        <item>Bangun</item>
+        <item>Bangun Versi Santai</item>
+        <item>Cahaya Melayang</item>
+        <item>Cahaya Melayang Versi Santai</item>
     </string-array>
     <string-array name="urlspan_date_dialog_title">
-        <item>New Event</item>
-        <item>Open In Calendar</item>
-        <item>Copy</item>
+        <item>Acara Baru</item>
+        <item>Buka di Kalender</item>
+        <item>Salin</item>
     </string-array>
     <string-array name="urlspan_email_dialog_title">
-        <item>Send e-mail</item>
-        <item>Copy</item>
-        <item>Add to contact</item>
+        <item>Kirim e-mail</item>
+        <item>Salin</item>
+        <item>Tambahkan ke kontak</item>
     </string-array>
     <string-array name="urlspan_open_dialog_title">
-        <item>Open</item>
-        <item>Copy</item>
+        <item>Buka</item>
+        <item>Salin</item>
     </string-array>
     <string-array name="urlspan_open_dialog_title_chinamobile">
-        <item>Open</item>
-        <item>Copy</item>
-        <item>Add To BookMark</item>
+        <item>Buka</item>
+        <item>Salin</item>
+        <item>Tambahkan ke Bookmark</item>
     </string-array>
     <string-array name="urlspan_tel_dialog_title">
-        <item>Call number</item>
-        <item>Send message</item>
-        <item>Copy</item>
-        <item>Add to contact</item>
+        <item>Panggil nomor</item>
+        <item>Kirim pesan</item>
+        <item>Salin</item>
+        <item>Tambahkan ke kontak</item>
     </string-array>
 </resources>

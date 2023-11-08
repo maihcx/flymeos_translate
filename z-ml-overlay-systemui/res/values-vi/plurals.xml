@@ -21,16 +21,16 @@
         <item quantity="one">Ứng dụng %s đang hoạt động</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Nhập mã PIN của SIM.  Bạn còn %d lần thử.</item>
-        <item quantity="one">Nhập mã PIN của SIM.  Bạn còn %d lần thử trước khi phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của mình.</item>
+        <item quantity="other">Nhập mã PIN của SIM. Bạn còn %d lần thử.</item>
+        <item quantity="one">Nhập mã PIN của SIM. Bạn còn %d lần thử trước khi phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của mình.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
         <item quantity="other">Nhập mã PIN SIM%1$d, bạn còn %2$d lần thử.</item>
         <item quantity="one">Nhập mã PIN SIM%1$d, bạn còn %2$d lần thử trước khi phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của mình.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM hiện đã bị vô hiệu hóa.  Nhập mã PUK để tiếp tục.  Bạn còn %d lần thử trước khi SIM vĩnh viễn không thể sử dụng được.  Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</item>
-        <item quantity="one">SIM hiện đã bị vô hiệu hóa.  Nhập mã PUK để tiếp tục.  Bạn còn %d lần thử trước khi SIM vĩnh viễn không thể sử dụng được.  Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</item>
+        <item quantity="other">SIM hiện đã bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Bạn còn %d lần thử trước khi SIM vĩnh viễn không thể sử dụng được. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</item>
+        <item quantity="one">SIM hiện đã bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Bạn còn %d lần thử trước khi SIM vĩnh viễn không thể sử dụng được. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Mã PIN của SIM không chính xác, bạn còn %d lần thử.</item>

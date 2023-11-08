@@ -95,7 +95,6 @@
     <string name="allset_navigation_settings"><annotation id="link">Pengaturan navigasi sistem</annotation></string>
     <string name="allset_title">Semuanya siap!</string>
     <string name="alwaysUse">Gunakan opsi ini sebagai default</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_cancel_install">Batal</string>
     <string name="app_download_failed">Pengunduhan gagal</string>
     <string name="app_download_paused">Dijeda</string>
@@ -106,7 +105,6 @@
     <string name="app_info_drop_target_label">Info Aplikasi</string>
     <string name="app_installing">Menginstal</string>
     <string name="app_installing_title">%1$s sedang menginstal, %2$s selesai</string>
-    <string name="app_name">Launcher3</string>
     <string name="app_option">Operasi aplikasi</string>
     <string name="app_waiting_download_title">%1$s menunggu untuk diinstal</string>
     <string name="assistant_gesture_feedback_swipe_not_diagonal">Pastikan Anda menggesek secara diagonal.</string>
@@ -128,13 +126,10 @@
     <string name="back_gesture_tutorial_confirm_subtitle">Untuk mengubah sensitivitas gestur kembali, buka Pengaturan</string>
     <string name="blocked_by_policy">"Tindakan ini tidak diizinkan oleh aplikasi atau organisasi Anda"</string>
     <string name="bottomsheet_action_expand_halfway">Perbesar setengah jalan</string>
-    <string name="cache_db_name">app_icons.db</string>
-    <string name="calendar_component_name">com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity</string>
     <string name="can_not_move_to_target_screen_explain">Ruang tidak cukup</string>
     <string name="cancel_action">Batal</string>
     <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
     <string name="character_counter_overflowed_content_description">Batas karakter terlampaui %1$d dari %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">Teks chip</string>
     <string name="clear_text_end_icon_content_description">Hapus teks</string>
     <string name="cloned">di-kloning</string>
@@ -147,7 +142,6 @@
     <string name="create_folder_button">GRUP</string>
     <string name="create_folder_with">Buat folder dengan: %1$s</string>
     <string name="date_time_set">Atur</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="default_scroll_format">Halaman %1$d dari %2$d</string>
     <string name="derived_app_name">Pengelola Layar Beranda</string>
     <string name="developer_options_filter_hint">Filter</string>
@@ -158,7 +152,6 @@
     <string name="dialog_update_title">Perlu pembaruan aplikasi</string>
     <string name="disabled_app_label">%1$s Dinonaktifkan</string>
     <string name="dismiss_prediction_label">"Jangan usulkan aplikasi"</string>
-    <string name="dotted_app_label">{count, plural, =1 {{app_name} memiliki # notifikasi} other {{app_name} memiliki # notifikasi} }</string>
     <string name="double_tap_off_screen_desc">Klik dua kali pada area kosong di layar</string>
     <string name="double_tap_off_screen_title">Kunci layar</string>
     <string name="easy_contact_dial_add">Tambah</string>
@@ -342,7 +335,6 @@
     <string name="mc_pattern_a_minute_before">1 menit yang lalu</string>
     <string name="mc_pattern_hour_before">, jam yang lalu</string>
     <string name="mc_pattern_today">Hari ini</string>
-    <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_yesterday">Kemarin</string>
     <string name="mc_permission_apply">Minta izin</string>
     <string name="mc_permission_message_content">%1$s meminta %3$d izin termasuk %2$s</string>
@@ -402,7 +394,7 @@
     <string name="more_item_label">Lebih Lanjut</string>
     <string name="move_drop_target_bottom_or_right">Pindah ke bawah/kanan</string>
     <string name="move_drop_target_top_or_left">Pindah ke atas/kiri</string>
-        <string name="move_to_empty_cell">Pindahkan ke baris %1$s kolom %2$s</string>
+    <string name="move_to_empty_cell">Pindahkan ke baris %1$s kolom %2$s</string>
     <string name="move_to_hotseat_position">Pindahkan ke posisi favorit %1$s</string>
     <string name="move_to_position">Pindahkan ke posisi %1$s</string>
     <string name="msg_disabled_by_admin">Nonaktifkan oleh admin Anda</string>
@@ -411,7 +403,6 @@
     <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
     <string name="mtrl_chip_close_icon_content_description">Hapus %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Lebih dari %1$d notifikasi baru</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Ganti ke bulan berikutnya</string>
     <string name="mtrl_picker_a11y_prev_month">Ganti ke bulan sebelumnya</string>
     <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
@@ -428,16 +419,12 @@
     <string name="mtrl_picker_out_of_range">Di luar jangkauan: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Tanggal awal – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
     <string name="mtrl_picker_range_header_unselected">Tanggal awal – Tanggal akhir</string>
     <string name="mtrl_picker_save">Simpan</string>
     <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal awal</string>
-    <string name="mtrl_picker_text_input_day_abbr">h</string>
-    <string name="mtrl_picker_text_input_month_abbr">b</string>
-    <string name="mtrl_picker_text_input_year_abbr">t</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
     <string name="mtrl_picker_toggle_to_day_selection">Ketuk untuk beralih ke pemilihan hari</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
@@ -528,7 +515,6 @@
     <string name="notification_pull_down_option_notification">Pusat Notifikasi</string>
     <string name="notifications_header">Notifikasi</string>
     <string name="out_of_space">Tidak cukup ruang di layar beranda ini</string>
-    <string name="overscroll_plugin_factory_class" />
     <string name="overview_gesture_feedback_complete_with_follow_up">Anda telah mempelajari cara menggunakan gestur. Untuk mematikan gestur, pergi ke Pengaturan.</string>
     <string name="overview_gesture_feedback_complete_without_follow_up">Anda telah menyelesaikan gestur untuk beralih aplikasi.</string>
     <string name="overview_gesture_feedback_home_detected">Coba tahan jendela lebih lama sebelum melepaskan.</string>
@@ -584,7 +570,6 @@
     <string name="search_menu_title">Cari</string>
     <string name="search_pref_screen_title">Cari ponsel Anda</string>
     <string name="search_pref_screen_title_tablet">Cari tablet Anda</string>
-    <string name="search_session_manager_class" />
     <string name="search_switch">Cari</string>
     <string name="search_switch_explain">Geser ke atas di layar beranda untuk mencari</string>
     <string name="settings_button_text">Pengaturan beranda</string>
@@ -600,9 +585,8 @@
     <string name="split_screen_position_top">Bagi ke atas</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="styles_wallpaper_button_text">Wallpaper &amp; gaya</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure">OK</string>
-       <string name="swipe_again">Geser lagi</string>
+    <string name="swipe_again">Geser lagi</string>
     <string name="sys_shortcut_add_widget">Tambahkan widget</string>
     <string name="sys_shortcut_cancel_install">Batalkan pemasangan</string>
     <string name="sys_shortcut_edit">Edit</string>
@@ -655,20 +639,16 @@
     <string name="v7_preference_off">MATI</string>
     <string name="v7_preference_on">NYALA</string>
     <string name="wallpaper_button_text">Wallpaper</string>
-    <string name="wallpaper_picker_package" />
-    <string name="wellbeing_provider_pkg" />
     <string name="widget_accessible_dims_format">Lebar %1$d x Tinggi %2$d</string>
     <string name="widget_add_tips">Tambahkan Widget</string>
     <string name="widget_button_text">Widget</string>
     <string name="widget_category_conversations">Percakapan</string>
-    <string name="widget_dims_format">%1$d × %2$d</string>
     <string name="widget_education_close_button">Mengerti</string>
     <string name="widget_education_content">Untuk mendapatkan informasi tanpa membuka aplikasi, Anda dapat menambahkan widget ke layar beranda Anda</string>
     <string name="widget_education_header">Informasi berguna di ujung jari Anda</string>
     <string name="widget_preview_context_description">Widget %1$s</string>
     <string name="widget_reconfigure_button_content_description">Ubah pengaturan widget</string>
     <string name="widget_resized">Widget diubah ukurannya menjadi lebar %1$s dan tinggi %2$s</string>
-    <string name="widgets_and_shortcuts_count">%1$s, %2$s</string>
     <string name="widgets_full_sheet_cancel_button_description">Hapus teks dari kotak pencarian</string>
     <string name="widgets_full_sheet_personal_tab">Pribadi</string>
     <string name="widgets_full_sheet_search_bar_hint">Cari</string>
