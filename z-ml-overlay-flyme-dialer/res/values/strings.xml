@@ -66,7 +66,6 @@
     <string name="attach_photo_dialog_title">Contact photo</string>
     <string name="audio_chat">Voice chat</string>
     <string name="blurbJoinContactDataWith">Choose the contact you want to join with %s:</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="caching_vcard_message">Caching vCard(s) to local temporary storage. The actual import will start soon</string>
     <string name="caching_vcard_title">Caching</string>
@@ -94,13 +93,11 @@
     <string name="call_log_action_video_call">VIDEO CALL</string>
     <string name="call_log_action_voicemail">LISTEN</string>
     <string name="call_log_activity_title">History</string>
-    <string name="call_log_activity_title_font_family">sans-serif-light</string>
     <string name="call_log_all_title">All</string>
     <string name="call_log_header_other">Earlier</string>
     <string name="call_log_header_today">Today</string>
     <string name="call_log_header_yesterday">Yesterday</string>
     <string name="call_log_incoming_header">Incoming calls only</string>
-    <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_missed_header">Missed calls only</string>
     <string name="call_log_missed_title">Missed</string>
     <string name="call_log_outgoing_header">Outgoing calls only</string>
@@ -126,7 +123,6 @@
     <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
     <string name="cancel_import_confirmation_message">Cancel import of %s?</string>
     <string name="cancel_vcard_import_or_export_failed">"Couldn't cancel vCard import/export"</string>
-    <string name="card_name">" - %s"</string>
     <string name="card_name_no_sim">No SIM card</string>
     <string name="change_photo">Change</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
@@ -150,17 +146,9 @@
     <string name="clearFrequentsProgress_title">Clearing favorite contacts...</string>
     <string name="clear_default">Clear default</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
-    <string name="common_last_name_prefixes" />
-    <string name="common_name_conjunctions" />
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
     <string name="composer_failed_to_get_database_infomation">"Couldn't get database information"</string>
     <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone</string>
     <string name="composer_not_initialized">"The vCard composer didn't start properly"</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
     <string name="config_export_vcard_type">default</string>
     <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp" />
@@ -208,7 +196,6 @@
     <string name="create_group_item_label">Create new group</string>
     <string name="customLabelPickerTitle">Custom label name</string>
     <string name="custom_list_filter">Define custom view</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_set">Set</string>
     <string name="date_year_toggle">Provide a year</string>
     <string name="default_sans_serif">sans-serif</string>
@@ -331,7 +318,6 @@ Possible reason:
     <string name="fail_reason_too_many_vcard">Too many vCard files are on the SD card</string>
     <string name="fail_reason_unknown">Unknown error</string>
     <string name="fail_reason_vcard_parse_error">"Couldn't parse vCard for an unexpected reason"</string>
-    <string name="fast_scroll_alphabet_simc">ABCDEFGHIJKLMNOPQRSTUVWXYZ#</string>
     <string name="favorite_hidden">Removed from favorites</string>
     <string name="favorite_hidden_undo">Undo</string>
     <string name="favoritesFrequentCalled">Frequently called</string>
@@ -339,7 +325,6 @@ Possible reason:
     <string name="favorites_menu_all_contacts">ALL CONTACTS</string>
     <string name="favorites_tab_label">Favorites</string>
     <string name="file_selected_number">%1$s file(s) selected, %2$s MB in total</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="foundTooManyContacts">More than %d found</string>
     <string name="frequentList">Frequent</string>
     <string name="from_account_format">%1$s</string>
@@ -404,7 +389,6 @@ Possible reason:
     <string name="lableBtnDeleteSelected">Delete</string>
     <string name="lable_no_name">No name</string>
     <string name="launcherActivityLabel">Phone</string>
-    <string name="letter_tile_letter_font_family">sans-serif-light</string>
     <string name="listAllContactsInAccount">Contacts in %s</string>
     <string name="listCustomView">Contacts in custom view</string>
     <string name="listFoundAllContactsZero">No Contacts</string>
@@ -414,7 +398,6 @@ Possible reason:
     <string name="listTotalAllContactsZeroGroup">No contacts in %s</string>
     <string name="listTotalAllContactsZeroStarred">No Favorites</string>
     <string name="listTotalPhoneContactsZero">No contacts with phone numbers</string>
-    <string name="list_delimeter">", "</string>
     <string name="list_filter_all_accounts">All contacts</string>
     <string name="list_filter_all_starred">Starred</string>
     <string name="list_filter_custom">Custom</string>
@@ -1058,8 +1041,6 @@ Possible reason:
     <string name="mzc_item_call_edit">Edit before dialing</string>
     <string name="mzc_item_copy_phone_number">Copy phone number</string>
     <string name="mzc_item_copy_text">Copy</string>
-    <string name="mzc_item_default_sim_ip_call">+ %s</string>
-    <string name="mzc_item_sim_card_ip_call" formatted="false">SIM%s + %s</string>
     <string name="mzc_less">Show less</string>
     <string name="mzc_listen_to_the_alarm_sound">Listen to the alarm sound</string>
     <string name="mzc_listen_to_the_alarm_sound_cancel">Cancel the audition</string>
@@ -1201,11 +1182,8 @@ Unicom"</string>
     <string name="mzc_preset_select_empty">No preset avatars available, please update the firmware</string>
     <string name="mzc_privacy_policy_setting_title">Privacy Setting</string>
     <string name="mzc_privacy_policy_title">Privacy Policy</string>
-    <string name="mzc_private_call_suffix_one">" - SIM 1"</string>
-    <string name="mzc_private_call_suffix_two">" - SIM 2"</string>
     <string name="mzc_progress_copying_notifier_message">Copying contacts</string>
     <string name="mzc_progress_notifier_message">Importing %1$s/%2$s: %3$s</string>
-    <string name="mzc_progress_number">%1$s/%2$s %3$s%%</string>
     <string name="mzc_qr_code_action_bar_control_title">Share contact</string>
     <string name="mzc_quick_contact_all_call_log">View All</string>
     <string name="mzc_quick_contact_delete_contact">Delete</string>
@@ -1546,7 +1524,6 @@ Unicom"</string>
     <string name="savingDisplayGroups">Saving display options…</string>
     <string name="scanning_sdcard_failed_message">"The SD card couldn't be scanned. (Reason: \"%s\")"</string>
     <string name="searchHint">Search contacts</string>
-    <string name="search_font_family">sans-serif</string>
     <string name="search_menu_title">Search</string>
     <string name="search_results_searching">Searching…</string>
     <string name="search_settings_description">Names of your contacts</string>
@@ -1679,7 +1656,6 @@ Unicom"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Busy</string>
     <string name="strequentList">Favorites</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure">Go to</string>
     <string name="sw_version">Software version</string>
     <string name="tab_all_contacts">Contacts</string>
@@ -1737,7 +1713,6 @@ Choose one of the following options:"</string>
     <string name="vibrate_on_ring_title">Also vibrate for calls</string>
     <string name="video_chat">Video chat</string>
     <string name="viewContactTitle">Contact details</string>
-    <string name="view_full_call_history_font_family">sans-serif</string>
     <string name="view_updates_from_group">View updates</string>
     <string name="voice_search_not_available">Voice search not available</string>
     <string name="voicemail">Voicemail</string>
