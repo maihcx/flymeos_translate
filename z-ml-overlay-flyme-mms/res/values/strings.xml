@@ -48,11 +48,7 @@
     <string name="aim_down_net_type_pref_title">AIM download network type</string>
     <string name="aim_down_net_type_wifi">WIFI download</string>
     <string name="alwaysUse">Use this option as default</string>
-    <string name="amap_key">97209926a151c7a701a14ca7833cce77</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Messages</string>
-    <string name="app_name">ServiceFunction</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="assistant_cannt_support_mms">Meizu assistant does not support MMS</string>
     <string name="assistant_message_text_length_error">Upper limit of 420 characters exceeded</string>
     <string name="attach_file_title">Add File</string>
@@ -254,9 +250,7 @@
     <string name="download_resume">Resume Download</string>
     <string name="draft_header_text">You have unsent message.</string>
     <string name="draft_no_subject">No subject</string>
-    <string name="draft_separator">,</string>
     <string name="draft_sub_tittle_mms">MMS: %1$s</string>
-    <string name="draft_tittle_large">"[Draft] "</string>
     <string name="duoqu_613_change">切换车次</string>
     <string name="duoqu_613_select">选择车次</string>
     <string name="duoqu_air_arriver_city">到达</string>
@@ -283,8 +277,6 @@
     <string name="duoqu_bubble_more_info_show_extend">（更多信息请点击显示原文）</string>
     <string name="duoqu_bubble_post_sending">派送中</string>
     <string name="duoqu_bubble_post_title">派送状态</string>
-    <string name="duoqu_bubble_train_seat_split">，</string>
-    <string name="duoqu_bubble_ui_part_air_train_split">-</string>
     <string name="duoqu_call">来电</string>
     <string name="duoqu_call_harass">骚扰电话</string>
     <string name="duoqu_call_phone">拨打电话</string>
@@ -303,7 +295,6 @@
     <string name="duoqu_check_info">检票口</string>
     <string name="duoqu_chinese">[一-龥]</string>
     <string name="duoqu_chonzhi">充值</string>
-    <string name="duoqu_colon">：</string>
     <string name="duoqu_confirm">确定</string>
     <string name="duoqu_defult_gray_text">未知</string>
     <string name="duoqu_delete">删除</string>
@@ -316,11 +307,6 @@
     <string name="duoqu_dialog_content">解除默认服务选择后，您可重新选择所需的服务应用</string>
     <string name="duoqu_dialog_title">提示</string>
     <string name="duoqu_direction">开往</string>
-    <string name="duoqu_double_line">— —</string>
-    <string name="duoqu_double_line_an">--:--</string>
-    <string name="duoqu_double_line_arr_time">--</string>
-    <string name="duoqu_double_line_dep_time">--</string>
-    <string name="duoqu_double_line_en">- -</string>
     <string name="duoqu_entrance_info">进站口</string>
     <string name="duoqu_errortext">找不到网页，请您检查当前网络是否通畅!</string>
     <string name="duoqu_fight_end">航班</string>
@@ -350,7 +336,6 @@
     <string name="duoqu_flight_state_return">返航</string>
     <string name="duoqu_flight_state_return_cancel">返航取消</string>
     <string name="duoqu_flight_state_return_departure">返航起飞</string>
-    <string name="duoqu_flight_unknow_time">--:--</string>
     <string name="duoqu_flightstr">航班</string>
     <string name="duoqu_forword_sms">转发短信</string>
     <string name="duoqu_has_read">已读</string>
@@ -494,7 +479,6 @@
     <string name="flyme_message_reDownload_positive_title">Download it again</string>
     <string name="flyme_no_regist">The recipient cannot receive Flyme MMS, please delete attachments</string>
     <string name="flyme_oldversion_mms">"The recipient's software version does not support Flyme MMS"</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="foreign_guide">Set overseas interception</string>
     <string name="foreign_warning">Overseas message</string>
     <string name="forward_prefix">Fwd:</string>
