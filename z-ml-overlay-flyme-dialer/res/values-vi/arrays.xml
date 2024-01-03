@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="chinese_nonhli_yuefen">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
     </string-array>
     <string-array name="mzc_array_import_selection">
-        <item>Import from Account</item>
-        <item>Import from local</item>
-        <item>Import from SIM card</item>
-        <item>Import from another phone</item>
+        <item>Nhập từ tài khoản</item>
+        <item>Nhập khẩu từ địa phương</item>
+        <item>Nhập khẩu từ thẻ SIM</item>
+        <item>Nhập từ điện thoại khác</item>
     </string-array>
     <string-array name="mzs_contacts_list_new">
-        <item>New contact</item>
-        <item>Import phone contacts to SIM card</item>
+        <item>Địa chỉ liên lạc mới</item>
+        <item>Nhập danh bạ điện thoại vào thẻ SIM</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Organization</item>
-        <item>Note</item>
+        <item>Tổ chức</item>
+        <item>Ghi chú</item>
     </string-array>
     <string-array name="yp_mark_type">
-        <item>Suspected fraud</item>
-        <item>Harassing call</item>
-        <item>Advertisement</item>
-        <item>Real estate agency</item>
-        <item>Express &amp; order-in</item>
-        <item>Insurance &amp; finance</item>
+        <item>Nghi ngờ gian lận</item>
+        <item>Cuộc gọi quấy rối</item>
+        <item>Quảng cáo</item>
+        <item>Cơ quan bất động sản</item>
+        <item>Chuyển phát nhanh &amp; đặt hàng</item>
+        <item>Bảo hiểm &amp; tài chính</item>
     </string-array>
 </resources>

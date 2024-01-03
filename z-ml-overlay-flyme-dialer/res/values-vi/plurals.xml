@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d person</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d người</item>
+        <item quantity="one">%1$d người</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">Đã tìm thấy %d</item>
+        <item quantity="one">Đã tìm thấy 1</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Total: %d contacts</item>
-        <item quantity="one">Total: 1 contact</item>
+        <item quantity="other">Tổng cộng: %d liên hệ</item>
+        <item quantity="one">Tổng cộng: 1 liên hệ</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d liên hệ có số điện thoại</item>
+        <item quantity="one">1 liên hệ có số điện thoại</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">được hợp nhất từ ​​%0$d nguồn</item>
+        <item quantity="one">không được sáp nhập</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
     </plurals>
     <plurals name="mz_action_bar_multi_choice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d items selected</item>
+        <item quantity="other">%d mục đã được chọn</item>
+        <item quantity="one">%d mục đã được chọn</item>
     </plurals>
     <plurals name="mzc_contact_count">
-        <item quantity="other">%s contacts</item>
-        <item quantity="one">%s contacts</item>
+        <item quantity="other">%s liên hệ</item>
+        <item quantity="one">%s liên hệ</item>
     </plurals>
     <plurals name="mzc_contacts_multiple_delete_confirm">
-        <item quantity="other">Delete %s Contact(s)</item>
-        <item quantity="one">Delete %s Contact(s)</item>
+        <item quantity="other">Xóa %s Liên hệ</item>
+        <item quantity="one">Xóa %s Liên hệ</item>
     </plurals>
     <plurals name="mzc_group_manager_remove_contacts_from_item">
-        <item quantity="other">remove %1$s contacts</item>
-        <item quantity="one">remove %1$s contacts</item>
+        <item quantity="other">xóa liên hệ %1$s</item>
+        <item quantity="one">xóa liên hệ %1$s</item>
     </plurals>
     <plurals name="mzc_group_selection_list_num_contacts_in_group">
         <item quantity="other">%1$d</item>
@@ -49,15 +49,15 @@
         <item quantity="one">Voicemail</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d contact(s) in %2$s</item>
+        <item quantity="other">%1$d người từ %2$s</item>
+        <item quantity="one">%1$d liên hệ ở %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d nhóm</item>
+        <item quantity="one">1 nhóm</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">đã tìm thấy %d</item>
+        <item quantity="one">1 được tìm thấy</item>
     </plurals>
 </resources>
