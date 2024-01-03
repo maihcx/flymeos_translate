@@ -1295,8 +1295,8 @@ Unicom</string>
     <string name="mzc_turn_off_earthquake_warning">Tắt</string>
     <string name="mzc_turn_off_earthquake_warning_hint">Sau khi đóng cửa, dịch vụ cảnh báo sớm động đất sẽ không được cung cấp. Để an toàn, hãy đóng cửa cẩn thận.</string>
     <string name="mzc_type_incoming">Gọi đến</string>
-    <string name="mzc_type_incoming_reject">Vật bị loại bỏ</string>
-    <string name="mzc_type_missed">Bỏ lỡ</string>
+    <string name="mzc_type_incoming_reject">Từ chối</string>
+    <string name="mzc_type_missed">Gọi nhỡ</string>
     <string name="mzc_type_outgoing">Gọi đi</string>
     <string name="mzc_type_outgoing_cancelled">Đã hủy</string>
     <string name="mzc_type_outgoing_failed">Thất bại</string>
@@ -1383,7 +1383,7 @@ Unicom</string>
     <string name="mzuc_install_cancel_tip">Đã hủy tải xuống</string>
     <string name="mzuc_install_fail">Cài đặt thất bại</string>
     <string name="mzuc_install_immediately">Cài đặt ngay</string>
-    <string name="mzuc_install_later">Cài đạt sau</string>
+    <string name="mzuc_install_later">Cài đặt sau</string>
     <string name="mzuc_installing">Đang cài đặt</string>
     <string name="mzuc_manual_checking_update">Đang kiểm tra cập nhật</string>
     <string name="mzuc_manual_current_version">Phiên bản ứng dụng hiện tại %s</string>
@@ -1401,12 +1401,12 @@ Unicom</string>
     <string name="mzuc_manual_update_title">Kiểm tra cập nhật</string>
     <string name="mzuc_msg_indicator">Có gì mới:</string>
     <string name="mzuc_notification_before_upgrade">Bạn đang sử dụng dữ liệu di động. Tải xuống bây giờ sẽ phải trả thêm phí.</string>
-    <string name="mzuc_notification_message_s">%S</string>
+    <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">OK</string>
     <string name="mzuc_pause_download">Tạm dừng tải xuống</string>
     <string name="mzuc_reboot_update_now">Khởi động lại để cập nhật</string>
     <string name="mzuc_retry">Thử lại</string>
-    <string name="mzuc_skip_version">Phớt lờ</string>
+    <string name="mzuc_skip_version">Bỏ qua</string>
     <string name="mzuc_skip_warn_tip">Nếu bạn bỏ qua phiên bản này, bạn sẽ không được nhắc cài đặt nó</string>
     <string name="mzuc_update_finish">Hoàn thành cập nhật</string>
     <string name="mzuc_update_finish_format">Đã cập nhật lên phiên bản mới nhất %s</string>
