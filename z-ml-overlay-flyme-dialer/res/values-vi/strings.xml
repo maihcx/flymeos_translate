@@ -741,7 +741,7 @@ Lý do có thể:
     <string name="mzc_bluetooth_setting_dialog_title">Vào cài đặt bluetooth để bật bluetooth</string>
     <string name="mzc_call">Gọi</string>
     <string name="mzc_callDetailsDurationFormat" formatted="false">%s m %s s</string>
-    <string name="mzc_callDetailsDurationFormat3">Rang %s thời gian</string>
+    <string name="mzc_callDetailsDurationFormat3">Đổ chuông %s lần</string>
     <string name="mzc_callDetailsDurationFormatSecond">%s s</string>
     <string name="mzc_callDetailsDurationFormatWithHour" formatted="false">%s h %s m %s s</string>
     <string name="mzc_call_detail_all_entries_delete_call">Thông thoáng</string>
@@ -753,7 +753,7 @@ Lý do có thể:
     <string name="mzc_call_log_multiple_delete_dialog_ok_text">Xóa (các) Nhật ký cuộc gọi %s</string>
     <string name="mzc_call_log_name">%1$s (%2$d)</string>
     <string name="mzc_call_log_no_choiced_title">Chọn Nhật ký cuộc gọi</string>
-    <string name="mzc_call_missed_ring_one_time">Rang một lần</string>
+    <string name="mzc_call_missed_ring_one_time">Đổ chuông một lần</string>
     <string name="mzc_cancel_confirmation_dialog_message">Hủy thay đổi của bạn?</string>
     <string name="mzc_cancel_copy_confirmation_message">Hủy sao chép danh bạ?</string>
     <string name="mzc_cancel_turn_off_earthquake_warning">Hủy bỏ</string>
