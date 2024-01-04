@@ -72,7 +72,7 @@
     <string name="callAgain">Gọi lại</string>
     <string name="callBack">Gọi lại</string>
     <string name="callDetailTitle">Chi tiết cuộc gọi</string>
-    <string name="callDetailsDurationFormat">%s m %s s</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s m %s s</string>
     <string name="callShortcutActivityTitle">Chọn số để gọi</string>
     <string name="call_assistant">Gọi %s</string>
     <string name="call_callback">Gọi lại</string>
@@ -184,11 +184,11 @@
     <string name="content_description_collapse_editor">Nhấn để thu gọn trình chỉnh sửa liên hệ</string>
     <string name="content_description_directions">Chỉ đường đến vị trí</string>
     <string name="content_description_expand_editor">Nhấn để mở rộng trình chỉnh sửa liên hệ.</string>
-    <string name="content_description_recent_call">Cuộc gọi gần đây. %S. %S. %S. Nhấn để gọi lại</string>
+    <string name="content_description_recent_call" formatted="false">Cuộc gọi gần đây. %S. %S. %S. Nhấn để gọi lại</string>
     <string name="content_description_recent_call_type_incoming">Gọi đến</string>
     <string name="content_description_recent_call_type_missed">Bỏ lỡ</string>
     <string name="content_description_recent_call_type_outgoing">Gọi đi</string>
-    <string name="content_description_recent_sms">SMS gần đây: %s. %s, %s. Nhấn để trả lời</string>
+    <string name="content_description_recent_sms" formatted="false">SMS gần đây: %s. %s, %s. Nhấn để trả lời</string>
     <string name="copy">Sao chép</string>
     <string name="copy_text">Sao chép vào clipboard</string>
     <string name="createContactShortcutSuccessful">Tiện ích liên hệ được thêm vào Màn hình chính.</string>
@@ -281,7 +281,7 @@
     <string name="error_sim_busy">Thẻ SIM đang bận, vui lòng thử lại sau</string>
     <string name="error_sim_init">Đang khởi tạo thẻ SIM, vui lòng thử lại sau</string>
     <string name="error_sim_memory_full">Thẻ SIM đã đầy</string>
-    <string name="error_success_missing_count">Chi tiết: %s thành công, %s thất bại</string>
+    <string name="error_success_missing_count" formatted="false">Chi tiết: %s thành công, %s thất bại</string>
     <string name="eventLabelsGroup">Ngày đặc biệt</string>
     <string name="eventTypeLunarBirthday">Sinh nhật âm lịch</string>
     <string name="event_edit_field_hint_text">Ngày</string>
@@ -295,7 +295,7 @@
 Lý do: "%s"</string>
     <string name="exporting_contact_failed_title">Không thể xuất</string>
     <string name="exporting_contact_list_message">Dữ liệu liên hệ của bạn đang được xuất sang: %s</string>
-    <string name="exporting_contact_list_progress">%s trong số %s liên hệ</string>
+    <string name="exporting_contact_list_progress" formatted="false">%s trong số %s liên hệ</string>
     <string name="exporting_contact_list_title">Xuất dữ liệu liên hệ</string>
     <string name="exporting_vcard_canceled_title">Đã hủy xuất %s</string>
     <string name="exporting_vcard_finished_title">Đã xuất xong %s</string>
@@ -306,7 +306,7 @@ Lý do có thể:
 1. Thẻ SIM đầy
 2. Tên hoặc số sai định dạng</string>
     <string name="fail_reason_could_not_initialize_exporter">Không thể khởi động trình xuất: "%s"</string>
-    <string name="fail_reason_could_not_open_file">Không thể mở "%s": %s</string>
+    <string name="fail_reason_could_not_open_file" formatted="false">Không thể mở "%s": %s</string>
     <string name="fail_reason_error_occurred_during_export">Đã xảy ra lỗi trong quá trình xuất: "%s"</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Không thể thu thập thông tin meta của (các) tệp vCard nhất định</string>
     <string name="fail_reason_failed_to_read_files">Không thể nhập một hoặc nhiều tệp (%s)</string>
@@ -722,7 +722,7 @@ Lý do có thể:
     <string name="mzc_aggregation_empty">Không có địa chỉ liên hệ trùng lặp</string>
     <string name="mzc_aggregation_menu">Hợp nhất</string>
     <string name="mzc_aggregation_notify_complete_content"> %s trùng lặp đã được hợp nhất thành công</string>
-    <string name="mzc_aggregation_notify_complete_content1">%s liên hệ đã được hợp nhất, %s liên hệ không thành công</string>
+    <string name="mzc_aggregation_notify_complete_content1" formatted="false">%s liên hệ đã được hợp nhất, %s liên hệ không thành công</string>
     <string name="mzc_aggregation_notify_complete_title">Hợp nhất hoàn tất</string>
     <string name="mzc_aggregation_suggestion_edit_dialog_message">Thêm dữ liệu hiện tại vào cùng tên của liên hệ để chỉnh sửa?</string>
     <string name="mzc_aggregation_title">Chọn liên hệ</string>
@@ -740,20 +740,20 @@ Lý do có thể:
     <string name="mzc_bluetooth_setting_dialog_message">Ứng dụng không được phép quét các thiết bị lân cận. Để sử dụng tính năng này, bạn cần vào cài đặt Bluetooth và bật Bluetooth theo cách thủ công.</string>
     <string name="mzc_bluetooth_setting_dialog_title">Vào cài đặt bluetooth để bật bluetooth</string>
     <string name="mzc_call">Gọi</string>
-    <string name="mzc_callDetailsDurationFormat">%s m %s s</string>
-    <string name="mzc_callDetailsDurationFormat3">Rang %s thời gian</string>
+    <string name="mzc_callDetailsDurationFormat" formatted="false">%s m %s s</string>
+    <string name="mzc_callDetailsDurationFormat3">Đổ chuông %s lần</string>
     <string name="mzc_callDetailsDurationFormatSecond">%s s</string>
-    <string name="mzc_callDetailsDurationFormatWithHour">%s h %s m %s s</string>
+    <string name="mzc_callDetailsDurationFormatWithHour" formatted="false">%s h %s m %s s</string>
     <string name="mzc_call_detail_all_entries_delete_call">Thông thoáng</string>
     <string name="mzc_call_ip_number">Quay số IP</string>
     <string name="mzc_call_log">Nhật ký cuộc gọi</string>
-    <string name="mzc_call_log_date_format">%s / %s</string>
+    <string name="mzc_call_log_date_format" formatted="false">%s / %s</string>
     <string name="mzc_call_log_delete_dialog_ok_text">Xóa bỏ</string>
     <string name="mzc_call_log_deleting">Đang xóa</string>
     <string name="mzc_call_log_multiple_delete_dialog_ok_text">Xóa (các) Nhật ký cuộc gọi %s</string>
     <string name="mzc_call_log_name">%1$s (%2$d)</string>
     <string name="mzc_call_log_no_choiced_title">Chọn Nhật ký cuộc gọi</string>
-    <string name="mzc_call_missed_ring_one_time">Rang một lần</string>
+    <string name="mzc_call_missed_ring_one_time">Đổ chuông một lần</string>
     <string name="mzc_cancel_confirmation_dialog_message">Hủy thay đổi của bạn?</string>
     <string name="mzc_cancel_copy_confirmation_message">Hủy sao chép danh bạ?</string>
     <string name="mzc_cancel_turn_off_earthquake_warning">Hủy bỏ</string>
@@ -801,7 +801,7 @@ Lý do có thể:
     <string name="mzc_contacts_from_other_receive_percent">%</string>
     <string name="mzc_contacts_from_other_receive_reading">Đọc danh bạ</string>
     <string name="mzc_contacts_from_other_receive_stop_dialog">Dừng nhận liên hệ?</string>
-    <string name="mzc_content_description_recent_call">Cuộc gọi gần đây. %S. %S. %S</string>
+    <string name="mzc_content_description_recent_call" formatted="false">Cuộc gọi gần đây. %S. %S. %S</string>
     <string name="mzc_context_menu_batch_edit">Nhiều lựa chọn</string>
     <string name="mzc_context_menu_delete">Xóa bỏ</string>
     <string name="mzc_context_menu_enterprise_call">Cuộc gọi web tới doanh nghiệp</string>
@@ -824,7 +824,7 @@ Lý do có thể:
     <string name="mzc_cta_dialog_background_permission_title">Nhận thông tin vị trí khi ứng dụng ở chế độ nền</string>
     <string name="mzc_cta_dialog_call_permission_content">Nó được sử dụng để xác định xem cuộc gọi có được thiết lập thành công hay không bằng cách lấy trạng thái cuộc gọi khi người dùng kích hoạt cuộc gọi khẩn cấp SOS và gọi 110 hoặc liên hệ khẩn cấp</string>
     <string name="mzc_cta_dialog_call_permission_title">Đọc hoặc sửa đổi nhật ký cuộc gọi</string>
-    <string name="mzc_cta_dialog_content">Để đảm bảo việc sử dụng các sản phẩm và dịch vụ hoàn chỉnh (dịch vụ khẩn cấp), vui lòng đọc và đồng ý với %s và %s. Thỏa thuận trên sẽ giúp bạn hiểu cách chúng tôi thu thập, sử dụng, lưu trữ và chia sẻ thông tin cá nhân cũng như các quyền liên quan của bạn. Ứng dụng này cần kết nối với mạng và xin các quyền cần thiết sau</string>
+    <string name="mzc_cta_dialog_content" formatted="false">Để đảm bảo việc sử dụng các sản phẩm và dịch vụ hoàn chỉnh (dịch vụ khẩn cấp), vui lòng đọc và đồng ý với %s và %s. Thỏa thuận trên sẽ giúp bạn hiểu cách chúng tôi thu thập, sử dụng, lưu trữ và chia sẻ thông tin cá nhân cũng như các quyền liên quan của bạn. Ứng dụng này cần kết nối với mạng và xin các quyền cần thiết sau</string>
     <string name="mzc_cta_dialog_content_privacy_policy">Chính sách bảo mật</string>
     <string name="mzc_cta_dialog_content_statement_and_terms">Tuyên bố và Điều khoản</string>
     <string name="mzc_cta_dialog_internet_permission">Để cải thiện sản phẩm và dịch vụ của chúng tôi cũng như nâng cao trải nghiệm của bạn, ứng dụng này cần được kết nối với Internet</string>
@@ -933,7 +933,7 @@ Lý do có thể:
     <string name="mzc_enterprise_call_label">Cuộc gọi web tới doanh nghiệp</string>
     <string name="mzc_enterprise_call_message">Dịch vụ menu trực quan</string>
     <string name="mzc_error_correction">Sửa lỗi</string>
-    <string name="mzc_error_success_missing_count">Chi tiết: %d thành công, %d thất bại</string>
+    <string name="mzc_error_success_missing_count" formatted="false">Chi tiết: %d thành công, %d thất bại</string>
     <string name="mzc_estimated_intensity">Cường độ ước tính %.1f</string>
     <string name="mzc_estimated_intensity_high_text">Sốc cao</string>
     <string name="mzc_estimated_intensity_moderate_text">Sốc nhẹ</string>
@@ -954,7 +954,7 @@ Lý do có thể:
 1. Thẻ SIM đầy
 2. Tên hoặc số sai định dạng</string>
     <string name="mzc_fail_reason_could_not_initialize_exporter">Không thể bắt đầu xuất: %s</string>
-    <string name="mzc_fail_reason_could_not_open_file">Không thể mở %s: %s</string>
+    <string name="mzc_fail_reason_could_not_open_file" formatted="false">Không thể mở %s: %s</string>
     <string name="mzc_fail_reason_error_occurred_during_export">Lỗi xuất: %s</string>
     <string name="mzc_fail_reason_failed_to_collect_vcard_meta_info">Không thể thu thập thông tin meta của (các) tệp vCard được chỉ định</string>
     <string name="mzc_fail_reason_failed_to_read_files">Không thể nhập một hoặc nhiều tệp (%s)</string>
@@ -1115,7 +1115,7 @@ Lý do có thể:
     <string name="mzc_mspace_cancel_message">Đang hủy</string>
     <string name="mzc_mspace_change_message">Đang tải</string>
     <string name="mzc_mspace_delete_contacts_message">Hoàn nguyên %s về liên hệ thông thường và khôi phục nhật ký cuộc gọi cũng như tin nhắn</string>
-    <string name="mzc_mspace_delete_contacts_message_more_than_tree">Hoàn nguyên các liên hệ của %s bao gồm %s về các liên hệ thông thường và khôi phục nhật ký cuộc gọi cũng như tin nhắn của họ</string>
+    <string name="mzc_mspace_delete_contacts_message_more_than_tree" formatted="false">Hoàn nguyên các liên hệ của %s bao gồm %s về các liên hệ thông thường và khôi phục nhật ký cuộc gọi cũng như tin nhắn của họ</string>
     <string name="mzc_mspace_delete_message">Đang xóa</string>
     <string name="mzc_mspace_no_privacy_contacts">Không có liên hệ riêng tư</string>
     <string name="mzc_mspace_title">Danh bạ riêng tư</string>
@@ -1187,7 +1187,7 @@ Unicom</string>
     <string name="mzc_qr_code_action_bar_control_title">Chia sẻ liên hệ</string>
     <string name="mzc_quick_contact_all_call_log">Xem tất cả</string>
     <string name="mzc_quick_contact_delete_contact">Xóa bỏ</string>
-    <string name="mzc_quick_cp_source_from">%s Dữ liệu từ %s</string>
+    <string name="mzc_quick_cp_source_from" formatted="false">%s Dữ liệu từ %s</string>
     <string name="mzc_quick_cp_source_from_without_marker">Dữ liệu từ %s</string>
     <string name="mzc_read_only_contact">Liên hệ ở chế độ chỉ đọc</string>
     <string name="mzc_read_only_contacts_export_failed">Không thể xuất danh bạ chỉ đọc</string>
@@ -1295,8 +1295,8 @@ Unicom</string>
     <string name="mzc_turn_off_earthquake_warning">Tắt</string>
     <string name="mzc_turn_off_earthquake_warning_hint">Sau khi đóng cửa, dịch vụ cảnh báo sớm động đất sẽ không được cung cấp. Để an toàn, hãy đóng cửa cẩn thận.</string>
     <string name="mzc_type_incoming">Gọi đến</string>
-    <string name="mzc_type_incoming_reject">Vật bị loại bỏ</string>
-    <string name="mzc_type_missed">Bỏ lỡ</string>
+    <string name="mzc_type_incoming_reject">Từ chối</string>
+    <string name="mzc_type_missed">Gọi nhỡ</string>
     <string name="mzc_type_outgoing">Gọi đi</string>
     <string name="mzc_type_outgoing_cancelled">Đã hủy</string>
     <string name="mzc_type_outgoing_failed">Thất bại</string>
@@ -1360,7 +1360,7 @@ Unicom</string>
     <string name="mzs_item_copy_text">Sao chép</string>
     <string name="mzs_item_default_sim_ip_call">+ quay số %s</string>
     <string name="mzs_item_sim_card_call">Sử dụng SIM %s để gọi</string>
-    <string name="mzs_item_sim_card_ip_call">Sử dụng SIM %s + %s để gọi</string>
+    <string name="mzs_item_sim_card_ip_call" formatted="false">Sử dụng SIM %s + %s để gọi</string>
     <string name="mzs_more_contacts_import_fail">Không nhập được %s liên hệ</string>
     <string name="mzs_one_contact_import_fail">Nhập không thành công</string>
     <string name="mzs_pick_contacts">Chọn liên hệ</string>
@@ -1372,10 +1372,10 @@ Unicom</string>
     <string name="mzuc_download">Tải xuống</string>
     <string name="mzuc_download_fail">Tải xuống không thành công</string>
     <string name="mzuc_download_finish_install">Tải xuống hoàn tất, nhấn để cài đặt</string>
-    <string name="mzuc_download_finish_s">%s %s tải xuống đã hoàn tất</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s %s tải xuống đã hoàn tất</string>
     <string name="mzuc_download_later">Tải xuống sau</string>
     <string name="mzuc_download_now">Tải ngay</string>
-    <string name="mzuc_download_progress_desc_s">Đang tải xuống %s %s</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">Đang tải xuống %s %s</string>
     <string name="mzuc_downloading">Đang tải xuống</string>
     <string name="mzuc_file_size_s">Nó sẽ tiêu tốn %s dữ liệu di động</string>
     <string name="mzuc_found_update_s">Cập nhật có sẵn %s</string>
@@ -1383,7 +1383,7 @@ Unicom</string>
     <string name="mzuc_install_cancel_tip">Đã hủy tải xuống</string>
     <string name="mzuc_install_fail">Cài đặt thất bại</string>
     <string name="mzuc_install_immediately">Cài đặt ngay</string>
-    <string name="mzuc_install_later">Cài đạt sau</string>
+    <string name="mzuc_install_later">Cài đặt sau</string>
     <string name="mzuc_installing">Đang cài đặt</string>
     <string name="mzuc_manual_checking_update">Đang kiểm tra cập nhật</string>
     <string name="mzuc_manual_current_version">Phiên bản ứng dụng hiện tại %s</string>
@@ -1401,12 +1401,12 @@ Unicom</string>
     <string name="mzuc_manual_update_title">Kiểm tra cập nhật</string>
     <string name="mzuc_msg_indicator">Có gì mới:</string>
     <string name="mzuc_notification_before_upgrade">Bạn đang sử dụng dữ liệu di động. Tải xuống bây giờ sẽ phải trả thêm phí.</string>
-    <string name="mzuc_notification_message_s">%S</string>
+    <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">OK</string>
     <string name="mzuc_pause_download">Tạm dừng tải xuống</string>
     <string name="mzuc_reboot_update_now">Khởi động lại để cập nhật</string>
     <string name="mzuc_retry">Thử lại</string>
-    <string name="mzuc_skip_version">Phớt lờ</string>
+    <string name="mzuc_skip_version">Bỏ qua</string>
     <string name="mzuc_skip_warn_tip">Nếu bạn bỏ qua phiên bản này, bạn sẽ không được nhắc cài đặt nó</string>
     <string name="mzuc_update_finish">Hoàn thành cập nhật</string>
     <string name="mzuc_update_finish_format">Đã cập nhật lên phiên bản mới nhất %s</string>
@@ -1414,8 +1414,8 @@ Unicom</string>
     <string name="mzuc_update_immediately_roaming">Cập nhật khi chuyển vùng (%s)</string>
     <string name="mzuc_update_later">Nhắc tôi sau</string>
     <string name="mzuc_update_mobile_network">Tải xuống qua mạng di động?</string>
-    <string name="mzuc_update_msg_title_s">%s %s</string>
-    <string name="mzuc_update_title_s">%s %s được phát hành</string>
+    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
+    <string name="mzuc_update_title_s" formatted="false">%s %s được phát hành</string>
     <string name="mzuc_wait_tip">Vui lòng chờ</string>
     <string name="mzuc_warn_later">Nhắc nhở sau</string>
     <string name="nameLabelsGroup">Tên</string>
@@ -1479,7 +1479,7 @@ Unicom</string>
     <string name="private_num">Số cá nhân</string>
     <string name="prl_version">Phiên bản PRL</string>
     <string name="profile_display_name">Thiết lập hồ sơ của tôi</string>
-    <string name="progress_notifier_message">Đang nhập %s/%s: %s</string>
+    <string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
     <string name="promptDeleteSelectedContactConfirm">Xóa liên lạc</string>
     <string name="promptDeletingSimContact">Đang xóa</string>
     <string name="promptImportingContactToSim">Xuất danh bạ sang thẻ SIM</string>

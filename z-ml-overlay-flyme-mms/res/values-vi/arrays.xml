@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="OPERATION_FOR_IMAGE">
-        <item>Preview</item>
-        <item>Replace</item>
-        <item>Delete</item>
+        <item>Xem trước</item>
+        <item>Thay thế</item>
+        <item>Xóa</item>
     </string-array>
     <string-array name="OPERATION_FOR_SLIDESHOW">
-        <item>Preview</item>
-        <item>Edit</item>
-        <item>Delete</item>
+        <item>Xem trước</item>
+        <item>Biên tập</item>
+        <item>Xóa</item>
     </string-array>
     <string-array name="OPERATION_FOR_VIDEO">
         <item>Play</item>
-        <item>Replace</item>
-        <item>Delete</item>
+        <item>Thay thế</item>
+        <item> bỏ</item>
     </string-array>
     <string-array name="attach_file_array">
-        <item>Take a new video</item>
-        <item>Video library</item>
+        <item>Quay một video mới</item>
+        <item>Thư viện băng hình</item>
     </string-array>
     <string-array name="attach_video_array">
-        <item>PDF file</item>
-        <item>Audio file</item>
+        <item>file PDF</item>
+        <item>Tập tin âm thanh</item>
     </string-array>
     <string-array name="attach_voice_array">
-        <item>Take a new recording</item>
-        <item>Audio library</item>
+        <item>Ghi âm mới</item>
+        <item>Thư viện âm thanh</item>
     </string-array>
     <string-array name="custom_time_picker_lunar_day">
-        <item>初一</item>
-        <item>初二</item>
-        <item>初三</item>
-        <item>初四</item>
-        <item>初五</item>
-        <item>初六</item>
-        <item>初七</item>
-        <item>初八</item>
-        <item>初九</item>
-        <item>初十</item>
-        <item>十一</item>
-        <item>十二</item>
-        <item>十三</item>
-        <item>十四</item>
-        <item>十五</item>
-        <item>十六</item>
-        <item>十七</item>
-        <item>十八</item>
-        <item>十九</item>
-        <item>廿十</item>
-        <item>廿一</item>
-        <item>廿二</item>
-        <item>廿三</item>
-        <item>廿四</item>
-        <item>廿五</item>
-        <item>廿六</item>
-        <item>廿七</item>
-        <item>廿八</item>
-        <item>廿九</item>
-        <item>三十</item>
+        <item>Mùng 1</item>
+        <item>Mùng 2</item>
+        <item>Mùng 3</item>
+        <item>Mùng 4</item>
+        <item>Mùng 5</item>
+        <item>Mùng 6</item>
+        <item>Mùng 7</item>
+        <item>Mùng 8</item>
+        <item>Mùng 9</item>
+        <item>Mùng 10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
     </string-array>
     <string-array name="empty_subject_strings">
-        <item>No subject</item>
+        <item>Không chủ đề</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Chủ nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
     </string-array>
     <string-array name="phrases">
-        <item>"I'm busy now. Can I call you back later?"</item>
-        <item>Please call me later. Thanks!</item>
-        <item>All right, thanks.</item>
-        <item>"There is a traffic jam. I'll be a little late."</item>
+        <item>"Tôi bận. Tôi có thể gọi lại cho bạn sau được không?"</item>
+        <item>Vui lòng gọi cho tôi sau. Cảm ơn!</item>
+        <item>Được rồi, cảm ơn.</item>
+        <item>"Có ùn tắc giao thông. tôi sẽ đến muộn một chút."</item>
     </string-array>
     <string-array name="search_label_config">
-        <item>电费</item>
-        <item>水费</item>
-        <item>燃气</item>
-        <item>营业厅</item>
-        <item>账单</item>
-        <item>快递</item>
-        <item>提取码</item>
-        <item>验证码</item>
+        <item>Hóa đơn tiền điện</item>
+        <item>hóa đơn tiền nước</item>
+        <item>khí ga</item>
+        <item>hội trường kinh doanh</item>
+        <item>hóa đơn</item>
+        <item>chuyển phát nhanh</item>
+        <item>Mã trích xuất</item>
+        <item>Mã xác nhận</item>
         <item>12306</item>
-        <item>机票</item>
-        <item>取件</item>
-        <item>退订</item>
+        <item>Vé máy bay</item>
+        <item>Nhặt lên</item>
+        <item>Hủy đăng ký</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác</item>
     </string-array>
 </resources>
