@@ -363,6 +363,7 @@ Bạn có thể thay đổi phím tắt này thành tính năng khác trong Cài
     <string name="autofill_phone_suffix_separator_re">^-$</string>
     <string name="autofill_picker_accessibility_title">Tùy chọn tự động điền</string>
     <string name="autofill_picker_no_suggestions">Không có gợi ý tự động điền</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, =1 {Một đề xuất tự động điền} other {# đề xuất tự động điền} }</string>
     <string name="autofill_postal_code">Mã bưu chính</string>
     <string name="autofill_prefecture">Quận</string>
     <string name="autofill_province">Tỉnh</string>
@@ -421,6 +422,7 @@ Bạn có thể thay đổi phím tắt này thành tính năng khác trong Cài
     <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_a2dp_audio_route_name">Âm thanh Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth sẽ bật trong chế độ máy bay</string>
+    <string name="bugreport_countdown">{count, plural, =1 {Chụp ảnh màn hình để báo cáo lỗi sau # giây.} other {Chụp ảnh màn hình để báo cáo lỗi sau # giây.} }</string>
     <string name="bugreport_message">Điều này sẽ thu thập thông tin về trạng thái thiết bị hiện tại của bạn, để gửi dưới dạng thư email. Sẽ mất một chút thời gian từ khi bắt đầu báo cáo lỗi cho đến khi báo cáo sẵn sàng để gửi; vui lòng kiên nhẫn.</string>
     <string name="bugreport_option_full_summary">Sử dụng tùy chọn này để giảm thiểu sự can thiệp của hệ thống khi thiết bị của bạn không phản hồi hoặc quá chậm, hoặc khi bạn cần tất cả các phần báo cáo. Không cho phép bạn nhập thêm chi tiết hoặc chụp ảnh màn hình bổ sung.</string>
     <string name="bugreport_option_full_title">Báo cáo đầy đủ</string>
@@ -574,9 +576,17 @@ sử dụng %s</string>
     <string name="dump_heap_system_text">Tiến trình %1$s đã vượt quá giới hạn bộ nhớ %2$s của nó. Nhật ký bộ nhớ đã sẵn sàng để bạn chia sẻ. Hãy cẩn thận: Nhật ký bộ nhớ này có thể chứa bất kỳ thông tin cá nhân nhạy cảm nào mà tiến trình có quyền truy cập, bao gồm những thứ bạn đã nhập.</string>
     <string name="dump_heap_text">Tiến trình %1$s đã vượt quá giới hạn bộ nhớ %2$s của nó. Nhật ký bộ nhớ đã sẵn sàng để bạn chia sẻ với nhà phát triển của nó. Hãy cẩn thận: Nhật ký bộ nhớ này có thể chứa bất kỳ thông tin cá nhân nào của bạn mà ứng dụng có quyền truy cập.</string>
     <string name="dump_heap_title">Chia sẻ nhật ký bộ nhớ?</string>
+    <string name="duration_days_relative">{count, plural, =1 {# ngày trước} other {# ngày trước} }</string>
+    <string name="duration_days_relative_future">{count, plural, =1 {# ngày} other {# ngày} }</string>
     <string name="duration_days_shortest_future">trong %dd</string>
+    <string name="duration_hours_relative">{count, plural, =1 {# giờ trước} other {# hgiờ trước} }</string>
+    <string name="duration_hours_relative_future">{count, plural, =1 {# giờ} other {# giờ} }</string>
     <string name="duration_hours_shortest_future">trong %dh</string>
+    <string name="duration_minutes_relative">{count, plural, =1 {# phút trước} other {# phút trước} }</string>
+    <string name="duration_minutes_relative_future">{count, plural, =1 {# phút} other {# phút} }</string>
     <string name="duration_minutes_shortest_future">trong %dm</string>
+    <string name="duration_years_relative">{count, plural, =1 {# năm trước} other {# năm trước} }</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# năm} other {# năm} }</string>
     <string name="duration_years_shortest_future">trong %dy</string>
     <string name="dynamic_mode_notification_channel_name">Thông báo thông tin về chế độ thường nhật</string>
     <string name="dynamic_mode_notification_summary">Trình tiết kiệm pin được kích hoạt để kéo dài thời gian sử dụng pin</string>
@@ -708,6 +718,7 @@ Nếu bạn có câu hỏi, hãy liên hệ với quản trị viên của tổ 
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Mã tính năng hoàn tất.</string>
     <string name="fcError">Vấn đề kết nối hoặc mã tính năng không hợp lệ.</string>
+    <string name="file_count">{count, plural, =1 {{file_name} + # tệp} other {{file_name} + # tệp} }</string>
     <string name="find">Tìm</string>
     <string name="find_next">Tìm tiếp theo</string>
     <string name="find_on_page">Tìm trên trang</string>
@@ -968,6 +979,7 @@ Vui lòng thử lại sau %2$d giây."</string>
     <string name="language_picker_section_suggested">Đề xuất</string>
     <string name="language_selection_title">Thêm một ngôn ngữ</string>
     <string name="last_month">Tháng trước</string>
+    <string name="last_num_days">{ count, plural, =1 {# ngày qua} other {# ngày qua} }</string>
     <string name="launchBrowserDefault">Mở trình duyệt?</string>
     <string name="launch_warning_original">%1$s đã được mở trước đó.</string>
     <string name="launch_warning_replace">%1$s hiện đang chạy.</string>
@@ -1065,6 +1077,7 @@ Nếu bạn không cho phép ứng dụng này truy cập tất cả nhật ký 
     <string name="managed_profile_label_badge">Công việc %1$s</string>
     <string name="managed_profile_label_badge_2">Công việc thứ 2 %1$s</string>
     <string name="managed_profile_label_badge_3">Công việc thứ 3 %1$s</string>
+    <string name="matches_found">{ count, plural, =1 {# phù hợp} other {# của {total}} }</string>
     <string name="maximize_button_text">Phóng to</string>
     <string name="me">Tôi</string>
     <string name="media_route_button_content_description">Truyền</string>
@@ -1968,6 +1981,7 @@ Nghe với âm lượng cao trong thời gian dài có thể làm hỏng thính 
     <string name="ssl_ca_cert_noti_by_administrator">Bởi quản trị viên hồ sơ công việc của bạn</string>
     <string name="ssl_ca_cert_noti_by_unknown">Bởi một bên thứ ba không xác định</string>
     <string name="ssl_ca_cert_noti_managed">Bởi %s</string>
+    <string name="ssl_ca_cert_warning">{count, plural, =1 {Chứng chỉ thẩm quyền đã được cài đặt} other {Chứng chỉ thẩm quyền đã được cài đặt} }</string>
     <string name="ssl_certificate">Chứng chỉ bảo mật</string>
     <string name="ssl_certificate_is_valid">Chứng chỉ này hợp lệ.</string>
     <string name="status_bar_airplane">máy bay</string>
@@ -2208,6 +2222,14 @@ Bạn có muốn đóng nó không?</string>
     <string name="zen_mode_default_weekends_name">Cuối tuần</string>
     <string name="zen_mode_default_weeknights_name">Ngày thường</string>
     <string name="zen_mode_downtime_feature_name">Không làm phiền</string>
+    <string name="zen_mode_duration_hours">{count, plural, =1 {Trong 1 giờ} other {Trong # giờ} }</string>
+    <string name="zen_mode_duration_hours_short">{count, plural, =1 {Trong 1 giờ} other {Trong # giờ} }</string>
+    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {Trong 1 giờ (cho đến khi {formattedTime})} other {Trong # giờ (cho đến khi {formattedTime})} }</string>
+    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {Trong 1 giờ (cho đến khi {formattedTime})} other {Trong # giờ (cho đến khi {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes">{count, plural, =1 {Trong một phút} other {Trong # phút} }</string>
+    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {Trong 1 phút} other {Trong # phút} }</string>
+    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {Trong one phút (cho đến khi {formattedTime})} other {Trong # phút (cho đến khi {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {Trong 1 phút (cho đến khi {formattedTime})} other {Trong # phút (cho đến khi {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
     <string name="zen_mode_forever_dnd">Cho đến khi bạn tắt Không làm phiền</string>
@@ -2226,9 +2248,16 @@ Bạn có muốn đóng nó không?</string>
     <string name="allow_dialog_push">Cho phép thông báo đẩy</string>
     <string name="app_hidden_des">Không có ứng dụng nào có thể xử lý thao tác này.</string>
     <string name="app_hidden_not_found">Không thể mở ứng dụng nào</string>
+    <string name="app_screencast_cancel">Huỷ</string>
+    <string name="app_screencast_openapp_screencast_open">Ok</string>
+    <string name="app_screencast_title">%s ứng dụng đang được sử dụng bởi màn hình khác. Bạn có muốn chuyển về điện thoại không</string>
     <string name="app_switch_warning_cancel">Hủy</string>
     <string name="app_switch_warning_open">Mở</string>
     <string name="app_switch_warning_title">“%1$s” đang cố gắng mở “%2$s”</string>
+    <string name="autofill_save_type_account">tên người dùng và mật khẩu</string>
+    <string name="autofill_save_type_bankcard">thẻ ngân hàng</string>
+    <string name="autofill_save_type_license">chứng minh thư</string>
+    <string name="autofill_update_title_flyme">Bạn có muốn tôi cập nhật mật khẩu của bạn không?</string>
     <string name="avoid_power_key_misoperation_tips">Nhấn lại để tắt màn hình</string>
     <string name="barringPWBlocked">Mật khẩu chặn đã bị chặn</string>
     <string name="battery_consumption_balance_title">Cân bằng</string>
@@ -2393,11 +2422,14 @@ Bạn có muốn đóng nó không?</string>
     <string name="mz_chooser_name_file">Tệp</string>
     <string name="mz_chooser_name_file_manager">Tệp</string>
     <string name="mz_chooser_name_file_unknown">Tệp không xác định</string>
+    <string name="mz_chooser_name_link">Liên kết</string>
     <string name="mz_chooser_name_map">Địa chỉ</string>
     <string name="mz_chooser_name_music">Tệp nhạc</string>
+    <string name="mz_chooser_name_nfc">Thẻ NFC được phát hiện</string>
     <string name="mz_chooser_name_pdf">PDF</string>
     <string name="mz_chooser_name_picture">Ảnh</string>
     <string name="mz_chooser_name_ppt">PowerPoint</string>
+    <string name="mz_chooser_name_prefix_from">Từ：\"%s\"</string>
     <string name="mz_chooser_name_txt">Văn bản</string>
     <string name="mz_chooser_name_video">Video</string>
     <string name="mz_chooser_name_word">Word</string>
@@ -2719,7 +2751,9 @@ Bạn có muốn đóng nó không?</string>
     <string name="specail_number_zhongxin">CITIC Bank</string>
     <string name="status_bar_dual_wifi">dual_wifi</string>
     <string name="status_bar_no_sims">no_sims</string>
-   <string name="system_booting">Hệ thống đang khởi động…</string>
+    <string name="stealth_mode_description">Tắt micrô, camera và vị trí cho tất cả ứng dụng</string>
+    <string name="stealth_mode_title">Chế độ ẩn được bật</string>
+    <string name="system_booting">Hệ thống đang khởi động…</string>
     <string name="tethered_notification_message">Nhấn để thiết lập</string>
     <string name="tethered_notification_message_devices">Điểm phát sóng di động: %1$d kết nối</string>
     <string name="tethered_notification_message_devices_title">%1$d kết nối</string>

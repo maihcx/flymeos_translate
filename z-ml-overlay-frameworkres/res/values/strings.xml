@@ -363,6 +363,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="autofill_phone_suffix_separator_re">^-$</string>
     <string name="autofill_picker_accessibility_title">Autofill options</string>
     <string name="autofill_picker_no_suggestions">No autofill suggestions</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, =1 {One autofill suggestion} other {# autofill suggestions} }</string>
     <string name="autofill_postal_code">Postal code</string>
     <string name="autofill_prefecture">Prefecture</string>
     <string name="autofill_province">Province</string>
@@ -421,6 +422,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth will stay on during airplane mode</string>
+    <string name="bugreport_countdown">{count, plural, =1 {Taking screenshot for bug report in # second.} other {Taking screenshot for bug report in # seconds.} }</string>
     <string name="bugreport_message">This will collect information about your current device state, to send as an e-mail message. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
     <string name="bugreport_option_full_summary">Use this option for minimal system interference when your device is unresponsive or too slow, or when you need all report sections. Does not allow you to enter more details or take additional screenshots.</string>
     <string name="bugreport_option_full_title">Full report</string>
@@ -577,9 +579,17 @@ using %s"</string>
     <string name="dump_heap_system_text">The %1$s process has exceeded its memory limit of %2$s. A heap dump is available for you to share. Be careful: this heap dump can contain any sensitive personal information that the process has access to, which may include things you’ve typed.</string>
     <string name="dump_heap_text">The %1$s process has exceeded its memory limit of %2$s. A heap dump is available for you to share with its developer. Be careful: this heap dump can contain any of your personal information that the application has access to.</string>
     <string name="dump_heap_title">Share heap dump?</string>
+    <string name="duration_days_relative">{count, plural, =1 {# day ago} other {# days ago} }</string>
+    <string name="duration_days_relative_future">{count, plural, =1 {# day} other {# days} }</string>
     <string name="duration_days_shortest_future">in %dd</string>
+    <string name="duration_hours_relative">{count, plural, =1 {# hour ago} other {# hours ago} }</string>
+    <string name="duration_hours_relative_future">{count, plural, =1 {# hour} other {# hours} }</string>
     <string name="duration_hours_shortest_future">in %dh</string>
+    <string name="duration_minutes_relative">{count, plural, =1 {# minute ago} other {# minutes ago} }</string>
+    <string name="duration_minutes_relative_future">{count, plural, =1 {# minute} other {# minutes} }</string>
     <string name="duration_minutes_shortest_future">in %dm</string>
+    <string name="duration_years_relative">{count, plural, =1 {# year ago} other {# years ago} }</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# year} other {# years} }</string>
     <string name="duration_years_shortest_future">in %dy</string>
     <string name="dynamic_mode_notification_channel_name">Routine Mode info notification</string>
     <string name="dynamic_mode_notification_summary">Battery Saver activated to extend battery life</string>
@@ -711,6 +721,7 @@ If you have questions, contact your organization's admin."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Feature code complete.</string>
     <string name="fcError">Connection problem or invalid feature code.</string>
+    <string name="file_count">{count, plural, =1 {{file_name} + # file} other {{file_name} + # files} }</string>
     <string name="find">Find</string>
     <string name="find_next">Find next</string>
     <string name="find_on_page">Find on page</string>
@@ -971,6 +982,7 @@ Try again in %2$d seconds."</string>
     <string name="language_picker_section_suggested">Suggested</string>
     <string name="language_selection_title">Add a language</string>
     <string name="last_month">Last month</string>
+    <string name="last_num_days">{ count, plural, =1 {Last # day} other {Last # days} }</string>
     <string name="launchBrowserDefault">Launch Browser?</string>
     <string name="launch_warning_original">%1$s was originally launched.</string>
     <string name="launch_warning_replace">%1$s is now running.</string>
@@ -1068,6 +1080,7 @@ If you don’t allow this app to access all device logs, it can still access its
     <string name="managed_profile_label_badge">Work %1$s</string>
     <string name="managed_profile_label_badge_2">2nd Work %1$s</string>
     <string name="managed_profile_label_badge_3">3rd Work %1$s</string>
+    <string name="matches_found">{ count, plural, =1 {# match} other {# of {total}} }</string>
     <string name="maximize_button_text">Maximize</string>
     <string name="me">Me</string>
     <string name="media_route_button_content_description">Cast</string>
@@ -1972,6 +1985,7 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="ssl_ca_cert_noti_by_administrator">By your work profile admin</string>
     <string name="ssl_ca_cert_noti_by_unknown">By an unknown third party</string>
     <string name="ssl_ca_cert_noti_managed">By %s</string>
+    <string name="ssl_ca_cert_warning">{count, plural, =1 {Certificate authority installed} other {Certificate authorities installed} }</string>
     <string name="ssl_certificate">Security certificate</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
     <string name="status_bar_airplane">airplane</string>
@@ -2215,6 +2229,14 @@ Do you want to close it?"</string>
     <string name="zen_mode_default_weekends_name">Weekend</string>
     <string name="zen_mode_default_weeknights_name">Weeknight</string>
     <string name="zen_mode_downtime_feature_name">Downtime</string>
+    <string name="zen_mode_duration_hours">{count, plural, =1 {For 1 hour} other {For # hours} }</string>
+    <string name="zen_mode_duration_hours_short">{count, plural, =1 {For 1 hr} other {For # hr} }</string>
+    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {For 1 hour (until {formattedTime})} other {For # hours (until {formattedTime})} }</string>
+    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {For 1 hr (until {formattedTime})} other {For # hr (until {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes">{count, plural, =1 {For one minute} other {For # minutes} }</string>
+    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {For 1 min} other {For # min} }</string>
+    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {For one minute (until {formattedTime})} other {For # minutes (until {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {For 1 min (until {formattedTime})} other {For # min (until {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Do not disturb</string>
     <string name="zen_mode_forever">Until you turn off</string>
     <string name="zen_mode_forever_dnd">Until you turn off Do Not Disturb</string>
@@ -2233,9 +2255,16 @@ Do you want to close it?"</string>
     <string name="allow_dialog_push">Allow push</string>
     <string name="app_hidden_des">No App can handle this operation.</string>
     <string name="app_hidden_not_found">No App can be opened</string>
+    <string name="app_screencast_cancel">Cancel</string>
+    <string name="app_screencast_openapp_screencast_open">Ok</string>
+    <string name="app_screencast_title">%s app is being used by other display. Do you want to switch back to the phone</string>
     <string name="app_switch_warning_cancel">Cancel</string>
     <string name="app_switch_warning_open">Open</string>
     <string name="app_switch_warning_title">“%1$s” trying to open “%2$s”</string>
+    <string name="autofill_save_type_account">username and password</string>
+    <string name="autofill_save_type_bankcard">bank card</string>
+    <string name="autofill_save_type_license">identification</string>
+    <string name="autofill_update_title_flyme">Do you want me to update your password?</string>
     <string name="avoid_power_key_misoperation_tips">Press again to turn the screen off</string>
     <string name="barringPWBlocked">Barring password blocked</string>
     <string name="battery_consumption_balance_title">Balanced</string>
@@ -2404,11 +2433,14 @@ Do you want to close it?"</string>
     <string name="mz_chooser_name_file">File</string>
     <string name="mz_chooser_name_file_manager">File</string>
     <string name="mz_chooser_name_file_unknown">Unknown File</string>
+    <string name="mz_chooser_name_link">Link</string>
     <string name="mz_chooser_name_map">Address</string>
     <string name="mz_chooser_name_music">Music file</string>
+    <string name="mz_chooser_name_nfc">Discovered NFC Tags</string>
     <string name="mz_chooser_name_pdf">PDF</string>
     <string name="mz_chooser_name_picture">Picture</string>
     <string name="mz_chooser_name_ppt">PowerPoint</string>
+    <string name="mz_chooser_name_prefix_from">From：\"%s\"</string>
     <string name="mz_chooser_name_txt">Text</string>
     <string name="mz_chooser_name_video">Video</string>
     <string name="mz_chooser_name_word">Word</string>
@@ -2731,7 +2763,8 @@ Do you want to close it?"</string>
     <string name="specail_number_zhongxin">CITIC Bank</string>
     <string name="status_bar_dual_wifi">dual_wifi</string>
     <string name="status_bar_no_sims">no_sims</string>
-    <string name="sub_gesture_control_path_string">/sys/class/meizu/sub_tp/gesture_control</string>
+    <string name="stealth_mode_description">Disable microphone, camera and location information for all applications</string>
+    <string name="stealth_mode_title">Stealth mode is on</string>
     <string name="system_booting">System booting…</string>
     <string name="tethered_notification_message">Tap to set up</string>
     <string name="tethered_notification_message_devices">Portable hotspot: %1$d connection(s)</string>
@@ -2739,8 +2772,6 @@ Do you want to close it?"</string>
     <string name="tethered_notification_title">Network share is active</string>
     <string name="tethered_notification_title_devices">Network shared to %1$d devices</string>
     <string name="tethered_notification_title_one_device">Network shared to %1$d device</string>
-    <string name="third_app_path">/product/custom/3rd-party/apk</string>
-    <string name="third_app_path_2">/product/custom/3rd-party/apk2</string>
     <string name="top_message">This is a beta firmware, so please use it within reasonable limits.</string>
     <string name="unsupport_analog_typec_got_it">Got it</string>
     <string name="unsupport_analog_typec_message">Use digital adapters or headphones for high-quality audio experience</string>
@@ -2786,4 +2817,15 @@ Do you want to close it?"</string>
     <string name="wm_notification_channel_name">App Quick Look</string>
     <string name="wm_notification_running_text">Hidden floating apps that continue to run when the screen is off</string>
     <string name="wm_notification_running_title">%s · playing sound</string>
+    <string name="lock_to_app_description">"Locks the screen anchor display to a single view
+
+To unpin, touch and hold the Home and Power buttons together."</string>
+    <string name="lock_to_app_description_accessible">"Locks the screen anchor display to a single view
+
+To unpin, touch and hold the Home and Power buttons together."</string>
+    <string name="lock_to_app_toast">To unpin this screen, touch and hold the Home and Power buttons together.</string>
+    <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold the Home and Power buttons together.</string>
+    <string name="tethered_notification_multi_device_message">Connected devices: %1$s</string>
+    <string name="tethered_notification_no_device_message">There are no devices connected</string>
+    <string name="tethered_notification_one_device_message">%1$s device connected</string>
 </resources>

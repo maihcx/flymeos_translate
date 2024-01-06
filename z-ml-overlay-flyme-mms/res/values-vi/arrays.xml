@@ -28,16 +28,16 @@
         <item>Thư viện âm thanh</item>
     </string-array>
     <string-array name="custom_time_picker_lunar_day">
-        <item>Mùng 1</item>
-        <item>Mùng 2</item>
-        <item>Mùng 3</item>
-        <item>Mùng 4</item>
-        <item>Mùng 5</item>
-        <item>Mùng 6</item>
-        <item>Mùng 7</item>
-        <item>Mùng 8</item>
-        <item>Mùng 9</item>
-        <item>Mùng 10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
         <item>11</item>
         <item>12</item>
         <item>13</item>

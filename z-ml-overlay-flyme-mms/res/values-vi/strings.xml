@@ -1309,21 +1309,28 @@
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
     <string name="vcard_birthday">"Sinh nhật:%1$s
-"</string> <string name=vcard_contacts">%d liên hệ</string>
+"</string>
+    <string name="vcard_contacts">%d liên hệ</string>
     <string name="vcard_contacts_view">Xem thẻ</string>
     <string name="vcard_email">"Email:%1$s
-"</string> <string name=vcard_header_single">Thẻ liên hệ</string>
+"</string>
+    <string name="vcard_header_single">Thẻ liên hệ</string>
     <string name="vcard_ims">"Tin nhắn tức thời:%1$s
-"</string> <string name=vcard_name">Tên</string>
+"</string>
+    <string name="vcard_name">Tên</string>
     <string name="vcard_nickname">"Biệt danh:%1$s
-"</string> <string name=vcard_note">"Ghi chú:%1$s
-"</string> <string name=vcard_number_hint">Điện thoại:</string>
+"</string>
+    <string name="vcard_note">"Ghi chú:%1$s
+"</string>
+    <string name="vcard_number_hint">Điện thoại:</string>
     <string name="vcard_organization">"Công việc:%1$s
-"</string> <string name=vcard_phone">Điện thoại:%s</string>
+"</string>
+    <string name="vcard_phone">Điện thoại:%s</string>
     <string name="vcard_postal">"Địa chỉ:%1$s
-"</string> <string name=vcard_tel">Số điện thoại</string>
-    <string name="vcard_website">"Trang web:%1$s
-"</string> <string name=view_by_slide_title">Xem dưới dạng slide</string>
+"</string>
+    <string name="vcard_tel">Số điện thoại</string>
+    <string name="vcard_website">"Trang web:%1$s"</string> 
+    <string name="view_by_slide_title">Xem dưới dạng slide</string>
     <string name="view_message_details">Chi tiết</string>
     <string name="view_more_conversations">Xem thêm cuộc trò chuyện</string>
     <string name="voice_text_normal">Nhấn và giữ trong khi nói</string>
